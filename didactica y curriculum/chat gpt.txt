@@ -1,0 +1,53 @@
+Ambas planificaciones son herramientas útiles para los docentes, ya que les permiten organizar el contenido y los objetivos de la materia, así como planificar actividades y evaluar el desempeño de los alumnos.
+
+La planificación anual es un documento que contiene una visión general del contenido y los objetivos que se cubrirán durante el año escolar. Proporciona una visión amplia y clara del progreso del plan de estudios, lo que permite a los docentes diseñar una estrategia efectiva y un programa de enseñanza apropiado para sus alumnos.
+
+La planificación anual se divide en unidades y cada una de ellas se enfoca en un tema específico. En cada unidad se describen los objetivos, contenidos, actividades y evaluaciones correspondientes. Es una herramienta útil para evaluar el desempeño del alumno y realizar cambios en la enseñanza si es necesario.
+
+En cuanto a las actividades de los alumnos, se pueden planificar diferentes tipos de actividades para alcanzar los objetivos específicos de la materia. Por ejemplo, en la planificación de Tecnología se mencionan actividades tales como la construcción de una definición de tecnología mediante un debate o la valoración de objetos del entorno como fuente de información para la resolución de un problema.
+
+En resumen, la planificación anual es una herramienta fundamental para los docentes, ya que les permite organizar y planificar el contenido, las actividades y la evaluación de la materia. Además, les permite evaluar y ajustar el desempeño de los alumnos, lo que contribuye a la mejora continua de la enseñanza.
+
+Las dos planificaciones presentadas son diferentes en términos de estructura y contenido, sin embargo, ambas contienen componentes importantes para la enseñanza. En el primer ejemplo, la planificación está estructurada por unidades, objetivos, contenidos, actividades, evaluación, tiempo y observaciones. Además, esta planificación es muy detallada y se enfoca en temas relacionados con la inserción laboral y el desarrollo profesional de los estudiantes. Los objetivos de aprendizaje son claros y específicos, y las actividades están diseñadas para ayudar a los estudiantes a alcanzar estos objetivos. La evaluación se lleva a cabo a través de exámenes escritos, orales, cuestionarios y trabajos prácticos, lo que sugiere que el profesor está buscando evaluar una variedad de habilidades y conocimientos.
+
+En el segundo ejemplo, la planificación está estructurada por unidades, objetivos, contenidos conceptuales, procedimentales y aptitudinales, actividades de los alumnos, evaluación y número de horas. Esta planificación se centra en la introducción a la tecnología, con un enfoque en la definición de tecnología, su importancia social e histórica y la metodología de resolución de problemas. Los objetivos de aprendizaje están enfocados en adquirir conocimientos mínimos necesarios para la introducción de la materia, apreciar la importancia estratégica de la tecnología en la sociedad actual y adquirir hábitos de investigación.
+
+En ambos ejemplos, los profesores parecen tener un estilo de planificación detallado y estructurado, pero el primer ejemplo es mucho más detallado en cuanto a objetivos específicos, actividades y evaluación. En general, ambas planificaciones parecen completas y detalladas, aunque pueden ser mejoradas con más detalles sobre cómo se llevarán a cabo las actividades y cómo se evaluarán los objetivos de aprendizaje.
+
+En resumen, la Didáctica es el estudio de cómo enseñar y su origen se remonta a Juan Amos Comenio y su obra "Didáctica Magna". La enseñanza es el objeto de estudio de la Didáctica y la mayoría de los estudios bibliométricos están relacionados con la enseñanza en la escuela, debido a su relevancia social, política y económica. Aunque antes la Didáctica tenía un carácter descriptivo y recetario, actualmente se enfoca en la investigación para entender cómo se enseña en la escuela y encontrar la mejor manera de enseñar a un determinado grupo. El contenido de la enseñanza es establecido a nivel estatal y la Didáctica se dedica a que los docentes encuentren la forma más adecuada para enseñar lo que está establecido. La evaluación también es parte de la enseñanza y el aula virtual se ha vuelto más común en la actualidad. A pesar de que la pandemia de COVID-19 alteró la forma de enseñar, se espera que todo vuelva a su cauce normal.
+
+Based on the text, it can be inferred that planning in education:
+
+1. Was not always formalized in a document called planning.
+2. Became a common practice in Argentina and Latin America in the late 1960s and early 1970s as part of an educational reform movement.
+3. Aims to provide rationality and efficiency to teaching.
+4. Requires specific training and knowledge, beyond expertise in a subject area.
+5. Is important for teachers to anticipate the class and provide a better learning experience for their students.
+
+Additionally, the text mentions that the concept of planning was implemented in response to criticisms that the school was outdated and not providing valuable knowledge to students. It also notes that the creation of teacher training programs, such as the Instituto de Profesorado de Escuela Media, aimed to address the need for specific training in teaching.
+
+Correcto, la planificación puede variar en su alcance y temporalidad, dependiendo del nivel educativo y la asignatura en cuestión. Es importante recordar que la planificación no es un proceso estático, sino que puede ser revisada y ajustada a lo largo del tiempo en función de los resultados obtenidos y las necesidades de los estudiantes. Además, una buena planificación debe ser flexible y adaptarse a las características y ritmos de aprendizaje de cada grupo de estudiantes.
+
+In this class, the professor talked about evaluation in education. They explained that when we think about evaluation, we often think about exams and grades, which are seen as a way to accredit what the student learned from the educational system. However, evaluation is a broader concept that involves collecting information about the teaching and learning process and using that information to make decisions.
+
+The professor also highlighted that evaluation should be part of the teaching process and that putting it outside the course makes the teacher less responsible for the results. They pointed out that if a high percentage of students fail an evaluation, it is necessary to analyze the teaching process and make changes.
+
+The professor also talked about the different types of evaluation. Summative evaluation is the one that takes place at the end of a teaching period and is used to accredit what the student learned. Meanwhile, diagnostic and process evaluation are not accreditation-focused and are used to collect information to guide teaching decisions.
+
+Finally, the professor emphasized that evaluation should not be only focused on the student's knowledge but also on their skills and that teachers must know the subject well to be objective in evaluation. They also pointed out that evaluation is not only about giving grades but also about understanding the teaching and learning process.
+
+Los componentes de la planificación didáctica pueden variar dependiendo del enfoque o modelo que se utilice, pero en general suelen incluir los siguientes elementos:
+
+1. Objetivos: son las metas que se esperan alcanzar con la enseñanza y aprendizaje de una unidad o tema en particular. Deben ser específicos, medibles, alcanzables, relevantes y estar orientados al tiempo.
+
+2. Contenidos: son los conocimientos, habilidades y actitudes que se pretenden desarrollar en los estudiantes. Deben estar organizados de manera secuencial y lógica para facilitar el proceso de aprendizaje.
+
+3. Estrategias metodológicas: son las técnicas, recursos y herramientas que se van a utilizar para lograr los objetivos y transmitir los contenidos. Deben ser variadas, dinámicas y ajustadas a las necesidades y características de los estudiantes.
+
+4. Evaluación: es el proceso mediante el cual se mide el nivel de logro de los objetivos y el aprendizaje de los estudiantes. Debe ser continua, formativa y permitir la retroalimentación para mejorar el proceso de enseñanza y aprendizaje.
+
+5. Recursos: son los materiales y medios necesarios para llevar a cabo la enseñanza y aprendizaje de los contenidos. Pueden ser recursos didácticos, tecnológicos, humanos o físicos.
+
+6. Temporalización: es la distribución del tiempo y la secuencia de las actividades y contenidos a lo largo del proceso de enseñanza y aprendizaje. Debe estar adaptada a las necesidades y ritmos de aprendizaje de los estudiantes.
+
+7. Adaptaciones curriculares: son las modificaciones que se realizan en la planificación para atender a las necesidades específicas de algunos estudiantes, como aquellos con discapacidad o con necesidades educativas especiales.
