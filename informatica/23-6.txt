@@ -1,0 +1,8 @@
+La materia que yo doy es tecnologia de la informacion.
+La forma en que relacionaria mi materia con el laberinto es el tema de los tipos de datos booleanos y las sentencias condicionales.
+Los tipos de datos logicos son llamados booleanos por George Boole. Representan logica binaria, o sea 2 valores diferentes. estos pueden ser verdadero o falso, 0 y 1, izquierda o derecha, si un boton fue presionado o no, etc. A estos datos se le pueden agregar operadores logicos para obtener como resultado un nuevo dato logico.
+Las sentencias condicionales obtienen un dato logico y en base a su valor verdadero o falso se realizan una serie de pasos. La sentencia mas conocida de este tipo es "si ... entonces ... sino".
+Cuando se manejan entradas en los videojuegos por lo general se usan sentencias condicionales en base a si se apretan o no determinados botones para por ejemplo mover a un personaje dentro de un laberinto. Tambien se puede usar un condicional para determinar si se va a girar a la izquierda o a la derecha.
+Tambien quiero destacar que existen algoritmos para resolver, encontrar el camino mas corto y crear laberintos.
+Un algoritmo es un conjunto de instrucciones o reglas definidas y no-ambiguas, ordenadas y finitas que permite, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades.
+Dado un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.
