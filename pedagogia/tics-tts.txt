@@ -1,0 +1,315 @@
+Claves para integrar las TIC
+en la escuela
+Primera clave: Construir la relación con las tecnologías
+Las percepciones y expectativas que tengamos respecto de las virtudes y potenciali-
+dades de las nuevas tecnologías influyen en el tipo de acercamiento y utilización que
+hagamos de ellas. Según investigaciones recientes 21
+, los docentes acuerdan en reconocer
+como aspectos positivos, que las TIC facilitan la tarea pedagógica, mejoran la calidad
+de la educación y amplían las oportunidades de acceso al conocimiento. Por otro lado,
+muchos perciben como aspectos negativos, la sensación de “deshumanización de la ense-
+ñanza” y la creencia de que las tecnologías pueden alentar el “facilismo” en los alumnos.
+Frente a este campo de opiniones es oportuno recordar que las tecnologías disponen al-
+gunos parámetros para la acción individual y social. Es decir, facilitan la realización de
+distintos tipos de acciones, interacciones, organizaciones, aprendizajes, etc., y dificultan
+otros. Esta es, en pocas palabras, la definición de affordances22
+, un concepto que no
+tiene una traducción literal al español pero que podríamos decir que se entiende en tér-
+minos relacionales: la tecnología nos ofrece ciertas oportunidades y nosotros creamos,
+compartimos significados, representaciones, valores, y desarrollamos actividades y usos
+preferidos alrededor de ellas. En este sentido, en el uso, en la relación que establecemos
+con las tecnologías, ellas nos cambian a nosotros y nosotros a ellas.
+Es importante destacar, también, que el contexto en que la interacción con la tecnología ocu-
+rre interviene significativamente en la definición de la experiencia. Nuestro vínculo con la
+tecnología no se realiza de forma aislada: los diversos patrones de adopción y de uso resultan
+de las diferentes prácticas sociales en las que se insertan, y no de las tecnologías en sí mis-
+mas. Las representaciones culturales juegan un papel destacado en la percepción social de la
+posición y la naturaleza de la tecnología, la actividad a realizar con ella y los valores que se
+dan al encuentro. Esta es una idea importante que muchos autores enfatizan para no incurrir
+en el determinismo tecnológico, según el cual la tecnología es la única causa de los cambios
+cognitivos, de las prácticas sociales, de las ideas y de las formas de vivir en sociedad. En esta
+línea de pensamiento, muchos cayeron en la simplificada explicación de que la escritura, la
+alfabetización y la imprenta –especialmente– provocaron la libertad religiosa en Occidente,
+la revolución industrial y científica, los orígenes de la democracia y del capitalismo, etc. En
+contraposición, otros autores han mostrado que no es la tecnología de la escritura en sí mis-
+ma la que causa desarrollos cognitivos nuevos, como por ejemplo: categorización, memoria,
+razonamiento lógico, etc., sino los procesos de escolarización involucrados, la valoración
+social de estas actividades y la conformación de dispositivos institucionales que las impulsen
+y estimulen.23 Este es uno de los sentidos en que planteamos que la relación con las nuevas
+tecnologías se construye. Es por eso, también, que en este módulo vamos a hablar de las
+TIC en términos de oportunidades, de posibilidades de acción percibidas en torno a ellas, de
+desafíos, y no tanto de efectos como algo que podamos predecir.
+Crear contextos de aprendizaje con TIC
+Con el fin de lograr una mayor claridad expositiva y, a la vez, intentando evitar lo que
+de acuerdo con lo dicho sería una visión reduccionista del asunto, ordenaremos y pro-
+blematizaremos en este apartado algunos de los aportes u oportunidades de las nuevas
+tecnologías según distintos enfoques.
+Desde una perspectiva instrumental, podríamos decir que las principales contribuciones
+de las nuevas tecnologías a las actividades humanas se concretan en una serie de fun-
+ciones que facilitan la realización de las tareas, porque estas, sean las que sean, siempre
+requieren de una cierta información para ser realizadas, de un determinado procesa-
+miento de esta y, a menudo, de la comunicación con otras personas.
+En términos generales, las nuevas tecnologías facilitan el acceso a la información sobre mu-
+chos y variados temas, en distintas formas (textos, imágenes fijas y en movimiento, sonidos), a
+través de Internet, el CD-ROM, el DVD, etc. Y también son instrumentos que permiten:
+• procesar datos de manera rápida y fiable: realizar cálculos, escribir y copiar textos,
+crear bases de datos, modificar imágenes; para ello hay programas especializados: hojas
+de cálculo, procesadores de textos, gestores de bases de datos, editores de gráficos, de
+imágenes, de sonidos, de videos, de presentaciones multimedia y de páginas web, etc;
+• automatizar tareas;
+• almacenar grandes cantidades de información
+• establecer comunicaciones inmediatas, sincrónicas y asincrónicas24
+,
+• trabajar y aprender colaborativamente;
+• producir contenidos y publicarlos en la Web;
+• participar en comunidades virtuales.
+Ahora bien, más allá de todo lo que podamos hacer, ¿cuáles serían las oportunidades
+en el ámbito educativo? Se podría empezar planteando que lo que nos permite avanzar
+en una nueva comprensión es ver que las TIC son un conjunto de herramientas con las
+cuales el individuo interactúa de forma activa formando –como proponen Gavriel Salo-
+mon, David Perkins y Tamar Globerson (1992), investigadores en temas de tecnología
+y educación– una asociación intelectual que le posibilita realizar tareas de forma más
+eficiente y en menos tiempo, y también utilizarlas como “herramientas para pensar”25
+.
+En las últimas dos décadas ha cobrado fuerza la perspectiva de la “cognición distribui-
+da”. Es decir, considerar la inteligencia humana como distribuida más allá del ámbito
+del organismo propio, abarcando a otras personas, apoyándose en los medios simbólicos
+y aprovechando el entorno y los artefactos. En palabras de Perkins, sería la “perso-
+na-más” el entorno. Es decir, la persona puede mejorar su rendimiento, ampliar sus
+capacidades o ir más allá, lograr cambios en profundidad en sus procesos de compren-
+sión. A las TIC que ofrecen una asociación o colaboración intelectual se las ha llamado
+“instrumentos cognitivos” o “tecnologías de la mente” porque potencialmente permiten
+al estudiante pensar a un nivel que trasciende las limitaciones de su sistema cognitivo.
+Para los autores mencionados, “la obra de una persona en colaboración con la tecnología
+podría ser mucho más ‘inteligente’ que la obra de la persona a solas”. 26 Advierten, sin
+embargo, que la colaboración exige esfuerzo y que si se pretende un desarrollo supe-
+rior, el estudiante debe participar en forma comprometida, con atención voluntaria (en
+forma “no-automática”) y dirigir la tarea metacognitivamente. Salomon (1992) señala
+que esta asociación intelectual es análoga a la situación que se suscita cuando un grupo
+de personas reúne sus capacidades mentales para resolver conjuntamente un problema,
+plantear una estrategia o crear un diseño complejo. Según el autor, “algunos dominarán
+determinados temas y al exteriorizarlo darán la posibilidad a los otros miembros del
+grupo de emplear procesos que no podrían utilizar solos”. Ahora bien, dado este tipo
+de asociación, podemos preguntarnos dónde reside la inteligencia. El autor explica: “Se
+podría argumentar que la inteligencia no es una cualidad solamente de la mente, sino
+que es un producto de la relación entre las estructuras mentales y las herramientas in-
+telectuales provistas por la cultura”. Perkins (2001) comenta que el pensamiento y el
+aprendizaje distribuidos en la persona-más aparecen con mayor claridad en situaciones
+en que se desarrolla una indagación auténtica y amplia: un estudiante que elabora un
+ensayo, un publicitario que piensa una campaña, un director que realiza una película, un
+ingeniero que diseña un puente. Según este autor, en educación, generalmente, el enfoque
+se centra en la persona “solista”, que utiliza enciclopedias, libros, textos, materiales para
+estudiar, pero para ejecutar raramente está provisto de otra cosa que no sea un lápiz y
+papel. Ya que para el autor la persona solista no es verosímil en la vida real, enfatiza que
+las escuelas deberían ayudar a los alumnos a manejar el arte de la cognición distribuida.
+Además, el eficaz aprovechamiento del entorno no se produce automáticamente, sólo
+porque está ahí, disponible. Si no se les enseña, los estudiantes tienden a pasar por alto
+algunos de los mejores usos de las “estructuras de apoyo físico, simbólico o social” que
+están a su alcance. Por ejemplo, los resúmenes, títulos, índices y el conocimiento de las
+estructuras textuales forman parte del sistema de apoyo simbólico para llevar a cabo
+una lectura eficaz. Sin embargo, sin formación en estrategias de lectura, los alumnos no
+pueden sacar provecho de ellas y suelen leer linealmente desde el principio hasta el fin.
+Si pensamos en torno a las TIC, encontramos oportunidades de cultivar todo tipo de
+habilidades referidas a la distribución ingeniosa del pensamiento y el aprendizaje. Las
+claves son, de algún modo, una orientación en ese sentido.
+Muchas veces se ha planteado que, dado el aumento creciente de la información dispo-
+nible en Internet, ya no sería tan importante enseñar contenidos sino habilidades para
+el manejo de esa información. Sin embargo, desde la perspectiva que estamos presen-
+tando, esta distinción carece de fundamento, ya que un aspecto fundamental en el arte
+de la cognición distribuida es la enseñanza de conocimientos. Detengámonos en este
+punto. Por lo general, la comprensión de una disciplina no solo conlleva conocimiento
+del “nivel del contenido” (hechos, procedimientos), sino también lo que podría llamarse
+conocimiento de “orden superior”, acerca de las estrategias de resolución de problemas,
+estilos de justificación, explicación y características investigativas del dominio en cues-
+tión, porque es este nivel el que incide en la capacidad de hacer, de resolver problemas,
+de plantear abordajes, etc. Estas estrategias y modelos proporcionan los caminos prin-
+cipales entre los cuales elegir el comportamiento pertinente en el dominio, y son los
+que infunden significado a las actividades relacionadas con él. Al faltar la estructura de
+orden superior, el ejecutante se ve limitado en sus opciones. De acuerdo con Perkins,
+“una perspectiva centrada en la persona-más señala que los parámetros y
+trayectorias básicas del desarrollo humano pueden cambiar según lo que
+comúnmente podrían considerarse matices del entorno y de la relación de
+la persona con él. Y seguramente resulta posible imaginar un proceso edu-
+cativo que se oriente en mayor grado hacia la persona-más, fortaleciendo
+a los alumnos para que acumulen mayor saber y arte en relación con los
+recursos cognitivos suministrados por los medios físicos y humanos que
+los rodean; en realidad, fortaleciendo a los alumnos para que construyan a
+su alrededor su “más” personal, su propio entorno para un programa que
+evolucione junto con ese entorno”.
+En síntesis, el sentido de construir la relación va por el lado de enseñar a aprovechar los
+sistemas de apoyo en situaciones auténticas y dar las herramientas para el conocimiento
+de orden superior.
+Ahora, ampliando la mirada con una perspectiva social y política, las escuelas que en-
+señen a los jóvenes a hacer un uso significativo de las TIC y aprovechar los sistemas
+de apoyo a la cognición, les abrirán las puertas a nuevas posibilidades de acceso a un
+mayor flujo de información, mayores ocasiones para el acercamiento a fuentes de ense-
+ñanza y oportunidades laborales. Porque como veremos en este módulo, las tecnologías
+de la información y la comunicación no son simplemente un medio o una herramienta
+para desarrollar la inteligencia, sino un espacio multidimensional, público, colaborativo,
+para la construcción de ideas, conceptos e interpretaciones, la organización y la acción. Las
+TIC aportan un espacio que puede integrarse y complementar las tareas del aula, especial-
+mente en la experimentación y aprendizaje de otras formas de conocer y otros modos
+de expresarse, de comunicarse y de hacerse visible. También, la mayor disponibilidad
+de información será mejor aprovechada si se enseña a los jóvenes a plantear preguntas
+y recortar los problemas con enfoques novedosos, pertinentes y significativos (conoci-
+miento de orden superior). Finalmente, y no por eso menos importante, tenemos frente
+a nosotros ocasiones potenciales para propiciar, alentar y preparar a los jóvenes para la
+participación en la vida social y pública con ideas y criterios propios. Así, el mayor y
+mejor acceso a las oportunidades que brindan las TIC contribuiría a la democratización
+Medios para la participación
+Howard Rheingold –autor ya mencionado en este material– piensa que las nuevas tec-
+nologías, como los teléfonos celulares y las computadoras en red, pueden usarse como
+medios para la participación en la democracia. A continuación resumiremos algunas
+de sus propuestas con relación a este tema.
+• Aprender a usar estas tecnologías, comunicarse y organizarse puede ser la más im-
+portante competencia ciudadana que los jóvenes deban incorporar.
+• La voz pública es un modo de unir las competencias sobre medios y el compromiso
+cívico. Los jóvenes que participen en redes sociales on-line acceden a otros espacios de
+lo público, ya que no solo consumen sino también crean en ambientes digitales: buscan,
+adoptan, se apropian, inventan formas de participar en la producción cultural.
+• Los jóvenes suelen guiarse entre sí en el uso de TIC, pero también necesitan orienta-
+ción acerca de cómo aplicar estas habilidades en procesos democráticos. Los medios
+para la participación pueden ser una herramienta poderosa para alentar a los jóvenes a
+comprometerse, con voz propia sobre temas que les preocupan. Llevarlos de la expre-
+sión privada a la pública puede ayudarlos a convertir la autoexpresión en otras formas de
+participación. La voz pública se aprende, y es un asunto de compromiso consciente con
+un público activo, más que una simple difusión de mensajes a una audiencia pasiva.
+• La voz de los individuos reunida y en diálogo con las voces de otros es la base funda-
+mental de la opinión pública. Cuando esta tiene el poder y la libertad de influenciar las
+decisiones públicas y crece desde el debate abierto, racional, crítico entre pares, puede
+ser un instrumento esencial para la gobernabilidad.
+• Los actos de comunicación son fundamentales en la vida política y cívica de una de-
+mocracia. Mostrando a los estudiantes cómo usar las TIC para informar al público, dar
+apoyo a causas, organizar acciones en torno a ciertos asuntos, los medios para la parti-
+cipación pueden insertarlos en sus primeras experiencias positivas de ciudadanía.
+• La producción en los medios es diferente de la producción de, por ejemplo, bienes econó-
+micos, porque tiene la capacidad de persuadir, inspirar, educar, orientar el pensamiento y las
+creencias. El poder técnico de las redes de comunicación es importante porque multiplica
+las capacidades humanas y sociales preexistentes de formar asociaciones que posibilitan
+acciones colectivas. Las redes electrónicas permiten aprender, discutir, deliberar, organizarse
+a escalas mucho mayores y a ritmos a los que antes no era posible. La cultura participativa
+debe poner el foco en la expresión y en el involucramiento en la comunidad. Estas nuevas
+competencias que se asocian a la esfera social de colaboración y participación deben asen-
+tarse en la alfabetización tradicional, las habilidades técnicas y de pensamiento crítico.
+en general de la sociedad y proporcionaría a los estudiantes y a las comunidades un va-
+lor agregado a su propia educación, formación y desarrollo.
+La enseñanza y las tecnologías
+Podemos decir que, en forma paralela a la difusión de los medios de comunicación y las
+nuevas tecnologías en el mundo del trabajo y del tiempo libre, los sistemas educativos
+han intentado, con mayor o menor éxito, incluirlos en las prácticas de enseñanza. En lí-
+neas generales, se ha partido de una visión centrada en las posibilidades del medio, para
+motivar a los alumnos y facilitar la comprensión de los contenidos curriculares.
+No obstante lo señalado, se observa que la incorporación de nuevas tecnologías en la
+educación genera, con cierta frecuencia, “ciclos de fracaso”. 27 Cuando una tecnología
+es desarrollada y lanzada al mercado, surgen diversos intereses y factores que tienden a
+aplicarla a la solución de problemas educativos. De esta forma, se generan expectativas
+que no se cumplen. Crece la percepción de que el uso es inadecuado e improducti-
+vo, produciendo el efecto paradójico de reforzar los viejos moldes educativos que se
+pretendía transformar. Esto se explicaría, entre otros factores, por la creencia de que
+la incorporación de las nuevas tecnologías garantiza per se el cambio educativo y lo
+justifica. Es lo que se denomina enfoque tecnocéntrico. O, por el contrario, la tendencia
+a asimilar las nuevas tecnologías a las prácticas educativas existentes y utilizarlas para
+hacer aquello que concuerda con la filosofía y prácticas pedagógicas prevalecientes.
+La inclusión de nuevas tecnologías lograría resultar una innovación si fuese acompañada de
+cambios conceptuales en la concepción de su uso y de la reflexión sobre por qué y para qué
+utilizarlas, cuáles son los aportes y qué tipo de aprendizaje se puede promover con ellas.
+Es importante detenernos un momento en este punto para enfatizar la necesidad de te-
+ner en cuenta la dimensión humana cuando se busca impulsar transformaciones de esta
+naturaleza. En la adopción de TIC no solo son importantes las consideraciones sobre
+las oportunidades de aprendizaje, sino también las cuestiones relativas a las personas
+involucradas en el proceso y los marcos institucionales en que se produce.
+Las formas de pensar y los modos de hacer, de desempeñar la labor, están asociados,
+entre otras cosas, a las tecnologías utilizadas (libros, tiza y pizarrón, etc.), y están
+profundamente arraigados en las personas –docentes, directivos y alumnos– y en las
+culturas institucionales. Esto forma parte de lo que se denomina conocimiento tácito,
+conocimiento práctico, teorías implícitas o esquemas prácticos de acción. Cualquiera
+de estas denominaciones, haciendo énfasis en algunos aspectos más que en otros, apunta
+a explicar que se trata de un conocimiento que sólo puede ser formalizado parcialmente,
+que ha sido acumulado a lo largo del tiempo a través de procesos de aprendizaje de la
+propia práctica pedagógica, y que se aplica ante una variedad de situaciones concretas e
+irrepetibles, articulando respuestas complejas. 28 Son teorías implícitas personales sobre
+la enseñanza y el aprendizaje que también han sido reconstruidas sobre conocimientos
+pedagógicos elaborados y transmitidos en la formación. Estas teorías o esquemas tácitos
+tienen fuerza determinante en relación con las prácticas, en el sentido de que permiten
+regularlas y controlarlas, y además poseen cierta estabilidad.
+En síntesis, este es un tipo de conocimiento experiencial, representado en imágenes o
+esquemas, de carácter subjetivo, personal y situacional y a la vez propio de un colectivo
+profesional. Tenerlo en cuenta, nos permite entender que enseñar no es simplemente
+aplicar un currículum y cumplir con los objetivos de contenido, porque permanentemen-
+te desarrollamos tareas que no pueden ser pautadas por manuales de procedimientos ni
+por planificaciones. Considerar el conocimiento tácito se vuelve fundamental cuando se
+promueven procesos de cambio.
+Este modo de entender aquello que da forma y sustenta los principios de actuación do-
+cente nos permite, a su vez, comprender que la incorporación de una nueva tecnología
+puede suponer transformaciones profundas en formas de hacer arraigadas y la revisión
+de algunos supuestos sobre el conocimiento y las disciplinas, sobre el enseñar, el apren-
+der y cómo aprendemos para enseñar.
+Asimismo, debemos considerar que al incorporar TIC y cambiar la propuesta de en-
+señanza se modifica también, por un lado, el tipo de aprendizaje y de desempeño que
+esperamos de los jóvenes, esto es, su condición de estudiante. Y, por otro, se los embarca
+en otros usos de la tecnología a los que, tal vez, no estén acostumbrados (o, directa-
+mente, no han tenido acceso). El investigador en educación Gary Fenstermacher (1989:
+155) dice que “la tarea central de la enseñanza es permitir al estudiante realizar las
+tareas del aprendizaje”29 –a las que denomina “estudiantar”– y dar apoyo a la acción de
+estudiar. Es decir, el profesor debe instruir a los jóvenes acerca de los procedimientos
+y exigencias de su rol de estudiante, que, además de realizar las tareas de aprendizaje,
+“incluye tratar con profesores, habérselas con los propios compañeros, afrontar frente a
+los padres la situación de ser estudiante y también controlar los aspectos no académicos
+de la vida escolar”.
+Entendemos que ellos, a través de actividades que han llevado a cabo, las evaluaciones
+que les han sido presentadas, los estilos de los profesores a los que han tenido que adap-
+tarse y las rutinas de la institución, también han desarrollado un conocimiento tácito,
+unas formas de ser estudiante y, por supuesto, una serie de estrategias y “ardides” para
+jugar el juego de la relación pedagógica. Entonces, al modificarse las tareas de aprendi-
+zaje, las rutinas, etc., ellos tendrán que sumarse al cambio y avanzar hacia nuevos modos
+de “estudiantar” y hacia la incorporación de las TIC como apoyo físico a la cognición
+y las formas de aprender a ejercer la ciudadanía. Es decir, aunque ellos tengan contacto
+fuera de la escuela con las nuevas tecnologías, tendrán que aprender a aprender con
+ellas, utilizarlas en otros contextos y para otros fines, y afrontar el desafío de pensar de
+modos nuevos.
+Este es otro de los sentidos en que decimos que la relación con la tecnología hay que
+construirla.
+Los jóvenes y las nuevas tecnologías
+Otro aspecto que queremos plantear para esta construcción se deriva de lo expuesto
+recién y de la observación sobre la aproximación y el uso de las TIC que hacen los
+jóvenes que tienen acceso a ellas. En primer lugar, los jóvenes aprenden a utilizarlas
+en la cotidianeidad, por ensayo y error, desde el juego, de modo informal, implícito,
+intuitivo, visual, preguntándose y proporcionándose entre sí instrucciones simples,
+trucos y recomendaciones, con fines específicos de información, de entretenimiento y
+comunicación. A diferencia de muchos adultos, ellos entienden rápidamente el idioma
+de los botones y se manejan con soltura en la complejidad de las redes informáticas.
+Pareciera que, como dicen Jesús Martín Barbero y Germán Rey (1999), están dotados
+de una “plasticidad neuronal” y de una “elasticidad cultural”.
+En segundo lugar, se puede afirmar que son prácticas que tienden a masificarse entre
+ellos por ser símbolo de pertenencia a ciertos grupos. 30 Es decir, más allá de la facilidad
+que encuentran en manejar estas tecnologías, hay una suerte de estímulo a usarlas por
+ser fuente de diferenciación social.
+Por último, investigaciones recientes31 indican que los jóvenes, dentro de su marco de
+posibilidades, utilizan una amplia gama de medios y aparatos. Estos se distinguen entre
+“medios de primer plano” y “medios de fondo”. Los primeros son el foco de atención,
+mientras que los segundos conforman un ambiente agradable en el que trabajar y diver-
+tirse. Además, con frecuencia, usan dos o más al mismo tiempo. A esta capacidad se la
+denomina multitarea.
+Antes de continuar...
+Las investigaciones indican una tendencia entre los jóvenes, que puede confirmar-
+se o no entre aquellos que conocemos directamente. Podemos indagar, entre otras
+cuestiones, ¿hasta qué punto los nuevos medios están reemplazando a los medios de
+comunicación de masas y quitando tiempo a las actividades sociales tales como el de-
+porte y los hobbies?, ¿a qué aparatos tienen acceso y cuáles usan los jóvenes?, ¿dónde los
+utilizan y con qué propósitos? ¿Cómo retomar ese conocimiento que los estudiantes ya
+portan? ¿Qué nuevos implícitos habrá que esperar de los alumnos en el manejo de TIC?
+El profesor Kieran Egan (1999: 25) sostiene que “en la educación existe una tensión
+constante entre la enseñanza de los usos de acuerdo con los cuales los estudiantes ten-
+drán que vivir y el fomento de las capacidades que los habiliten para alcanzar alguna
+forma de libertad mental respecto de esos usos: haciendo de ellos más herramientas
+que condicionamientos”. ¿Cómo podríamos aprovechar la información proveniente de
+artículos e investigaciones, más aquella que surja de nuestros propios relevamientos,
+para mejorar –o ayudar a mejorar– las propuestas de enseñanza con TIC, de modo tal
+de trabajar no solo en torno a los usos vigentes sino, fundamentalmente, a los posibles?
+Por otro lado, en el ámbito educativo estamos más acostumbrados a un procesa-
+miento de la información de modo secuencial y lineal a través de la palabra escrita
+y hablada, y vemos que en los ambientes mediados por TIC, la información se da por
+medio de varios lenguajes simultáneos. ¿Qué formas, imaginamos, podrían tener en el
+ámbito educativo nuevos ambientes integrados y multisensoriales en los que sea posible
+construir una propuesta de trabajo significativa y relevante en torno al conocimiento
+y así desarrollar el arte de la cognición distribuida?

@@ -1,1 +1,1 @@
-xclip -sel clip < parte_21.txt 
+xclip -sel clip < parte_1
