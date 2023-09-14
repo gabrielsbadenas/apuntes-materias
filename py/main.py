@@ -1,4 +1,45 @@
 ﻿texto_pdf="""
+El relato de la maestra de una escuela baleada en Rosario: “Perder a Máximo fue lo más doloroso que vivimos”
+El nene, de 11 años, fue asesinado por la espalda en el barrio Empalme Graneros, y era alumno de la escuela en la que Mariana Segurado es docente desde hace más de 10 años. Pese al dolor y al flagelo del narcotráfico en la zona, no baja los brazos: “La educación no puede estar aislada de lo que pasa en casa ni en la sociedad”, dice
+El momento más triste para Mariana Segurado fue hace un año y medio, cuando su único hijo perdió la vida en un accidente de tránsito. Ese día, la vida de la docente de primaria en la Escuela Bilingüe Nº 1.344 Taigoye y en la 1.333 Nueva Esperanza, dos escuelas interculturales bilingües ubicadas en el norte de Rosario, cambió para siempre.
+
+El dolor, volvió a golpearla cuando, en la madrugada del 5 de marzo pasado, mataron a Máximo Jerez, de 11 años, por la espalda y otros tres niños resultaron heridos luego de ser baleados. El chico y miembros de la familia habían ido hasta el kiosco del barrio a comprar unas galletitas para acompañar un mate tereré. Mientras esperaban ser atendidos, un auto negro con vidrios polarizados paso y comenzó a los tiros, en lo que sería un ajuste de cuentas narco.
+
+Además de ese fatídico hecho, su querida escuelita bilingüe fue baleada dos veces y directivos del Servicio Penitenciario que la custodiaban desde el primer ataque fueron amenazados. “Ya no se puede estar ni vivir así”, dice apenada la mujer de 50 años, cansada de ese día a día que, pese a los esfuerzos de las familias de los alumnos y de sus colegas, sigue oliendo a violencia en una ciudad donde los ajustes de cuenta cobran muchas víctimas inocentes.
+Mariana Segurado, maestra en comunidad Qom, en Rosario, dando clases mediante programas radiales, en la pandemia de 2020
+La cruda realidad de ser docente en Rosario
+
+Mariana habló con Infobae durante la cuarentena de 2020 y contó cómo se las ingenió para poder dar clases cuando la virtualidad, impuesta en el mundo, comenzaba a acentuar las diferencias socioeconómicas. Ella, trabaja desde la década de 1980, en dos escuelas donde hay un asentamiento toba que desde hace tiempo pelea contra el dengue y la falta agua potable.
+
+“Con la llegada de la cuarentena —contó entonces— comenzamos a buscar alternativas: empezamos armando cuadernillos y haciendo fotocopias para los nenes que hasta ese momento llegaban a la escuela para retirar los bolsones de comida que se les entregaban, porque el comedor dejó de funcionar. A fines de marzo, cuando se cierra todo, nos quedamos sin la posibilidad de hacer fotocopias, y no todos los maestros teníamos una impresora en casa. En mi caso sí, pero me era imposible imprimir todo el material para 70 niños”. Entonces, tuvo la brillante idea de usar la radio del pueblo para dar sus clases.
+
+“El Ministerio sugería trabajar con WhatsApp, pero nuestra realidad era totalmente diferente en medio de un asentamiento en el cual algunos papás no leen ni escriben, otros no hablan castellano, porque son de una comunidad aborigen”. Así creó el programa Contenidos (con la doble interpretación de la palabra).
+
+Pese a las dificultades, dar clases de esa manera y en dos escuelas comunitarias era para ella concretar su mayor deseo de sentirse útil desde la educación. “Trabajar en estas escuelas me modificó internamente porque aprendí la generosidad, el compartir... Yo he visto a chicos partir el único lápiz que tenían para dárselo al compañero o guardarse en el bolsillo una fruta o un pedacito de torta que se le dio para llevarla y compartirla en la casa”, recuerda.
+Junto a otra docente cuando aún repartían comida a los estudiantes
+
+En estos tres años, la vida personal de Mariana cambió por completo: perdió a su único hijo en un accidente y debido a la depresión ya no puede esta al frente de una clase, pero sigue trabajando organizando otras actividades curriculares, acompañando a sus alumnos y sirviéndoles la comida.
+
+A principios del ciclo escolar, otro duro golpe. “Nuestra Escuela Bilingüe Nº 1.344 Taigoye fue baleada dos veces y uno de nuestros alumnos del Barrio Toba, Los Pumas, falleció en otro ataque. Así que estuvimos pasando momentos muy difíciles. Superamos la pandemia, pero la problemática social sigue fuerte en el barrio y afectan directamente a las escuelas. Esa es mi realidad también y la de Rosario, porque en la ciudad muchas escuelas han sufrido balaceras, amenazas y muchas estuvieron cerradas por semanas. Nosotros, tenemos policías en la puerta que custodian las entradas y la salida de los chicos. La muerte de este nene quebró a todo el cuerpo docente y a los alumnos. Él era miembro de nuestra comunidad, un nene muy amistoso, de sólo 11 años”, lamenta la mujer que se inició en la docencia a los 24 años.
+
+“La pandemia los dejó quebrados de lo que era el saber formal, por la falta de recursos. Y el narcotráfico y la delincuencia los deja aislados hoy de todo porque hubo semanas en las que no venían a la escuela y ahora ven a los patrulleros en la puerta”, cuenta.
+
+Esta situación hace que cumple más de un rol en la escuela. “Luego de la muerte de mi hijo dejé de estar en el aula, pero acompaño a todos los chicos dentro de la escuela con tareas especiales, junto al equipo directivo. Comparto la hora en el comedor, acompaña muchas veces y sirve, y son cinco platos. Se el hambre, la necesidad. Yo vivo ahí, cerca de ellos, no soy de otra zona y después vengo a trabajar, no. Ellos son mis vecinos, los conozco y sé cuáles son sus necesidades.
+
+La maestra también está al frente de la Asociación Civil Nido, desde la que busca nuevas estrategias, formas y maneras de poder brindar a las comunidades vulneradas en sus derechos una oportunidad de aprender. Además, trabaja en la prevención de violencias y adicciones.
+
+“Estamos en un barrio que está prendido fuego... En 2017 venimos gritando con las madres lo que está pasando en los barrios, contando lo que está sucediendo con los niños. Después de que se desató todo lo empezaron a ver, pero el Estado no escucha”, cuenta.
+Escuela baleada en Rosario
+
+En esa zona, están construyendo aulas. “Cuando se terminen, se podrá nivelar a los chicos de todas las edades después de dos años de pandemia y después de esta realidad social que vive Rosario: la falta de días de clase y la gran necesidad que ellos tienen. De esta manera, buscamos alguna solución y respuesta a las problemáticas que van surgiendo y que se van presentando”, agrega.
+
+Emocionada por los recuerdos de lo que debió atravesar este ultimo tiempo, afirma: “Pese a todo, así estoy transcurriendo mi docencia, tanto dentro de una escuela como en la asociación civil; y a veces en un campito con un lápiz y un cuaderno, pero siempre enseñando”.
+
+Aquejada por la pérdida de su hijo, admite: “La vida me pasó por arriba, pero la esperanza de que los jóvenes salgan adelante, de poder darles una oportunidades a los niños siempre está en mi corazón y eso es lo que me mantiene de pie porque sino, la verdad, sin mi único hijo, hubiese tomado otro decisiones”.
+
+Pensando en el futuro, teniendo a flor de piel todo lo que pasó, reflexiona. “La educación no puede estar aislada de lo que le pasa a los chicos en sus hogares y de la manera en la que viven. En otros años hemos luchado contra la desnutrición y creo, que en el 90% de los casos, en esta ciudad, hemos ganado la batalla. En otro tiempo hemos luchado por la deserción escolar y los chicos han vuelto con distintos programas a la escuela... Entonces cada década aparecen nuevos gigantes y con esos nuevos gigantes distintas estrategias que tenemos que ir desarrollando. Pienso que un chico bien alimentado y con un integrante, ya no digo la familia completa, pero un sólo integrante que lo contenga ese chico tiene muchas posibilidades de aprender”.
+
+Ilusionada, finaliza: “Mi deseo es que todas las familias estén contenidos, que haya trabajo para los padres y madres, y, sobre todo, una sociedad más justa. Hoy parece una utopía, mientras tanto, se sueñan en los barrios con espacios donde los chicos se sientan contenidos, abrazados, cuidados y acompañados sobre todas las cosas”.
 """
 def dividir_texto(texto, longitud):
     partes = []
