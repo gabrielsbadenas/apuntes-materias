@@ -1,489 +1,45 @@
-texto_pdf="""
-35
-II.
-Claves para integrar las TIC
-en la escuela
-Primera clave: Construir la relación con las tecnologías
-Las percepciones y expectativas que tengamos respecto de las virtudes y potenciali-
-dades de las nuevas tecnologías influyen en el tipo de acercamiento y utilización que
-hagamos de ellas. Según investigaciones recientes 21
-, los docentes acuerdan en reconocer
-como aspectos positivos, que las TIC facilitan la tarea pedagógica, mejoran la calidad
-de la educación y amplían las oportunidades de acceso al conocimiento. Por otro lado,
-muchos perciben como aspectos negativos, la sensación de “deshumanización de la ense-
-ñanza” y la creencia de que las tecnologías pueden alentar el “facilismo” en los alumnos.
-Frente a este campo de opiniones es oportuno recordar que las tecnologías disponen al-
-gunos parámetros para la acción individual y social. Es decir, facilitan la realización de
-distintos tipos de acciones, interacciones, organizaciones, aprendizajes, etc., y dificultan
-otros. Esta es, en pocas palabras, la definición de affordances22
-, un concepto que no
-tiene una traducción literal al español pero que podríamos decir que se entiende en tér-
-minos relacionales: la tecnología nos ofrece ciertas oportunidades y nosotros creamos,
-compartimos significados, representaciones, valores, y desarrollamos actividades y usos
-21 Tenti Fanfani, E. (2005) La condición docente. Análisis comparado de la Argentina, Brasil, Perú y Uruguay, Buenos
-Aires, Siglo XXI.
-22 Benkler, Y. (2006) The Wealth of Networks. How Social Production Transforms Markets and Freedom, New Haven
-and London, Yale University Press.
-36
-Tecnologías de la información y la comunicación en la escuela
-preferidos alrededor de ellas. En este sentido, en el uso, en la relación que establecemos
-con las tecnologías, ellas nos cambian a nosotros y nosotros a ellas.
-Es importante destacar, también, que el contexto en que la interacción con la tecnología ocu-
-rre interviene significativamente en la definición de la experiencia. Nuestro vínculo con la
-tecnología no se realiza de forma aislada: los diversos patrones de adopción y de uso resultan
-de las diferentes prácticas sociales en las que se insertan, y no de las tecnologías en sí mis-
-mas. Las representaciones culturales juegan un papel destacado en la percepción social de la
-posición y la naturaleza de la tecnología, la actividad a realizar con ella y los valores que se
-dan al encuentro. Esta es una idea importante que muchos autores enfatizan para no incurrir
-en el determinismo tecnológico, según el cual la tecnología es la única causa de los cambios
-cognitivos, de las prácticas sociales, de las ideas y de las formas de vivir en sociedad. En esta
-línea de pensamiento, muchos cayeron en la simplificada explicación de que la escritura, la
-alfabetización y la imprenta –especialmente– provocaron la libertad religiosa en Occidente,
-la revolución industrial y científica, los orígenes de la democracia y del capitalismo, etc. En
-contraposición, otros autores han mostrado que no es la tecnología de la escritura en sí mis-
-ma la que causa desarrollos cognitivos nuevos, como por ejemplo: categorización, memoria,
-razonamiento lógico, etc., sino los procesos de escolarización involucrados, la valoración
-social de estas actividades y la conformación de dispositivos institucionales que las impulsen
-y estimulen.23 Este es uno de los sentidos en que planteamos que la relación con las nuevas
-tecnologías se construye. Es por eso, también, que en este módulo vamos a hablar de las
-TIC en términos de oportunidades, de posibilidades de acción percibidas en torno a ellas, de
-desafíos, y no tanto de efectos como algo que podamos predecir.
-Crear contextos de aprendizaje con TIC
-Con el fin de lograr una mayor claridad expositiva y, a la vez, intentando evitar lo que
-de acuerdo con lo dicho sería una visión reduccionista del asunto, ordenaremos y pro-
-blematizaremos en este apartado algunos de los aportes u oportunidades de las nuevas
-tecnologías según distintos enfoques.
-Desde una perspectiva instrumental, podríamos decir que las principales contribuciones
-de las nuevas tecnologías a las actividades humanas se concretan en una serie de fun-
-ciones que facilitan la realización de las tareas, porque estas, sean las que sean, siempre
-requieren de una cierta información para ser realizadas, de un determinado procesa-
-miento de esta y, a menudo, de la comunicación con otras personas.
-En términos generales, las nuevas tecnologías facilitan el acceso a la información sobre mu-
-chos y variados temas, en distintas formas (textos, imágenes fijas y en movimiento, sonidos), a
-través de Internet, el CD-ROM, el DVD, etc. Y también son instrumentos que permiten:
-• procesar datos de manera rápida y fiable: realizar cálculos, escribir y copiar textos,
-crear bases de datos, modificar imágenes; para ello hay programas especializados: hojas
-de cálculo, procesadores de textos, gestores de bases de datos, editores de gráficos, de
-imágenes, de sonidos, de videos, de presentaciones multimedia y de páginas web, etc;
-• automatizar tareas;
-• almacenar grandes cantidades de información;
-23 Cole, M. y S. Scribner (1981) The Psichology of Literacy, Cambridge, Massachusetts, Harvard University Press.
-37
-Claves para integrar las TIC en la escuela
-• establecer comunicaciones inmediatas, sincrónicas y asincrónicas24
-,
-• trabajar y aprender colaborativamente;
-• producir contenidos y publicarlos en la Web;
-• participar en comunidades virtuales.
-Ahora bien, más allá de todo lo que podamos hacer, ¿cuáles serían las oportunidades
-en el ámbito educativo? Se podría empezar planteando que lo que nos permite avanzar
-en una nueva comprensión es ver que las TIC son un conjunto de herramientas con las
-cuales el individuo interactúa de forma activa formando –como proponen Gavriel Salo-
-mon, David Perkins y Tamar Globerson (1992), investigadores en temas de tecnología
-y educación– una asociación intelectual que le posibilita realizar tareas de forma más
-eficiente y en menos tiempo, y también utilizarlas como “herramientas para pensar”25
-.
-En las últimas dos décadas ha cobrado fuerza la perspectiva de la “cognición distribui-
-da”. Es decir, considerar la inteligencia humana como distribuida más allá del ámbito
-del organismo propio, abarcando a otras personas, apoyándose en los medios simbólicos
-y aprovechando el entorno y los artefactos. En palabras de Perkins, sería la “perso-
-na-más” el entorno. Es decir, la persona puede mejorar su rendimiento, ampliar sus
-capacidades o ir más allá, lograr cambios en profundidad en sus procesos de compren-
-sión. A las TIC que ofrecen una asociación o colaboración intelectual se las ha llamado
-“instrumentos cognitivos” o “tecnologías de la mente” porque potencialmente permiten
-al estudiante pensar a un nivel que trasciende las limitaciones de su sistema cognitivo.
-Para los autores mencionados, “la obra de una persona en colaboración con la tecnología
-podría ser mucho más ‘inteligente’ que la obra de la persona a solas”. 26 Advierten, sin
-embargo, que la colaboración exige esfuerzo y que si se pretende un desarrollo supe-
-rior, el estudiante debe participar en forma comprometida, con atención voluntaria (en
-forma “no-automática”) y dirigir la tarea metacognitivamente. Salomon (1992) señala
-que esta asociación intelectual es análoga a la situación que se suscita cuando un grupo
-de personas reúne sus capacidades mentales para resolver conjuntamente un problema,
-plantear una estrategia o crear un diseño complejo. Según el autor, “algunos dominarán
-determinados temas y al exteriorizarlo darán la posibilidad a los otros miembros del
-grupo de emplear procesos que no podrían utilizar solos”. Ahora bien, dado este tipo
-de asociación, podemos preguntarnos dónde reside la inteligencia. El autor explica: “Se
-podría argumentar que la inteligencia no es una cualidad solamente de la mente, sino
-que es un producto de la relación entre las estructuras mentales y las herramientas in-
-telectuales provistas por la cultura”. Perkins (2001) comenta que el pensamiento y el
-aprendizaje distribuidos en la persona-más aparecen con mayor claridad en situaciones
-en que se desarrolla una indagación auténtica y amplia: un estudiante que elabora un
-ensayo, un publicitario que piensa una campaña, un director que realiza una película, un
-ingeniero que diseña un puente. Según este autor, en educación, generalmente, el enfoque
-Recomendamos
-la lectura del
-capítulo “La
-persona-más:
-una visión
-distribuida del
-pensamiento y
-el aprendizaje”,
-de David
-Perkins (2001),
-en Salomon,
-Gavriel (comp.),
-Cogniciones,
-distribuidas,
-Buenos Aires,
-Amorrortu.
-24 Las comunicaciones sincrónicas son aquellas comunicaciones mediadas por la computadora en las que los partici-
-pantes (dos o más) están presentes al mismo tiempo. Se las llama también “en tiempo real”. Algunos ejemplos son:
-los espacios de charla (chats) por Internet o las videoconferencias interactivas. Las comunicaciones asincrónicas son
-aquellas mediadas por las computadoras pero que no requieren del intercambio instantáneo de información entre los
-participantes. Por ejemplo, el correo electrónico y los foros.
-25 Jonassen, D. (1996) “Learning from, Learning about and Learning with Computing: A Rationale for Mindtools”,
-en Computer in the Classroom: Mindtools for Critical Thinking, Englewood Cliffs, New Jersey, Merrill Prentice Hall. Se
-puede encontrar una síntesis de sus conceptos en el artículo “Computadores como herramientas para la mente”, publicado en
-Eduteka, http://www.eduteka.org/tema_mes.php3?TemaID=0012 [Última consulta: 15 de febrero de 2007].
-26 El subrayado es de los autores.
-38
-Tecnologías de la información y la comunicación en la escuela
-se centra en la persona “solista”, que utiliza enciclopedias, libros, textos, materiales para
-estudiar, pero para ejecutar raramente está provisto de otra cosa que no sea un lápiz y
-papel. Ya que para el autor la persona solista no es verosímil en la vida real, enfatiza que
-las escuelas deberían ayudar a los alumnos a manejar el arte de la cognición distribuida.
-Además, el eficaz aprovechamiento del entorno no se produce automáticamente, sólo
-porque está ahí, disponible. Si no se les enseña, los estudiantes tienden a pasar por alto
-algunos de los mejores usos de las “estructuras de apoyo físico, simbólico o social” que
-están a su alcance. Por ejemplo, los resúmenes, títulos, índices y el conocimiento de las
-estructuras textuales forman parte del sistema de apoyo simbólico para llevar a cabo
-una lectura eficaz. Sin embargo, sin formación en estrategias de lectura, los alumnos no
-pueden sacar provecho de ellas y suelen leer linealmente desde el principio hasta el fin.
-Si pensamos en torno a las TIC, encontramos oportunidades de cultivar todo tipo de
-habilidades referidas a la distribución ingeniosa del pensamiento y el aprendizaje. Las
-claves son, de algún modo, una orientación en ese sentido.
-Muchas veces se ha planteado que, dado el aumento creciente de la información dispo-
-nible en Internet, ya no sería tan importante enseñar contenidos sino habilidades para
-el manejo de esa información. Sin embargo, desde la perspectiva que estamos presen-
-tando, esta distinción carece de fundamento, ya que un aspecto fundamental en el arte
-de la cognición distribuida es la enseñanza de conocimientos. Detengámonos en este
-punto. Por lo general, la comprensión de una disciplina no solo conlleva conocimiento
-del “nivel del contenido” (hechos, procedimientos), sino también lo que podría llamarse
-conocimiento de “orden superior”, acerca de las estrategias de resolución de problemas,
-estilos de justificación, explicación y características investigativas del dominio en cues-
-tión, porque es este nivel el que incide en la capacidad de hacer, de resolver problemas,
-de plantear abordajes, etc. Estas estrategias y modelos proporcionan los caminos prin-
-cipales entre los cuales elegir el comportamiento pertinente en el dominio, y son los
-que infunden significado a las actividades relacionadas con él. Al faltar la estructura de
-orden superior, el ejecutante se ve limitado en sus opciones. De acuerdo con Perkins,
-“una perspectiva centrada en la persona-más señala que los parámetros y
-trayectorias básicas del desarrollo humano pueden cambiar según lo que
-comúnmente podrían considerarse matices del entorno y de la relación de
-la persona con él. Y seguramente resulta posible imaginar un proceso edu-
-cativo que se oriente en mayor grado hacia la persona-más, fortaleciendo
-a los alumnos para que acumulen mayor saber y arte en relación con los
-recursos cognitivos suministrados por los medios físicos y humanos que
-los rodean; en realidad, fortaleciendo a los alumnos para que construyan a
-su alrededor su “más” personal, su propio entorno para un programa que
-evolucione junto con ese entorno”.
-En síntesis, el sentido de construir la relación va por el lado de enseñar a aprovechar los
-sistemas de apoyo en situaciones auténticas y dar las herramientas para el conocimiento
-de orden superior.
-Ahora, ampliando la mirada con una perspectiva social y política, las escuelas que en-
-señen a los jóvenes a hacer un uso significativo de las TIC y aprovechar los sistemas
-de apoyo a la cognición, les abrirán las puertas a nuevas posibilidades de acceso a un
-mayor flujo de información, mayores ocasiones para el acercamiento a fuentes de ense-
-ñanza y oportunidades laborales. Porque como veremos en este módulo, las tecnologías
-de la información y la comunicación no son simplemente un medio o una herramienta
-¿En qué
-situaciones de
-la vida escolar
-y extraescolar
-encontrarían
-ejemplos de
-cognición
-distribuida?
-39
-Claves para integrar las TIC en la escuela
-para desarrollar la inteligencia, sino un espacio multidimensional, público, colaborativo,
-para la construcción de ideas, conceptos e interpretaciones, la organización y la acción. Las
-TIC aportan un espacio que puede integrarse y complementar las tareas del aula, especial-
-mente en la experimentación y aprendizaje de otras formas de conocer y otros modos
-de expresarse, de comunicarse y de hacerse visible. También, la mayor disponibilidad
-de información será mejor aprovechada si se enseña a los jóvenes a plantear preguntas
-y recortar los problemas con enfoques novedosos, pertinentes y significativos (conoci-
-miento de orden superior). Finalmente, y no por eso menos importante, tenemos frente
-a nosotros ocasiones potenciales para propiciar, alentar y preparar a los jóvenes para la
-participación en la vida social y pública con ideas y criterios propios. Así, el mayor y
-mejor acceso a las oportunidades que brindan las TIC contribuiría a la democratización
-Medios para la participación
-Howard Rheingold –autor ya mencionado en este material– piensa que las nuevas tec-
-nologías, como los teléfonos celulares y las computadoras en red, pueden usarse como
-medios para la participación en la democracia. A continuación resumiremos algunas
-de sus propuestas con relación a este tema.
-• Aprender a usar estas tecnologías, comunicarse y organizarse puede ser la más im-
-portante competencia ciudadana que los jóvenes deban incorporar.
-• La voz pública es un modo de unir las competencias sobre medios y el compromiso
-cívico. Los jóvenes que participen en redes sociales on-line acceden a otros espacios de
-lo público, ya que no solo consumen sino también crean en ambientes digitales: buscan,
-adoptan, se apropian, inventan formas de participar en la producción cultural.
-• Los jóvenes suelen guiarse entre sí en el uso de TIC, pero también necesitan orienta-
-ción acerca de cómo aplicar estas habilidades en procesos democráticos. Los medios
-para la participación pueden ser una herramienta poderosa para alentar a los jóvenes a
-comprometerse, con voz propia sobre temas que les preocupan. Llevarlos de la expre-
-sión privada a la pública puede ayudarlos a convertir la autoexpresión en otras formas de
-participación. La voz pública se aprende, y es un asunto de compromiso consciente con
-un público activo, más que una simple difusión de mensajes a una audiencia pasiva.
-• La voz de los individuos reunida y en diálogo con las voces de otros es la base funda-
-mental de la opinión pública. Cuando esta tiene el poder y la libertad de influenciar las
-decisiones públicas y crece desde el debate abierto, racional, crítico entre pares, puede
-ser un instrumento esencial para la gobernabilidad.
-• Los actos de comunicación son fundamentales en la vida política y cívica de una de-
-mocracia. Mostrando a los estudiantes cómo usar las TIC para informar al público, dar
-apoyo a causas, organizar acciones en torno a ciertos asuntos, los medios para la parti-
-cipación pueden insertarlos en sus primeras experiencias positivas de ciudadanía.
-• La producción en los medios es diferente de la producción de, por ejemplo, bienes econó-
-micos, porque tiene la capacidad de persuadir, inspirar, educar, orientar el pensamiento y las
-creencias. El poder técnico de las redes de comunicación es importante porque multiplica
-las capacidades humanas y sociales preexistentes de formar asociaciones que posibilitan
-acciones colectivas. Las redes electrónicas permiten aprender, discutir, deliberar, organizarse
-a escalas mucho mayores y a ritmos a los que antes no era posible. La cultura participativa
-debe poner el foco en la expresión y en el involucramiento en la comunidad. Estas nuevas
-competencias que se asocian a la esfera social de colaboración y participación deben asen-
-tarse en la alfabetización tradicional, las habilidades técnicas y de pensamiento crítico.
-Extractado y traducido de Rheingold, Howard (2006) “The Pedagogy Of Civic Participation - The Transformation Of Education
-And Democracy”. Disponible en: http://www.masternewmedia.org/news/2006/11/14/participatory_media_and_the_pedagogy.
-htm.Ver también: http://www.smartmobs.com/
-40
-Tecnologías de la información y la comunicación en la escuela
-en general de la sociedad y proporcionaría a los estudiantes y a las comunidades un va-
-lor agregado a su propia educación, formación y desarrollo.
-La enseñanza y las tecnologías
-Podemos decir que, en forma paralela a la difusión de los medios de comunicación y las
-nuevas tecnologías en el mundo del trabajo y del tiempo libre, los sistemas educativos
-han intentado, con mayor o menor éxito, incluirlos en las prácticas de enseñanza. En lí-
-neas generales, se ha partido de una visión centrada en las posibilidades del medio, para
-motivar a los alumnos y facilitar la comprensión de los contenidos curriculares.
-No obstante lo señalado, se observa que la incorporación de nuevas tecnologías en la
-educación genera, con cierta frecuencia, “ciclos de fracaso”. 27 Cuando una tecnología
-es desarrollada y lanzada al mercado, surgen diversos intereses y factores que tienden a
-aplicarla a la solución de problemas educativos. De esta forma, se generan expectativas
-que no se cumplen. Crece la percepción de que el uso es inadecuado e improducti-
-vo, produciendo el efecto paradójico de reforzar los viejos moldes educativos que se
-pretendía transformar. Esto se explicaría, entre otros factores, por la creencia de que
-la incorporación de las nuevas tecnologías garantiza per se el cambio educativo y lo
-justifica. Es lo que se denomina enfoque tecnocéntrico. O, por el contrario, la tendencia
-a asimilar las nuevas tecnologías a las prácticas educativas existentes y utilizarlas para
-hacer aquello que concuerda con la filosofía y prácticas pedagógicas prevalecientes.
-La inclusión de nuevas tecnologías lograría resultar una innovación si fuese acompañada de
-cambios conceptuales en la concepción de su uso y de la reflexión sobre por qué y para qué
-utilizarlas, cuáles son los aportes y qué tipo de aprendizaje se puede promover con ellas.
-Es importante detenernos un momento en este punto para enfatizar la necesidad de te-
-ner en cuenta la dimensión humana cuando se busca impulsar transformaciones de esta
-naturaleza. En la adopción de TIC no solo son importantes las consideraciones sobre
-las oportunidades de aprendizaje, sino también las cuestiones relativas a las personas
-involucradas en el proceso y los marcos institucionales en que se produce.
-Las formas de pensar y los modos de hacer, de desempeñar la labor, están asociados,
-entre otras cosas, a las tecnologías utilizadas (libros, tiza y pizarrón, etc.), y están
-profundamente arraigados en las personas –docentes, directivos y alumnos– y en las
-culturas institucionales. Esto forma parte de lo que se denomina conocimiento tácito,
-conocimiento práctico, teorías implícitas o esquemas prácticos de acción. Cualquiera
-de estas denominaciones, haciendo énfasis en algunos aspectos más que en otros, apunta
-a explicar que se trata de un conocimiento que sólo puede ser formalizado parcialmente,
-que ha sido acumulado a lo largo del tiempo a través de procesos de aprendizaje de la
-propia práctica pedagógica, y que se aplica ante una variedad de situaciones concretas e
-irrepetibles, articulando respuestas complejas. 28 Son teorías implícitas personales sobre
-la enseñanza y el aprendizaje que también han sido reconstruidas sobre conocimientos
-pedagógicos elaborados y transmitidos en la formación. Estas teorías o esquemas tácitos
-tienen fuerza determinante en relación con las prácticas, en el sentido de que permiten
-regularlas y controlarlas, y además poseen cierta estabilidad.
-Anteriormente,
-hicimos
-referencia a
-los objetivos
-con que se han
-incorporado
-TIC en la
-escuela, ¿podría
-confirmarse esta
-idea de “ciclos
-de fracaso”?
-¿Por qué?
-27 Rosenberg, M. J. (2001) E-learning. Strategies for Delivering Knowledge in the Digital Age. New York, McGraw-Hill.
-28 Hernández, D. (1995) “Repensando la empresa. Producción, saber y aprendizaje en la teoría de la firma”, Sociología
-del trabajo, Nueva Época, Nº 25, pp. 29-54.
-41
-Claves para integrar las TIC en la escuela
-En síntesis, este es un tipo de conocimiento experiencial, representado en imágenes o
-esquemas, de carácter subjetivo, personal y situacional y a la vez propio de un colectivo
-profesional. Tenerlo en cuenta, nos permite entender que enseñar no es simplemente
-aplicar un currículum y cumplir con los objetivos de contenido, porque permanentemen-
-te desarrollamos tareas que no pueden ser pautadas por manuales de procedimientos ni
-por planificaciones. Considerar el conocimiento tácito se vuelve fundamental cuando se
-promueven procesos de cambio.
-Este modo de entender aquello que da forma y sustenta los principios de actuación do-
-cente nos permite, a su vez, comprender que la incorporación de una nueva tecnología
-puede suponer transformaciones profundas en formas de hacer arraigadas y la revisión
-de algunos supuestos sobre el conocimiento y las disciplinas, sobre el enseñar, el apren-
-der y cómo aprendemos para enseñar.
-Asimismo, debemos considerar que al incorporar TIC y cambiar la propuesta de en-
-señanza se modifica también, por un lado, el tipo de aprendizaje y de desempeño que
-esperamos de los jóvenes, esto es, su condición de estudiante. Y, por otro, se los embarca
-en otros usos de la tecnología a los que, tal vez, no estén acostumbrados (o, directa-
-mente, no han tenido acceso). El investigador en educación Gary Fenstermacher (1989:
-155) dice que “la tarea central de la enseñanza es permitir al estudiante realizar las
-tareas del aprendizaje”29 –a las que denomina “estudiantar”– y dar apoyo a la acción de
-estudiar. Es decir, el profesor debe instruir a los jóvenes acerca de los procedimientos
-y exigencias de su rol de estudiante, que, además de realizar las tareas de aprendizaje,
-“incluye tratar con profesores, habérselas con los propios compañeros, afrontar frente a
-los padres la situación de ser estudiante y también controlar los aspectos no académicos
-de la vida escolar”.
-Entendemos que ellos, a través de actividades que han llevado a cabo, las evaluaciones
-que les han sido presentadas, los estilos de los profesores a los que han tenido que adap-
-tarse y las rutinas de la institución, también han desarrollado un conocimiento tácito,
-unas formas de ser estudiante y, por supuesto, una serie de estrategias y “ardides” para
-jugar el juego de la relación pedagógica. Entonces, al modificarse las tareas de aprendi-
-zaje, las rutinas, etc., ellos tendrán que sumarse al cambio y avanzar hacia nuevos modos
-de “estudiantar” y hacia la incorporación de las TIC como apoyo físico a la cognición
-y las formas de aprender a ejercer la ciudadanía. Es decir, aunque ellos tengan contacto
-fuera de la escuela con las nuevas tecnologías, tendrán que aprender a aprender con
-ellas, utilizarlas en otros contextos y para otros fines, y afrontar el desafío de pensar de
-modos nuevos.
-Este es otro de los sentidos en que decimos que la relación con la tecnología hay que
-construirla.
-Los jóvenes y las nuevas tecnologías
-Otro aspecto que queremos plantear para esta construcción se deriva de lo expuesto
-recién y de la observación sobre la aproximación y el uso de las TIC que hacen los
-jóvenes que tienen acceso a ellas. En primer lugar, los jóvenes aprenden a utilizarlas
-en la cotidianeidad, por ensayo y error, desde el juego, de modo informal, implícito,
-intuitivo, visual, preguntándose y proporcionándose entre sí instrucciones simples,
-¿Cuáles son esos
-conocimientos
-tácitos en torno
-a las TIC, que
-pueden haberse
-construido en
-las distintas
-instituciones
-que recorren?
-¿Cuáles pueden
-ser facilitadores
-y cuáles
-obstáculos
-con respecto
-a la propuesta
-de este
-Componente?
-Lejos de
-pretender
-alentar el
-consumo no
-reflexivo de
-TIC, podemos
-preguntarnos
-cuáles son los
-motivos que
-nos llevarían a
-incorporarlas
-en nuestra
-vida cotidiana
-y en nuestras
-prácticas de
-enseñanza.
-¿Qué relaciones
-puede establecer
-la escuela
-con los usos y
-significados que
-los jóvenes dan a
-las TIC?
-29 El subrayado es del autor.
-42
-Tecnologías de la información y la comunicación en la escuela
-trucos y recomendaciones, con fines específicos de información, de entretenimiento y
-comunicación. A diferencia de muchos adultos, ellos entienden rápidamente el idioma
-de los botones y se manejan con soltura en la complejidad de las redes informáticas.
-Pareciera que, como dicen Jesús Martín Barbero y Germán Rey (1999), están dotados
-de una “plasticidad neuronal” y de una “elasticidad cultural”.
-En segundo lugar, se puede afirmar que son prácticas que tienden a masificarse entre
-ellos por ser símbolo de pertenencia a ciertos grupos. 30 Es decir, más allá de la facilidad
-que encuentran en manejar estas tecnologías, hay una suerte de estímulo a usarlas por
-ser fuente de diferenciación social.
-Por último, investigaciones recientes31 indican que los jóvenes, dentro de su marco de
-posibilidades, utilizan una amplia gama de medios y aparatos. Estos se distinguen entre
-“medios de primer plano” y “medios de fondo”. Los primeros son el foco de atención,
-mientras que los segundos conforman un ambiente agradable en el que trabajar y diver-
-tirse. Además, con frecuencia, usan dos o más al mismo tiempo. A esta capacidad se la
-denomina multitarea.
-Aquí
-encontrarán
-algunos artículos
-e investigaciones
-sobre el tema:
-• “Los chicos
-enchufados todo el
-día a la tecnología
-son cada vez más”,
-del 4 de junio de
-2006.
-• “Una tendencia
-que se afianza.
-Más del 80% de
-los adolescentes
-y jóvenes usan
-mensajes de
-textos”, del 18 de
-octubre de 2005.
-• “Educación y
-medios: consumos
-culturales de los
-argentinos de
-entre 11 y 17
-años”, del 29 de
-septiembre de
-2006.
-• “Consumo
-cultural de la
-Ciudad de Buenos
-Aires”, encuesta
-de la Dirección
-General del Libro
-del Gobierno de la
-Ciudad de Buenos
-Aires, 2004.
-• “Sistema
-Nacional de
-Consumo
-Cultural”,
-encuesta de
-la Secretaría
-de Medios de
-Comunicación,
-Jefatura de
-Gabinete de
-Ministros,
-Presidencia de la
-Nación, 2005.
-Antes de continuar...
-Las investigaciones indican una tendencia entre los jóvenes, que puede confirmar-
-se o no entre aquellos que conocemos directamente. Podemos indagar, entre otras
-cuestiones, ¿hasta qué punto los nuevos medios están reemplazando a los medios de
-comunicación de masas y quitando tiempo a las actividades sociales tales como el de-
-porte y los hobbies?, ¿a qué aparatos tienen acceso y cuáles usan los jóvenes?, ¿dónde los
-utilizan y con qué propósitos? ¿Cómo retomar ese conocimiento que los estudiantes ya
-portan? ¿Qué nuevos implícitos habrá que esperar de los alumnos en el manejo de TIC?
-El profesor Kieran Egan (1999: 25) sostiene que “en la educación existe una tensión
-constante entre la enseñanza de los usos de acuerdo con los cuales los estudiantes ten-
-drán que vivir y el fomento de las capacidades que los habiliten para alcanzar alguna
-forma de libertad mental respecto de esos usos: haciendo de ellos más herramientas
-que condicionamientos”. ¿Cómo podríamos aprovechar la información proveniente de
-artículos e investigaciones, más aquella que surja de nuestros propios relevamientos,
-para mejorar –o ayudar a mejorar– las propuestas de enseñanza con TIC, de modo tal
-de trabajar no solo en torno a los usos vigentes sino, fundamentalmente, a los posibles?
-Por otro lado, en el ámbito educativo estamos más acostumbrados a un procesa-
-miento de la información de modo secuencial y lineal a través de la palabra escrita
-y hablada, y vemos que en los ambientes mediados por TIC, la información se da por
-medio de varios lenguajes simultáneos. ¿Qué formas, imaginamos, podrían tener en el
-ámbito educativo nuevos ambientes integrados y multisensoriales en los que sea posible
-construir una propuesta de trabajo significativa y relevante en torno al conocimiento
-y así desarrollar el arte de la cognición distribuida?
-30 Gruffat, C. (2005) “Nuevas tecnologías y nuevas prácticas, en números”, Educ.ar. http://weblog.educ.ar/sociedad-informacion/
-archives/006209.php [Última consulta: 15 de febrero de 2007].
-31 Además de las investigaciones que se incluyen en el CD que acompaña a este módulo, se puede ver:
-Gruffat, C. (2005) “Generación M: los chicos que crecieron con los nuevos medios”, Educ.ar. http://weblog.
-educ.ar/educacion-tics/archives/006581.php [Última consulta: 15 de febrero de 2007].
-También: Olaf Looms, P. (2002) “La revolución desconocida”, Revista Red Digital 1, http://tecnologiaedu.
-us.es/bibliovir/12.htm [Última consulta: 15 de febrero de 2007].
+﻿texto_pdf="""
+El relato de la maestra de una escuela baleada en Rosario: “Perder a Máximo fue lo más doloroso que vivimos”
+El nene, de 11 años, fue asesinado por la espalda en el barrio Empalme Graneros, y era alumno de la escuela en la que Mariana Segurado es docente desde hace más de 10 años. Pese al dolor y al flagelo del narcotráfico en la zona, no baja los brazos: “La educación no puede estar aislada de lo que pasa en casa ni en la sociedad”, dice
+El momento más triste para Mariana Segurado fue hace un año y medio, cuando su único hijo perdió la vida en un accidente de tránsito. Ese día, la vida de la docente de primaria en la Escuela Bilingüe Nº 1.344 Taigoye y en la 1.333 Nueva Esperanza, dos escuelas interculturales bilingües ubicadas en el norte de Rosario, cambió para siempre.
+
+El dolor, volvió a golpearla cuando, en la madrugada del 5 de marzo pasado, mataron a Máximo Jerez, de 11 años, por la espalda y otros tres niños resultaron heridos luego de ser baleados. El chico y miembros de la familia habían ido hasta el kiosco del barrio a comprar unas galletitas para acompañar un mate tereré. Mientras esperaban ser atendidos, un auto negro con vidrios polarizados paso y comenzó a los tiros, en lo que sería un ajuste de cuentas narco.
+
+Además de ese fatídico hecho, su querida escuelita bilingüe fue baleada dos veces y directivos del Servicio Penitenciario que la custodiaban desde el primer ataque fueron amenazados. “Ya no se puede estar ni vivir así”, dice apenada la mujer de 50 años, cansada de ese día a día que, pese a los esfuerzos de las familias de los alumnos y de sus colegas, sigue oliendo a violencia en una ciudad donde los ajustes de cuenta cobran muchas víctimas inocentes.
+Mariana Segurado, maestra en comunidad Qom, en Rosario, dando clases mediante programas radiales, en la pandemia de 2020
+La cruda realidad de ser docente en Rosario
+
+Mariana habló con Infobae durante la cuarentena de 2020 y contó cómo se las ingenió para poder dar clases cuando la virtualidad, impuesta en el mundo, comenzaba a acentuar las diferencias socioeconómicas. Ella, trabaja desde la década de 1980, en dos escuelas donde hay un asentamiento toba que desde hace tiempo pelea contra el dengue y la falta agua potable.
+
+“Con la llegada de la cuarentena —contó entonces— comenzamos a buscar alternativas: empezamos armando cuadernillos y haciendo fotocopias para los nenes que hasta ese momento llegaban a la escuela para retirar los bolsones de comida que se les entregaban, porque el comedor dejó de funcionar. A fines de marzo, cuando se cierra todo, nos quedamos sin la posibilidad de hacer fotocopias, y no todos los maestros teníamos una impresora en casa. En mi caso sí, pero me era imposible imprimir todo el material para 70 niños”. Entonces, tuvo la brillante idea de usar la radio del pueblo para dar sus clases.
+
+“El Ministerio sugería trabajar con WhatsApp, pero nuestra realidad era totalmente diferente en medio de un asentamiento en el cual algunos papás no leen ni escriben, otros no hablan castellano, porque son de una comunidad aborigen”. Así creó el programa Contenidos (con la doble interpretación de la palabra).
+
+Pese a las dificultades, dar clases de esa manera y en dos escuelas comunitarias era para ella concretar su mayor deseo de sentirse útil desde la educación. “Trabajar en estas escuelas me modificó internamente porque aprendí la generosidad, el compartir... Yo he visto a chicos partir el único lápiz que tenían para dárselo al compañero o guardarse en el bolsillo una fruta o un pedacito de torta que se le dio para llevarla y compartirla en la casa”, recuerda.
+Junto a otra docente cuando aún repartían comida a los estudiantes
+
+En estos tres años, la vida personal de Mariana cambió por completo: perdió a su único hijo en un accidente y debido a la depresión ya no puede esta al frente de una clase, pero sigue trabajando organizando otras actividades curriculares, acompañando a sus alumnos y sirviéndoles la comida.
+
+A principios del ciclo escolar, otro duro golpe. “Nuestra Escuela Bilingüe Nº 1.344 Taigoye fue baleada dos veces y uno de nuestros alumnos del Barrio Toba, Los Pumas, falleció en otro ataque. Así que estuvimos pasando momentos muy difíciles. Superamos la pandemia, pero la problemática social sigue fuerte en el barrio y afectan directamente a las escuelas. Esa es mi realidad también y la de Rosario, porque en la ciudad muchas escuelas han sufrido balaceras, amenazas y muchas estuvieron cerradas por semanas. Nosotros, tenemos policías en la puerta que custodian las entradas y la salida de los chicos. La muerte de este nene quebró a todo el cuerpo docente y a los alumnos. Él era miembro de nuestra comunidad, un nene muy amistoso, de sólo 11 años”, lamenta la mujer que se inició en la docencia a los 24 años.
+
+“La pandemia los dejó quebrados de lo que era el saber formal, por la falta de recursos. Y el narcotráfico y la delincuencia los deja aislados hoy de todo porque hubo semanas en las que no venían a la escuela y ahora ven a los patrulleros en la puerta”, cuenta.
+
+Esta situación hace que cumple más de un rol en la escuela. “Luego de la muerte de mi hijo dejé de estar en el aula, pero acompaño a todos los chicos dentro de la escuela con tareas especiales, junto al equipo directivo. Comparto la hora en el comedor, acompaña muchas veces y sirve, y son cinco platos. Se el hambre, la necesidad. Yo vivo ahí, cerca de ellos, no soy de otra zona y después vengo a trabajar, no. Ellos son mis vecinos, los conozco y sé cuáles son sus necesidades.
+
+La maestra también está al frente de la Asociación Civil Nido, desde la que busca nuevas estrategias, formas y maneras de poder brindar a las comunidades vulneradas en sus derechos una oportunidad de aprender. Además, trabaja en la prevención de violencias y adicciones.
+
+“Estamos en un barrio que está prendido fuego... En 2017 venimos gritando con las madres lo que está pasando en los barrios, contando lo que está sucediendo con los niños. Después de que se desató todo lo empezaron a ver, pero el Estado no escucha”, cuenta.
+Escuela baleada en Rosario
+
+En esa zona, están construyendo aulas. “Cuando se terminen, se podrá nivelar a los chicos de todas las edades después de dos años de pandemia y después de esta realidad social que vive Rosario: la falta de días de clase y la gran necesidad que ellos tienen. De esta manera, buscamos alguna solución y respuesta a las problemáticas que van surgiendo y que se van presentando”, agrega.
+
+Emocionada por los recuerdos de lo que debió atravesar este ultimo tiempo, afirma: “Pese a todo, así estoy transcurriendo mi docencia, tanto dentro de una escuela como en la asociación civil; y a veces en un campito con un lápiz y un cuaderno, pero siempre enseñando”.
+
+Aquejada por la pérdida de su hijo, admite: “La vida me pasó por arriba, pero la esperanza de que los jóvenes salgan adelante, de poder darles una oportunidades a los niños siempre está en mi corazón y eso es lo que me mantiene de pie porque sino, la verdad, sin mi único hijo, hubiese tomado otro decisiones”.
+
+Pensando en el futuro, teniendo a flor de piel todo lo que pasó, reflexiona. “La educación no puede estar aislada de lo que le pasa a los chicos en sus hogares y de la manera en la que viven. En otros años hemos luchado contra la desnutrición y creo, que en el 90% de los casos, en esta ciudad, hemos ganado la batalla. En otro tiempo hemos luchado por la deserción escolar y los chicos han vuelto con distintos programas a la escuela... Entonces cada década aparecen nuevos gigantes y con esos nuevos gigantes distintas estrategias que tenemos que ir desarrollando. Pienso que un chico bien alimentado y con un integrante, ya no digo la familia completa, pero un sólo integrante que lo contenga ese chico tiene muchas posibilidades de aprender”.
+
+Ilusionada, finaliza: “Mi deseo es que todas las familias estén contenidos, que haya trabajo para los padres y madres, y, sobre todo, una sociedad más justa. Hoy parece una utopía, mientras tanto, se sueñan en los barrios con espacios donde los chicos se sientan contenidos, abrazados, cuidados y acompañados sobre todas las cosas”.
 """
 def dividir_texto(texto, longitud):
     partes = []
@@ -495,14 +51,14 @@ def dividir_texto(texto, longitud):
     return partes
 
 # Ejemplo de uso
-longitud_parte = 2048
+longitud_parte = 4096
 
 partes_pdf = dividir_texto(texto_pdf, longitud_parte)
 
 # Imprimir las partes divididas
 for i, parte in enumerate(partes_pdf):
     nombre_archivo_salida = f"parte_{i+1}"
-    with open(nombre_archivo_salida, "w") as archivo_salida:
+    with open(nombre_archivo_salida, "w", encoding='utf-8') as archivo_salida:
         archivo_salida.write(parte)
         print(f"Parte {i+1} guardada en {nombre_archivo_salida}")
 
