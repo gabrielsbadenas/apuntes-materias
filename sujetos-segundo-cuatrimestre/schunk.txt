@@ -1,0 +1,1248 @@
+Constructivismo
+Durante una lección de matemáticas de primer grado sobre medición y equivalencia, el profe-
+sor pidió a los niños que utilizaran una balanza para determinar cuántos eslabones de plástico
+pesaban lo mismo que una arandela metálica. Entonces, el profesor reconoció y aprovechó la
+oportunidad para ayudar a Anna, una alumna particularmente empeñosa, a empezar a construir
+un concepto rudimentario de lo que es una tasa y una proporción.
+Profesor: ¿Cuántos eslabones se necesitan para igualar el peso de una arandela?
+Anna: Cuatro, respondió después de experimentar algunos segundos.
+Profesor: Si colocara una arandela más de este lado, ¿cuántos eslabones crees que necesitarías
+para equilibrar la balanza?
+Anna: Uno.
+Profesor: Haz la prueba.
+Anna colocó otro eslabón en la balanza y observó que no se equilibraba. Se sintió confundida
+y colocó otro eslabón en la balanza, y luego un tercer eslabón, pero no se equilibró. Después
+colocó otro más y logró el equilibrio; sonrió y miró al profesor.
+Profesor: ¿Cuántos eslabones se necesitaron para equilibrar una arandela?
+Anna: Cuatro.
+Profesor: ¿Y cuántos se necesitaron para equilibrar dos arandelas?
+Anna: (Contando) ocho.
+Profesor: Si pusiera otra arandela en este lado, ¿cuántos eslabones más necesitarías para
+equilibrar la balanza?
+Anna: (Reflexiona y observa inquisitivamente al profesor) cuatro.
+Profesor: Haz la prueba.
+Anna: Cada arandela es igual a cuatro eslabones, respondió después de lograr
+el equilibrio con cuatro eslabones.
+Profesor: Ahora déjame hacerte una pregunta realmente difícil. Si quitara cuatro eslabones
+de la balanza, ¿cuántas arandelas debería quitar para equilibrarla?
+Anna: ¡Una!
+El constructivismo es una perspectiva psicológica y
+filosófica que sostiene que las personas forman o
+construyen gran parte de lo que aprenden y com-
+prenden (Bruning et al., 2004). Una influencia impor-
+tante para el surgimiento del constructivismo es la
+teoría y la investigación sobre el desarrollo humano,
+especialmente las perspectivas de Piaget y Vygotsky.
+El desarrollo humano es el tema del capítulo 10, sin
+embargo, en este capítulo se estudiarán ambas teorías
+porque son la piedra angular del movimiento cons-
+tructivista. El énfasis que ponen estas teorías en la
+construcción del conocimiento es fundamental para
+el constructivismo.
+En años recientes el constructivismo comenzó a
+aplicarse cada vez más al aprendizaje y la enseñanza.
+La historia de las teorías del aprendizaje revela que
+las influencias ambientales como explicaciones del
+aprendizaje fueron sustituidas por los factores huma-
+nos. Este cambio comenzó con el surgimiento de la
+psicología cognoscitiva (véase el capítulo 5), que puso
+en duda la aseveración del conductismo (véase el ca-
+pítulo 3) en cuanto a que los estímulos, las respuestas
+y las consecuencias eran adecuados para explicar el
+aprendizaje. Las teorías cognoscitivas ponen gran én-
+fasis en el procesamiento de información del aprendiz
+como una de las principales causas del aprendizaje.
+A pesar de la elegancia de las teorías cognoscitivas
+del aprendizaje, algunos investigadores creen que
+no logran captar la complejidad del aprendizaje hu-
+mano, lo cual resalta por el hecho de que algunas
+perspectivas cognoscitivas utilizan terminología con-
+ductual como el “automatismo” del desempeño y la
+“formación de conexiones” entre los elementos en
+la memoria.
+En la actualidad diversos investigadores del
+aprendizaje han adoptado una perspectiva más en-
+focada en los aprendices. En lugar de hablar acerca
+de cómo se adquiere el conocimiento, hablan de
+cómo se construye. Aunque estos investigadores
+difieren en la importancia que ponen en los facto-
+res que influyen en el aprendizaje y en los proce-
+sos cognoscitivos de los aprendices, las perspectivas
+teóricas que adoptan se podrían agrupar y denomi-
+nar en general como constructivismo. La forma en
+que Anna construye el conocimiento es evidente
+en la plática inicial.
+Este capítulo comienza proporcionando un pano-
+rama del constructivismo, el cual incluye la descrip-
+ción de sus principales supuestos y los diferentes tipos
+de teorías constructivistas. Después se describen las
+teorías de Piaget y Vygotsky, enfatizando los aspectos
+relevantes para el aprendizaje. Se analizan las funcio-
+nes críticas de los procesos sociales y del discurso pri-
+vado, para continuar con el estudio de la motivación
+desde la perspectiva constructivista. El capítulo con-
+cluye con un análisis de los entornos de aprendizaje
+constructivistas y de las aplicaciones a la enseñanza
+que reflejan sus principios.
+Cuando termine de estudiar este capítulo, el lector
+será capaz de lo siguiente:
+n Analizar los principales supuestos y los diversos
+tipos de constructivismo.
+n Resumir los principales procesos de la teoría de
+Piaget que se relacionan con el aprendizaje y
+algunas de sus implicaciones para la enseñanza.
+n Explicar los principios fundamentales de la teoría
+sociocultural de Vygotsky y sus implicaciones para
+la enseñanza en la zona de desarrollo próximo.
+n Explicar la función del discurso privado para el
+aprendizaje y la autorregulación.
+n Analizar la manera en que la estructura del aula
+y las variables TARGET influye en la motivación
+de los estudiantes.
+n Describir cómo se forman las expectativas de los
+profesores y cómo pueden afectar su interacción
+con los estudiantes.
+n Listar las características fundamentales de los
+ambientes de aprendizaje constructivistas, así
+como los componentes principales de los prin-
+cipios de la American Psychological Association
+(APA) centrados en el aprendiz.
+n Describir la manera en que el aprendizaje por
+descubrimiento, la enseñanza por indagación,
+el aprendizaje asistido por los pares, las discu-
+siones y los debates se pueden estructurar para
+que reflejen los principios constructivistas.
+n Explicar cómo los profesores pueden ser más
+reflexivos y, por lo tanto, mejorar el aprovecha-
+miento de los estudiantes.
+CONSTRUCTIVISMO. SUPUESTOS Y PERSPECTIVAS
+Muchos investigadores y profesionales cuestionan algunos de los supuestos de la psicología cognos-
+citiva acerca del aprendizaje y la enseñanza, ya que consideran que no explican de manera completa
+el aprendizaje y la comprensión de los estudiantes. Los supuestos cuestionables son los siguientes
+(Greeno, 1989):
+n El pensamiento reside en la mente más que en la interacción con las personas y las situaciones.
+n Los procesos del aprendizaje y el pensamiento son relativamente uniformes en todas las per-
+sonas, y algunas situaciones fomentan más el pensamiento de orden superior que otras.
+n El pensamiento deriva del conocimiento y de las habilidades desarrolladas en entornos de en-
+señanza formal, más que de competencias conceptuales generales que resultan de las propias
+experiencias y de habilidades innatas.
+Los constructivistas no aceptan estos supuestos debido a las evidencias de que el pensamiento se
+lleva a cabo en situaciones y a que las cogniciones son construidas principalmente por las personas
+en función de sus experiencias en tales situaciones (Bredo, 1997). Las explicaciones constructivistas
+del aprendizaje y el desarrollo destacan las contribuciones de las personas a lo que se aprende. Los
+modelos constructivistas sociales resaltan además la importancia de las interacciones sociales en la
+adquisición de las habilidades y el conocimiento. Ahora estudiaremos con mayor detalle qué es el
+constructivismo, sus supuestos y sus formas.
+Panorama
+¿Qué es el constructivismo? A diferencia de otras teorías analizadas en este texto, no hay consistencia
+acerca del significado del constructivismo (Harlow, Cummings y Aberasturi, 2006). En términos es-
+trictos, el constructivismo no es una teoría sino una epistemología o explicación filosófica acerca de
+la naturaleza del aprendizaje (Hyslop-Margison y Strobel, 2008; Simpson, 2002). Como vimos en el
+capítulo 1, una teoría es una explicación científicamente válida del aprendizaje. Las teorías permiten
+que se generen hipótesis y que se pongan a prueba. El constructivismo no propone que existan princi-
+pios del aprendizaje que se deban descubrir y poner a prueba, sino que las personas crean su propio
+aprendizaje. Los lectores interesados en explorar las raíces históricas y filosóficas del constructivismo
+deberán referirse a Bredo (1997) y a Packer y Goicochea (2000).
+Sin embargo, el constructivismo hace predicciones generales que se pueden poner a prueba.
+Aunque, como dichas predicciones son generales, están sujetas a diferentes interpretaciones, las cua-
+les podrían ser objetos de investigación. Un ejemplo de esto es la pregunta, ¿qué significa que los
+aprendices construyen su propio aprendizaje?
+Los teóricos constructivistas rechazan la idea de que existen verdades científicas y esperan el des-
+cubrimiento y la verificación; argumentan que ninguna afirmación se puede considerar verdadera, y
+que, en vez de eso, se deben observar con una duda razonable. El mundo se puede construir mental-
+mente de muchas formas diferentes, de manera que ninguna teoría posee la verdad. Esto se aplica in-
+cluso al constructivismo: hay muchas variedades y ninguna versión debe ser considerada más correcta
+que otra (Derry, 1996; Simpson, 2002).
+En lugar de considerar el conocimiento como verdadero, los constructivistas lo definen como
+una hipótesis de trabajo. El conocimiento no es impuesto desde el exterior de las personas sino que
+se forma dentro de ellas. Las construcciones de una persona son verdaderas para ella, pero no ne-
+cesariamente para los demás. Esto se debe a que las personas producen conocimientos con base en
+sus creencias y experiencias en las situaciones (Cobb y Bowers, 1999), las cuales difieren de una per-
+sona a otra. Así, todo el conocimiento es subjetivo y personal, y es producto de nuestras cogniciones
+(Simpson, 2002). El aprendizaje está situado en contextos (Bredo, 2006).
+Supuestos. El constructivismo resalta la interacción de las personas y las situaciones en la adquisición
+y perfeccionamiento de las habilidades y los conocimientos (Cobb y Bowers, 1999). El constructivis-
+mo contrasta con las teorías del condicionamiento que hacen hincapié en la influencia del entorno
+sobre la persona, así como con las teorías del procesamiento de la información que consideran que el
+aprendizaje ocurre en la mente y ponen poca atención al contexto. Con la teoría cognoscitiva social
+comparte el supuesto de que las personas, las conductas y los ambientes interactúan de forma recí-
+proca (Bandura, 1986, 1997).
+Un supuesto fundamental del constructivismo es que las personas son aprendices activos y de-
+sarrollan el conocimiento por sí mismas (Geary, 1995). Para entender bien el material, los aprendices
+deben descubrir los principios básicos, como lo hizo Anna en la conversación inicial. Los constructi-
+vistas difieren en el grado en el que adjudican esta función a los aprendices. Algunos creen que las
+estructuras mentales se vuelven un reflejo de la realidad, mientras que otros, los constructivistas radi-
+cales, consideran que la única realidad que existe es el mundo mental del individuo. Los constructivis-
+tas también difieren en el grado en que adjudican la construcción del conocimiento a las interacciones
+sociales con los profesores, compañeros, padres y otros (Bredo, 1997).
+Muchos de los principios, conceptos e ideas que se analizan en este texto reflejan la perspec-
+tiva del constructivismo, incluyendo el procesamiento cognoscitivo, las expectativas, los valores y las
+percepciones de uno mismo y de los demás (Derry, 1996). De esta manera, aunque pareciera que
+el constructivismo tiene poco tiempo en el escenario del aprendizaje, su premisa básica de que los
+aprendices construyen el conocimiento subyace a muchos principios del aprendizaje. Éste es el as-
+pecto epistemológico del constructivismo. Algunas ideas constructivistas no están tan desarrolladas
+como las de otras teorías que estudiamos en este libro, pero el constructivismo ha influido en la teoría
+y la investigación del aprendizaje y el desarrollo.
+El constructivismo también ha influido en el pensamiento educativo acerca del currículo y
+la instrucción, ya que subraya el énfasis en el currículo integrado, según el cual los alumnos
+estudian un tema desde múltiples perspectivas. Por ejemplo, al estudiar los globos aerostáticos,
+los alumnos podrían leer y escribir acerca de ellos, aprender nuevas palabras de vocabulario
+relacionadas con ellos, visitar un lugar en el que haya globos de este tipo (práctica), estudiar
+los principios científicos involucrados con ellos, dibujarlos y aprender canciones sobre ellos. Las
+ideas de los constructivistas también se encuentran en muchas normas profesionales e influyen
+en el diseño del currículo en la instrucción, igual que en los principios centrados en el aprendiz
+que fueron desarrollados por la American Psychological Association (APA), los cuales se analizarán
+más adelante.
+Otro supuesto del constructivismo es que los profesores no deben enseñar en el sentido tradi-
+cional de dar instrucción a un grupo de estudiantes, sino que más bien deben estructurar situaciones
+en las que los estudiantes participen de manera activa con el contenido a través de la manipulación
+de los materiales y la interacción social. La manera en que el profesor estructuró la lección permitió
+que Anna construyera su comprensión. Algunas actividades incluyen la observación de fenómenos, la
+recolección de datos, la generación y prueba de hipótesis, y el trabajo colaborativo con otros indivi-
+duos. Los grupos visitan lugares fuera del aula. Los profesores de diferentes disciplinas planean juntos
+el programa de estudios; enseñan a los estudiantes a autorregularse y a participar activamente en su
+aprendizaje estableciendo metas, vigilando y evaluando su progreso y explorando sus intereses para
+adelantarse a los requisitos básicos (Bruning et al., 2004; Geary, 1995).
+Tabla 6.1
+Perspectivas constructivistas.
+3erspectiYa 3rePisas
+Exógena La adquisición de conocimiento representa una reconstrucción del mundo externo. El
+mundo influye en las creencias a través de las experiencias, la exposición a modelos
+y la enseñanza. El conocimiento es preciso en la medida que refleje la realidad
+externa.
+Endógena El aprendizaje se deriva del conocimiento adquirido con anterioridad y no
+directamente de las interacciones con el ambiente. El conocimiento no es un espejo
+del mundo exterior, sino que se desarrolla a través de la abstracción cognoscitiva.
+Dialéctica El conocimiento se deriva de las interacciones entre las personas y sus entornos. Las
+construcciones no están ligadas invariablemente al mundo externo ni por completo al
+funcionamiento de la mente. El conocimiento, más bien, refleja los resultados de las
+contradicciones mentales que se generan al interactuar con el entorno.
+Perspectivas
+El constructivismo no es un solo punto de vista, sino que tiene diferentes perspectivas (tabla 6.1;
+Bruning et al., 2004; Moshman, 1982; Phillips, 1995). El constructivismo exógeno se refiere a la idea
+de que la adquisición del conocimiento representa una reconstrucción de las estructuras que existen
+en el mundo externo. Este punto de vista sugiere una fuerte influencia del mundo externo sobre
+la construcción del conocimiento, como las experiencias, la enseñanza y la exposición a modelos.
+El conocimiento es preciso en la medida en que refleje la realidad. Las teorías contemporáneas del
+procesamiento de la información reflejan esta idea; por ejemplo, la de esquemas, la de producciones
+y la de redes de memoria (véase el capítulo 5).
+En contraste, el constructivismo endógeno destaca la coordinación de las acciones cognoscitivas
+(Bruning et al., 2004). Las estructuras mentales se crean a partir de estructuras anteriores y no direc-
+tamente de la información que proviene del ambiente; por lo tanto, el conocimiento no es un espejo
+del mundo externo que se adquiere por medio de las experiencias, la enseñanza o las interacciones
+sociales. El conocimiento se desarrolla a través de la actividad cognoscitiva de la abstracción y sigue
+una secuencia generalmente predecible. La teoría de Piaget (1970) sobre el desarrollo cognoscitivo,
+que se estudiará más adelante, refleja este marco de referencia.
+Entre estos extremos se encuentra el constructivismo dialéctico, el cual sostiene que el cono-
+cimiento se deriva de las interacciones entre las personas y sus entornos. Las construcciones no están
+ligadas invariablemente al mundo externo ni son el resultado único del funcionamiento de la mente;
+más bien, reflejan los resultados de las contradicciones mentales que se generan al interactuar con
+el ambiente. Esta perspectiva se ha alineado con muchas teorías contemporáneas. Por ejemplo, es
+compatible con la teoría cognoscitiva social de Bandura (1986) (véase el capítulo 4) y con muchas
+teorías de la motivación (véase el capítulo 8). El constructivismo dialéctico también es conocido como
+constructivismo cognoscitivo (Derry, 1996). Las teorías del desarrollo de Bruner (véase el capítulo 10) y
+Vygotsky, que se analizarán más adelante, también destacan la influencia del entorno social.
+Cada una de estas perspectivas tiene méritos y es potencialmente útil para la investigación y la
+enseñanza. Los puntos de vista exógenos son apropiados cuando lo que nos interesa es determinar
+el grado de exactitud con el cual los aprendices perciben la estructura del conocimiento dentro de un
+área. La perspectiva endógena es relevante para explorar de qué manera los aprendices pasan de ser
+novatos a adquirir mayores niveles de competencia (véase el capítulo 7). La perspectiva dialéctica es
+útil para diseñar intervenciones que desafíen el pensamiento de los niños y para la investigación que
+busca explorar la eficacia de las influencias sociales, como la exposición a modelos y la colaboración
+entre pares.
+Cognición situada
+Una premisa central del constructivismo es que los procesos cognoscitivos, incluyendo el pensamiento y
+el aprendizaje, están situados, es decir, localizados, en contextos físicos y sociales (Anderson, Reder
+y Simon, 1996; Cobb y Bowers, 1999; Greeno et al., 1998). La cognición situada (o aprendizaje
+situado) implica las relaciones entre una persona y una situación; los procesos cognoscitivos no resi-
+den sólo en la mente (Greeno, 1989).
+La idea de la interacción entre la persona y la situación no es nueva. La mayoría de las teorías
+contemporáneas del aprendizaje y el desarrollo asumen que las creencias y el conocimiento se forman
+a medida que las personas interactúan en situaciones. Este planteamiento contrasta con el modelo
+clásico del procesamiento de la información que destaca el procesamiento y el movimiento de in-
+formación a través de las estructuras mentales, por ejemplo, los registros sensoriales, la MT y la MLP
+(véase el capítulo 5). El procesamiento de la información le resta importancia a las situaciones una vez
+que se reciben los estímulos ambientales. La investigación en diversas disciplinas, incluyendo la psi-
+cología cognoscitiva, el aprendizaje cognoscitivo social y las áreas de contenido (como la lectura y las
+matemáticas) muestran que la perspectiva de la teoría del procesamiento de la información es limitada
+y que el pensamiento implica una extensa relación recíproca con el contexto (Bandura, 1986; Cobb y
+Bowers, 1999; Derry, 1996; Greeno, 1989).
+La investigación destaca la importancia de explorar la cognición situada como un medio para
+comprender la manera en que se desarrolla la competencia en áreas como lectoescritura, matemáticas
+(como observamos en la viñeta inicial) y ciencias (Cobb, 1994; Cobb y Bowers, 1999; Driver, Asoko,
+Leach, Mortimer y Scott, 1994; Lampert, 1990; capítulo 7). La cognición situada también es relevante
+para la motivación, como se verá en este capítulo y en el 8). Como ocurre con el aprendizaje, la mo-
+tivación no es un estado completamente interno, como lo plantean las perspectivas clásicas, o depen-
+diente sólo del entorno, como sugieren las teorías del reforzamiento (véase el capítulo 3). En vez de
+eso, la motivación depende de la actividad cognoscitiva en interacción con factores socioculturales y
+de instrucción, la cual incluye el lenguaje y ciertas formas de apoyo, como el andamiaje (Sivan, 1986).
+La cognición situada considera la idea intuitiva de que muchos procesos interactúan para producir
+el aprendizaje. Sabemos que la motivación y la instrucción están vinculadas: una buena instrucción
+puede aumentar la motivación para aprender, y los aprendices motivados buscan ambientes de ense-
+ñanza eficaces (Schunk, 1995). Otra ventaja de la perspectiva de la cognición situada es que conduce
+a los investigadores a explorar la cognición en contextos de aprendizaje auténtico, como escuelas,
+lugares de trabajo y hogares, muchos de los cuales incluyen tutorías y grupos de aprendizaje.
+La investigación sobre la eficacia del aprendizaje situado es reciente, pero sus resultados son pro-
+metedores. Griffin (1995) comparó la enseñanza tradicional (en el aula) para la interpretación de mapas
+con un método de aprendizaje situado en el que estudiantes universitarios practicaban esta habilidad en
+los lugares reales descritos en los mapas. Cuando se aplicó una evaluación sobre la interpretación de
+mapas, el grupo de aprendizaje situado se desempeñó mejor que el que aprendió dicha habilidad en el
+aula. Aunque Griffin no encontró ventajas del aprendizaje situado en la transferencia, los resultados de
+los estudios de este tipo de aprendizaje deberían poder generalizarse a contextos similares.
+La idea del aprendizaje situado también es relevante para la forma en que ocurre el aprendizaje
+(Greeno et al., 1998). Los estudiantes que fueron expuestos a cierto procedimiento para aprender una
+materia experimentaron la cognición situada para ese método; en otras palabras, aprendieron que esa
+es la forma en que se aprende este contenido. Por ejemplo, si un profesor de matemáticas enseña
+esta materia a los estudiantes, de manera repetida y didáctica, y al efectuarlo no sólo las explica sino
+que también las demuestra, y después hace que las practiquen de manera independiente poniéndolos
+a resolver problemas en clase, entonces el aprendizaje de las matemáticas se podría situar en este
+contexto. Los mismos alumnos podrían tener dificultades para adaptarse a un nuevo profesor que fa-
+vorece el uso del descubrimiento guiado, como el de la plática inicial, mediante grupos colaborativos
+de pares.
+La implicación para la instrucción es que los métodos de enseñanza deben reflejar los resultados
+que deseamos en nuestros estudiantes. Si estamos tratando de enseñarles habilidades de indagación,
+la instrucción debe incorporar actividades que la incluyan. El método y el contenido deben situarse
+de manera adecuada.
+La cognición situada se ajusta bien a la idea constructivista de que el contexto es una parte inhe-
+rente del aprendizaje. Se ha demostrado que esta idea es especialmente válida en ciertas áreas (véase
+el capítulo 7). Sin embargo, extender demasiado la idea del aprendizaje situado podría ser un error.
+Como Anderson, Reder y Simon (1996) demostraron, existe una enorme cantidad de evidencia empí-
+rica para la independencia contextual del aprendizaje y la transferencia del aprendizaje entre contex-
+tos. Necesitamos más información sobre cuáles tipos de aprendizaje son mejores cuando se vinculan
+firmemente con el contexto y cuándo es mejor enseñar habilidades más generales y después mostrar
+cómo se pueden aplicar en diferentes contextos.
+CONTRIBUCIONES Y APLICACIONES
+Dado lo novedoso del constructivismo, la investigación que explora los supuestos constructivistas
+acerca del aprendizaje aún se encuentra en sus primeras etapas. Otro factor que dificulta determinar
+las contribuciones del constructivismo es que todavía no cuenta con un método unificado que ofrezca
+hipótesis específicas que se puedan someter a prueba. Bereiter (1994) señaló que la afirmación de
+que “los estudiantes construyen su propio conocimiento” no es falsa, sino que es parte de todas las
+teorías cognoscitivas del aprendizaje. Las teorías cognoscitivas consideran la mente como un depósito
+de creencias, valores, expectativas, esquemas y otros elementos, de manera que cualquier explicación
+plausible de cómo esos pensamientos y sentimientos llegan a residir en la mente debe asumir que se
+forman ahí. Por ejemplo, la teoría cognoscitiva social destaca el papel que las expectativas (como la
+autoeficacia y los resultados) y las metas desempeñan en la formación de creencias y cogniciones, las
+cuales no surgen de la nada, sino que son construidas por los aprendices.
+A la larga será necesario evaluar el constructivismo, pero no para determinar si sus premisas son
+verdaderas o falsas, sino para determinar el proceso mediante el cual los estudiantes construyen el cono-
+cimiento, así como la manera en que los factores sociales, el desarrollo y la enseñanza influyen en él.
+También es necesario investigar en qué momento las influencias situacionales ejercen su mayor efecto
+en los procesos mentales. Una desventaja de muchas formas de constructivismo es su énfasis en el
+relativismo (Phillips, 1995), o la idea de que todas las formas de conocimiento son justificables porque
+son construidas por los aprendices, especialmente si reflejan el consenso social. Los educadores no
+pueden aceptar esta premisa porque la educación demanda el inculcar valores como la honestidad,
+la justicia y la responsabilidad en los estudiantes, sin importar si los grupos sociales los consideran o
+no importantes.
+Asimismo, es probable que la naturaleza limite nuestro pensamiento más de lo que estamos
+dispuestos a admitir. Las investigaciones sugieren que algunas habilidades matemáticas, como la co-
+rrespondencia uno a uno y la capacidad para contar, no se construyen, sino que están determinadas
+genéticamente (Geary, 1995; Gelman y Gallistel, 1978; capítulo 7). Lejos de ser relativas, es probable que algunas formas de conocimiento sean universalmente endógenas. La adquisición de otras com-
+petencias, como multiplicar y procesar palabras, requiere estímulos ambientales. Tal vez el construc-
+tivismo, con su énfasis en la mínima guía educativa, resta importancia a las estructuras cognoscitivas
+humanas, y es probable que los métodos de enseñanza que tienen más repercusión en estas estruc-
+turas cognoscitivas en realidad produzcan un mejor aprendizaje (Kirschner, Sweller y Clark, 2006).
+La investigación ayudará a establecer el alcance de los procesos constructivistas en la secuencia de
+adquisición de habilidades, así como la forma en que esos procesos cambian en función del desarrollo
+(Muller, Sokol y Overton, 1998).
+El constructivismo tiene importantes implicaciones para la enseñanza y el diseño curricular
+(Phillips, 1995). Las recomendaciones más directas son involucrar a los estudiantes de manera activa
+en su aprendizaje y proporcionarles experiencias que desafíen su pensamiento y los obliguen a reor-
+ganizar sus creencias. El constructivismo también respalda el énfasis actual en la enseñanza reflexiva,
+que se analizará más adelante en este capítulo. Las perspectivas constructivistas sociales, como la de
+Vygotsky, resaltan la utilidad del aprendizaje en grupos sociales y la colaboración entre pares (Ratner,
+Foley y Gimpert, 2002). Cuando los estudiantes actúan como modelos y observadores entre sí, no
+solamente enseñan habilidades, sino que experimentan una mayor autoeficacia para el aprendizaje
+(Schunk, 1995). En la aplicación 6.1 se ofrecen aplicaciones del constructivismo. Ahora examinaremos
+más a fondo el constructivismo y sus aplicaciones al aprendizaje humano. APLICACIÓN 6.1
+Constructivismo y enseñanza
+El constructivismo recomienda un currículo inte-
+grado y que los profesores utilicen los materiales
+de manera que los aprendices participen de forma
+activa. Kathy Stone aplica varias ideas constructivis-
+tas en su grupo de tercer grado utilizando unidades
+integradas. En otoño imparte una unidad sobre las
+calabazas. En ciencias sociales los niños aprenden
+en dónde se cultivan las calabazas y los produc-
+tos que se elaboran con ellas. También aprenden
+cómo se han usado a lo largo de la historia y los
+beneficios que proporcionaron a los primeros po-
+bladores de Estados Unidos.
+Kathy lleva a su grupo de excursión a una
+huerta de calabazas, donde los estudiantes apren-
+den cómo se cultivan. Cada alumno elige una ca-
+labaza y la lleva al salón de clases, con lo que la
+convierte en una valiosa herramienta de aprendi-
+zaje. En la clase de matemáticas, los estudiantes
+calculan cuánto mide y cuánto pesa; luego di-
+bujan una gráfica en grupo en la que comparan
+el tamaño, el peso, la forma y el color de sus
+calabazas. También calculan el número de se-
+millas de la calabaza de la profesora y las cuen-
+tan cuando la abre. En otra actividad en grupo
+los estudiantes hacen pan de calabaza. En la
+clase de artes diseñan una forma y, con la ayu-
+da de la profesora, la esculpen en su calabaza.
+Para la clase de literatura escriben una historia y
+una carta de agradecimiento para el dueño de la
+huerta. En la clase de ortografía Kathy utiliza las
+palabras que aprendieron al estudiar las calaba-
+zas. Estos ejemplos ilustran la forma en que la
+docente integra el estudio de las calabazas en
+su programa de estudios.
+TEORÍA DE PIAGET EN EL DESARROLLO COGNOSCITIVO
+En sus inicios, la teoría de Piaget tuvo poco impacto, pero gradualmente fue adquiriendo un lugar
+importante en el campo del desarrollo humano. Esta teoría abarca muchos tipos de desarrollo y es
+compleja; un resumen completo de ella rebasa el alcance de este libro. Los lectores interesados deben
+consultar otras fuentes (Brainerd, 2003; Furth, 1970; Ginsburg y Opper, 1988; Meece, 2002; Phillips,
+1969; Piaget, 1952, 1970; Piaget e Inhelder, 1969; Wadsworth, 1996). A continuación se presenta una
+exposición concisa de los puntos más relevantes para el constructivismo y el aprendizaje. Aunque la
+teoría del desarrollo cognoscitivo de Piaget ya no es una de las más aceptadas, sigue siendo impor-
+tante y presenta varias implicaciones útiles para la enseñanza y el aprendizaje.
+Procesos del desarrollo
+Equilibrio. Según Piaget, el desarrollo cognoscitivo depende de cuatro factores: la madurez biológica,
+la experiencia con el ambiente físico, la experiencia con el entorno social y el equilibrio. Los primeros
+tres se explican por sí mismos, pero sus efectos dependen del cuarto. El equilibrio es el impulso bioló-
+gico de producir un estado óptimo de equilibrio (o adaptación) entre las estructuras cognoscitivas y el
+ambiente (Duncan, 1995). El equilibrio es el factor central y la fuerza motivadora detrás del desarrollo
+cognoscitivo; coordina las acciones de los otros tres factores y permite que haya congruencia entre las
+estructuras mentales internas y la realidad ambiental externa.
+Para ilustrar cómo funciona el equilibrio, considere a Allison, una niña de seis años de edad,
+que está viajando en automóvil con su padre. Ellos viajan a 65 millas por hora, y aproximadamente
+a 100 yardas adelante de ellos se encuentra otro automóvil, al que han estado siguiendo durante un
+tiempo a una distancia que ha permanecido constante. El padre señala el automóvil y le pregunta a
+Allison: “¿Cuál automóvil va más rápido, el nuestro o el de adelante?, ¿o vamos a la misma veloci-
+dad?” Allison responde que el otro automóvil va más rápido. Cuando su padre le pregunta por qué,
+responde: “Porque está enfrente de nosotros”. Si el padre de Allison le dijera “En realidad vamos a la
+misma velocidad”, crearía un conflicto en ella, quien cree que el otro automóvil va más rápido pero
+recibe un estímulo ambiental que le genera un conflicto, el cual podría resolver utilizando uno de los
+dos procesos componentes del equilibrio: la asimilación y la acomodación. La asimilación consiste
+en ajustar la realidad externa a la estructura cognoscitiva existente. Cuando interpretamos, definimos
+y encuadramos alteramos la naturaleza de la realidad para ajustarla a nuestra estructura cognoscitiva.
+Para asimilar la información, Allison podría alterar la realidad pensando que su papá está bromeando
+o que quizá en ese momento los dos automóviles van a la misma velocidad pero que anteriormente
+el otro automóvil iba más rápido.
+La acomodación consiste en cambiar las estructuras internas para lograr que sean congruentes
+con la realidad externa. Acomodamos cuando adaptamos nuestras ideas para darle sentido a la rea-
+lidad. Para acomodar su sistema de creencias (estructuras) a la nueva información, Allison le creería
+a su padre sin entender por qué, o podría cambiar su sistema de creencias para incluir la idea de
+que no todos los automóviles que van adelante de ellos conducen a la misma velocidad que el que
+les sigue.
+La asimilación y la acomodación son procesos complementarios. Mientras la realidad se asimila,
+las estructuras se acomodan.
+Etapas. A partir de sus investigaciones, Piaget concluyó que el desarrollo cognoscitivo de los niños
+seguía una secuencia fija. El patrón de operaciones que el niño puede realizar podría considerarse
+como un nivel o etapa. Cada nivel o etapa se define por la manera en que el niño ve el mundo. Piaget
+y otras teorías que incluyen etapas suponen ciertas cosas (véase el capítulo 10):
+n Las etapas son discretas, separadas y cualitativamente diferentes. El paso de una etapa a otra no
+es una cuestión de mezcla gradual o de fusión continua.
+n El desarrollo de las estructuras cognoscitivas depende del desarrollo previo.
+n Aunque el orden del desarrollo de las estructuras no varía, la edad en la que se pasa por una
+etapa en particular varía de una persona a otra. Las etapas no deben equipararse a las edades.
+En la tabla 6.2 se muestra cómo describió Piaget la progresión de sus etapas. Se ha escrito mucho
+acerca de ellas y existen muchas publicaciones científicas sobre cada una. Aquí sólo se describen
+brevemente; los lectores que deseen profundizar en el tema deben consultar otras fuentes (Brainerd,
+2003; Byrnes, 1996; Meece, 2002; Wadsworth, 1996).
+En la etapa sensoriomotriz las acciones de los niños son espontáneas y representan un intento por
+entender el mundo. La comprensión se basa en las acciones presentes; por ejemplo, una pelota es para
+lanzarla y una botella es para chuparla. El periodo se caracteriza por cambios rápidos; un niño de dos
+años de edad es muy diferente de un bebé en lo que se refiere a su desarrollo cognoscitivo. Los niños
+equilibran de manera activa, aunque lo hacen a nivel primitivo. Las estructuras cognoscitivas se cons-
+truyen y alteran, y la motivación para hacer esto es interna. El concepto de motivación de efectancia
+(motivación de dominio; capítulo 8) es importante para los niños en la etapa sensoriomotriz. A finales
+de este periodo los niños han alcanzado un desarrollo cognoscitivo suficiente para avanzar a un nuevo
+pensamiento simbólico-conceptual, característico de la etapa preoperacional (Wadsworth, 1996).
+En la etapa preoperacional, los niños son capaces de imaginar el futuro y de reflexionar acerca del
+pasado, aunque su percepción permanece muy orientada hacia el presente. Estos niños pueden creer
+que en una fila de 10 monedas hay más monedas que en una pila de 10 monedas. Más aún, siguen sin
+tener la capacidad de pensar en más de una dimensión al mismo tiempo; por lo tanto, si se concentran
+en la longitud, pueden pensar que un objeto largo, como una vara, es más grande que uno corto, por
+ejemplo un ladrillo, aun cuando este último sea más ancho y profundo. Los niños en etapa preopera-
+cional demuestran irreversibilidad, es decir, creen que una vez que se hace algo a las cosas, ya no se
+puede cambiar, por ejemplo, pueden creer que una vez que se aplasta una caja, ya no puede volver
+a tomar la forma de una caja. También muestran dificultades para distinguir la fantasía de la realidad.
+Los personajes de las caricaturas les parecen tan reales como las personas. Este periodo se caracteriza
+por un rápido desarrollo del lenguaje y porque los niños se vuelven menos egocéntricos, se dan cuenta
+de que los otros pueden pensar y sentir de forma diferente que ellos.
+La etapa de operaciones concretas se caracteriza por un arcado crecimiento cognoscitivo, es un
+periodo muy formativo en la escuela, ya que el lenguaje y la adquisición de las habilidades básicas
+de los niños se aceleran de forma drástica. Los niños empiezan a manifestar cierto pensamiento abs-
+tracto, aunque por lo general se define mediante las propiedades o las acciones, por ejemplo, ser
+honesto es devolver el dinero a la persona que lo perdió. En esta etapa los niños manifiestan un pen-
+samiento menos egocéntrico y un lenguaje cada vez más social; también adquieren el pensamiento
+de reversibilidad, junto con la capacidad de clasificar y de formar series, conceptos que son esencia-
+les para la adquisición de las habilidades matemáticas. El pensamiento operacional concreto ya no es
+dominado por la percepción; los niños se basan en sus experiencias y no siempre son influidos por
+lo que perciben.
+La etapa de operaciones formales amplía el pensamiento operacional concreto. Los niños ya no se
+enfocan exclusivamente en lo tangible, ahora son capaces de pensar en situaciones hipotéticas. Las
+capacidades de razonamiento mejoran y los niños piensan en múltiples dimensiones y en propiedades
+abstractas. El egocentrismo surge en los adolescentes cuando comparan la realidad con lo ideal; en
+consecuencia, a menudo muestran un pensamiento idealista.
+Las etapas de Piaget han sido criticadas en muchos aspectos (Byrnes, 1996). Un problema es que
+los niños con frecuencia captan las ideas y son capaces de realizar operaciones más pronto de lo
+que Piaget plantea. Otro problema es que el desarrollo cognoscitivo en las diferentes áreas no suele
+ser similar; pocas veces un niño piensa en las formas típicas de una etapa con respecto a todas las
+cosas (matemáticas, ciencias, historia). Lo mismo ocurre con los adultos, que podrían comprender el
+mismo tema de forma muy diferente. Por ejemplo, algunos adultos piensan en el béisbol en términos
+preoperacionales, (“golpear la pelota y correr”), otros lo analizan en formas operacionalmente concre-
+tas (“¿Qué hago en las diferentes situaciones?”), y otros pueden razonar utilizando operaciones forma-
+les (“Explícame por qué una bola curva viaja formando una curva”). Sin embargo, como un marco de
+referencia general, las etapas describen los patrones de pensamiento que tienden a ocurrir, lo cual es
+útil para los educadores, los padres y otros profesionales que trabajan con niños.
+Mecanismos de aprendizaje. El equilibrio es un proceso interno (Duncan, 1995). Como tal, el desarrollo
+cognoscitivo únicamente se puede dar cuando, a través del equilibrio, se busca resolver el desequili-
+brio o conflicto cognoscitivo que surge en el momento en que las creencias del niño no coinciden con
+la realidad observada, es decir, cuando ocurre un suceso que modifica sus estructuras cognoscitivas.
+El equilibrio trata de resolver el conflicto mediante la asimilación y la acomodación.
+Piaget pensaba que el desarrollo se daba de manera natural a través de las interacciones habitua-
+les con los entornos físico y social. El impulso para los cambios en el desarrollo es interno. Los facto-
+res ambientales son extrínsecos; pueden influir en el desarrollo pero no dirigirlo. Esta cuestión tiene
+profundas implicaciones para la educación, ya que sugiere la posibilidad de que la enseñanza cause
+muy poco impacto sobre el desarrollo. Los profesores pueden organizar el ambiente para provocar un
+conflicto, pero no predecir cómo un niño en específico lo resolverá.
+Por lo tanto, el aprendizaje ocurre cuando los niños experimentan un conflicto cognoscitivo y lo
+asimilan o acomodan para construir o modificar sus estructuras internas. Sin embargo, es importante
+señalar que el conflicto no debe ser demasiado grande, ya que si lo fuera no se desencadenaría el
+equilibrio. El aprendizaje es óptimo cuando el conflicto es pequeño, sobre todo cuando los niños se
+encuentran en la transición entre dos etapas. Para que la información promueva un cambio estructural
+(acomodación), es necesario haberla comprendido parcialmente (asimilación). La estimulación del
+ambiente para facilitar el cambio debe tener un efecto despreciable, a menos que se haya iniciado la
+transición a la etapa crítica, de modo que el conflicto se pueda resolver con éxito mediante el equili-
+brio. Por consiguiente, el aprendizaje es limitado por las restricciones del desarrollo (Brainerd, 2003).
+Las evidencias científicas sobre el conflicto cognoscitivo no respaldan mucho el planteamiento de
+Piaget (Zimmerman y Blom, 1983a, 1983b; Zimmerman y Whitehurst, 1979). Rosenthal y Zimmerman
+(1978) resumieron los datos de varios estudios que revelaban que los niños en la etapa preoperacional
+son capaces de dominar tareas operacionales concretas mediante una enseñanza que involucre ex-
+plicaciones verbales y demostraciones modeladas. Según la teoría de Piaget, esto no podría ocurrir a
+menos que el niño se encuentre en la transición hacia otra etapa, un momento en el cual el conflicto
+cognoscitivo se encontraría a un nivel razonable.
+Los cambios de pensamiento de los niños característicos de las etapas parecen estar vinculados
+con cambios más graduales en la atención y el procesamiento cognoscitivo (Meece, 2002). Así, es
+probable que los niños no demuestren los niveles de comprensión de una etapa piagetiana por varias
+razones, como la falta de atención hacia los estímulos relevantes, la codificación inadecuada de la
+información, la incapacidad para relacionar información con los conocimientos previos o el uso de
+medios ineficaces para recuperar la información (Siegler, 1991). Cuando se enseña a los niños a utili-
+zar los procesos cognoscitivos de manera más eficaz, a menudo pueden realizar las tareas en niveles
+cognoscitivos más elevados.
+La teoría de Piaget es constructivista porque supone que los niños establecen sus propios con-
+ceptos sobre el mundo para darle sentido (Byrnes, 1996). Estos conceptos no son innatos, sino que
+los niños los adquieren a través de sus experiencias normales. El niño no recibe La información del
+entorno (incluyendo las personas) de manera automática, sino que la procesa de acuerdo con las es-
+tructuras mentales que ya posee. Los niños le dan un sentido a su ambiente y construyen la realidad
+con base en sus capacidades actuales. A su vez, esos conceptos básicos se convierten en perspectivas
+más sofisticadas a través de la experiencia.
+Implicaciones para la enseñanza
+Piaget consideraba que el desarrollo cognoscitivo no se puede enseñar, aunque algunas investigacio-
+nes demuestran que es posible acelerarlo (Zimmerman y Whitehurst, 1979). La teoría y la investigación
+tienen ciertas implicaciones para la enseñanza (tabla 6.3).
+Comprender el desarrollo cognoscitivo. Los profesores se benefician cuando comprenden en qué
+niveles están funcionando sus estudiantes. No debemos esperar que todos los alumnos de un grupo
+operen al mismo nivel. Muchas tareas piagetianas son fáciles de asignar (Wadsworth, 1996). Los pro-
+fesores pueden tratar de determinar los niveles y ajustar su enseñanza a ellos. Los estudiantes que pa-
+rezcan estar experimentando la transición a otra etapa pueden aprovechar la enseñanza en el siguiente
+grado de dificultad, ya que así el conflicto no será demasiado grande para ellos.
+Mantener activos a los estudiantes. Piaget criticó el aprendizaje pasivo. Los niños necesitan ambientes
+estimulantes que les permitan explorar de forma activa y que incluyan actividades prácticas. Este tipo
+de enseñanza facilita la construcción activa del conocimiento.
+APLICACIÓN 6.1
+Piaget y la educación
+En cualquier grado escolar, los docentes deben
+evaluar el nivel de desarrollo de sus estudiantes
+antes de planear sus lecciones; deben saber cómo
+piensan sus alumnos para provocarles un conflicto
+cognoscitivo a un nivel razonable, de modo que
+puedan resolverlo a través de la asimilación y la
+acomodación. Kathy Stone, por ejemplo, suele te-
+ner estudiantes que operan tanto a nivel preope-
+racional como a nivel de operaciones concretas, y
+esto implica que una lección no es suficiente para
+una unidad específica. Además, como algunos de
+los niños captan las operaciones con mayor rapi-
+dez que otros, necesita organizar actividades enri-
+quecedoras para sus lecciones.
+Al planear las unidades para su clase de
+historia, Jim Marshall incluye componentes que
+requieren una comprensión básica, y otros que
+necesitan del razonamiento abstracto. Por con-
+siguiente, incorpora actividades que exigen res-
+puestas de hechos, así como actividades que no
+tienen respuestas correctas o incorrectas pero que
+requieren que los estudiantes piensen de forma
+abstracta y construyan sus ideas a través de jui-
+cios razonados basados en datos. Para los estu-
+diantes que aún no operan plenamente a nivel
+operacional formal, los componentes que nece-
+sitan del razonamiento abstracto suelen producir
+el conflicto cognoscitivo deseado y fomentan un
+nivel de pensamiento más elevado. En el caso de
+los alumnos que ya operan a nivel operacional
+formal, las actividades de razonamiento continúan
+planteando desafíos.
+Provocar incongruencia. El desarrollo ocurre solamente cuando los estímulos ambientales no se ajus-
+tan a las estructuras cognoscitivas de los estudiantes. El material no debe ser demasiado fácil de asi-
+milar, pero tampoco tan difícil como para impedir la acomodación. También se puede fomentar la
+incongruencia permitiendo a los alumnos resolver problemas que los lleven a respuestas incorrectas.
+La teoría de Piaget no establece que el niño siempre deba tener éxito; la retroalimentación del profesor
+que indica una respuesta correcta puede fomentar el desequilibrio.
+Fomentar la interacción social. Aunque la teoría de Piaget sostiene que el desarrollo se puede dar sin
+la interacción social, el entorno social es siempre una fuente fundamental para el desarrollo cognos-
+citivo. Las actividades que fomentan las interacciones sociales son útiles. El hecho de aprender que
+los demás tienen diferentes puntos de vista ayuda a que los niños se vuelvan menos egocéntricos. En
+la aplicación 6.2 se presentan formas en que los profesores podrían ayudar a fomentar el desarrollo
+cognoscitivo.
+TEORÍA SOCIOCULTURAL DE VYGOTSKY
+Al igual que la teoría de Piaget, la de Vygotsky es una teoría constructivista; sin embargo, este úl-
+timo asigna mayor importancia al entorno social como un facilitador del desarrollo y del aprendizaje
+(Tudge y Scrimsher, 2003). A continuación analizaremos los antecedentes de esta teoría, junto con sus
+principales supuestos y principios.
+Antecedentes
+Lev Semenovich Vygotsky nació en Rusia en 1896. Estudió varias materias en la escuela, incluyendo
+psicología, filosofía y literatura; además, obtuvo el título de abogado en la Universidad Imperial de
+Moscú en 1917. Después de graduarse regresó a Gomel, su tierra natal, donde estuvo rodeado de pro-
+blemas debido a la ocupación alemana, la hambruna y la guerra civil. Dos de sus hermanos murieron
+y él contrajo tuberculosis, la enfermedad que terminó con su vida. Fue profesor de psicología y litera-
+tura, hizo crítica literaria y editó una revista. Además, trabajó en una institución en donde capacitó a
+profesores, fundó un laboratorio de psicología y escribió un libro sobre psicología educativa (Tudge
+y Scrimsher, 2003).
+En 1924, en el Segundo Congreso Ruso de Psiconeurología, realizado en Leningrado, ocurrió
+un acontecimiento crítico en su vida. En esa época, en la cual la teoría psicológica prevaleciente re-
+chazaba las experiencias subjetivas y favorecía los reflejos condicionados de Pavlov y el énfasis del
+conductismo sobre las influencias ambientales, Vygotsky presentó “Los métodos de la investigación
+reflexológica y psicológica”, un trabajo en el que criticaba las perspectivas dominantes y hablaba de
+la relación entre los reflejos condicionados y la conciencia y la conducta humana. Los experimentos
+de Pavlov con perros (véase el capítulo 3) y los estudios de Köhler con simios (véase el capítulo 7)
+borraron muchas de las diferencias entre los animales y los seres humanos.
+Vygotsky planteaba que, a diferencia de los animales que se limitan a reaccionar al ambiente, los
+seres humanos tienen la capacidad de modificarlo para su beneficio. Esta capacidad adaptativa distin-
+gue a los seres humanos de formas de vida inferiores. Su discurso causó tanto impacto en un miembro
+de su audiencia (Alexander Luria, de quien se hablará más adelante en este capítulo), que fue invitado
+a unirse al prestigioso Instituto de Psicología Experimental de Moscú, en donde ayudó a establecer
+el Instituto de Defectología, cuyo objetivo era estudiar formas para ayudar a las personas discapaci-
+tadas. Hasta su muerte en 1934, escribió extensamente sobre la mediación social del aprendizaje y el
+papel que en éste desempeña la conciencia, a menudo con la colaboración de colegas como Luria y
+Leontiev (Rohrkemper, 1989).
+Para entender la perspectiva de Vygotsky, es necesario tener en cuenta su postura marxista,
+y que sus ideas representaban un intento por aplicar las ideas marxistas del cambio social al len-
+guaje y al desarrollo (Rohrkemper, 1989). Después de la Revolución rusa de 1917, el ímpetu de
+los nuevos líderes produjo un cambio rápido en el pueblo. La firme orientación teórica sociocul-
+tural de Vygotsky se ajustaba bien a las metas revolucionarias de cambiar la cultura a un sistema
+socialista.
+Vygotsky tuvo cierto acceso a la sociedad occidental, en concreto a escritores como Piaget
+(Bredo, 1997; Tudge y Winterhoff, 1993), pero durante su vida o poco tiempo después de su
+muerte muy pocos de sus escritos fueron publicados (Gredler, 2009). En la antigua Unión Soviética
+prevalecía un clima político negativo; el Partido Comunista prohibió, entre otras cosas, las prue-
+bas y las publicaciones sobre psicología. Vygotsky adoptó un pensamiento revisionista (Bruner,
+1984); pasó de una perspectiva pavloviana de la psicología enfocada en los reflejos a una pers-
+pectiva histórico-cultural que destacaba el lenguaje y la interacción social (Tudge y Scrimsher,
+2003). Algunos de sus escritos entraban en conflicto con las ideas de Stalin, por lo que no fueron
+publicados. Hasta la década de 1980 las referencias a su trabajo estaban prohibidas en la Unión
+Soviética (Tudge y Scrimsher, 2003). En años recientes cada vez más de sus escritos han sido tra-
+ducidos y distribuidos, lo que ha incrementado su impacto sobre disciplinas como la educación,
+la psicología y la lingüística.
+PRINCIPIOS BÁSICOS
+Una de sus principales contribuciones a la psicología fue su énfasis en la actividad socialmente signi-
+ficativa como una influencia importante en la conciencia humana (Bredo, 1997; Kozulin, 1986; Tudge
+y Winterhoff, 1993). Vygotsky trató de explicar el pensamiento humano de formas novedosas; rechazó
+la introspección (véase el capítulo 1) y formuló muchas de las mismas críticas que los conductistas.
+Quería dejar de explicar los estados de conciencia y referirse al concepto de conciencia; también
+rechazó las explicaciones conductuales de la acción en términos de acciones previas. En lugar de des-
+cartar la conciencia —lo que hicieron los conductistas— o el papel que desempeña el ambiente en el
+desarrollo cognoscitivo —lo que plantearon los introspeccionistas—, buscó un punto medio en el que
+se tomaran en cuenta las influencias ambientales a través de sus efectos sobre la conciencia.
+La teoría de Vygotsky destaca la interacción de los factores interpersonales (sociales), los histó-
+rico-culturales y los individuales como la clave del desarrollo humano (Tudge y Scrimsher, 2003). Al
+interactuar con las personas en el entorno, como cuando se trabaja en grupos de aprendizaje o en
+colaboración, se estimulan procesos del desarrollo y se fomenta el crecimiento cognoscitivo. Pero para
+Vygotsky la utilidad de las interacciones no radica, como en el sentido tradicional, en que proporcio-
+nan información a los niños, sino en que les permiten transformar sus experiencias con base en su
+conocimiento y características, así como reorganizar sus estructuras mentales.
+Los aspectos histórico-culturales de la teoría de Vygotsky aclaran la cuestión de que no es posible
+separar el aprendizaje y el desarrollo del contexto en el que ocurren. La manera en que los aprendices
+interactúan con sus mundos (es decir, con las personas, los objetos y las instituciones que los confor-
+man) transforman su pensamiento. El significado de los conceptos cambia cuando se vincula con el
+mundo (Gredler, 2009). En consecuencia, “escuela” no es simplemente una palabra o una estructura
+física, sino también una institución que busca fomentar el aprendizaje y el civismo.
+Existen también factores individuales o heredados que influyen en el desarrollo. Vygotsky estaba
+interesado en los niños con discapacidades mentales y físicas porque creía que sus características
+heredadas producían trayectorias de aprendizaje diferentes a las de los niños que no tenían esos pro-
+blemas.
+De esos tres factores, el que ha recibido mayor atención, al menos entre los investigadores
+y profesionales occidentales, es el interpersonal. Vygotsky consideraba que el entorno social era
+fundamental para el aprendizaje y que las interacciones sociales transformaban las experiencias rela-
+cionadas con ese aprendizaje. La actividad social es un fenómeno que ayuda a explicar los cambios
+en la conciencia y establece una teoría psicológica que unifica a la conducta y la mente (Kozulin,
+1986; Wertsch, 1985).
+El entorno social influye en la cognición a través de sus “herramientas”, es decir, sus objetos cul-
+turales, como los automóviles y las máquinas; su lenguaje y sus instituciones sociales, por ejemplo, las
+escuelas y las iglesias. Las interacciones sociales ayudan a coordinar los tres factores que influyen en
+el desarrollo. El cambio cognoscitivo es el resultado de utilizar las herramientas culturales en las inte-
+racciones sociales y de internalizar y realizar la transformación mental de esas interacciones (Bruning
+et al., 2004). La postura de Vygotsky es un tipo de constructivismo dialéctico (cognoscitivo); es cons-
+tructivismo porque hace hincapié en la interacción entre las personas y sus entornos. La mediación es
+el mecanismo clave en el desarrollo y el aprendizaje:
+Todos los procesos psicológicos de los seres humanos (procesos mentales superiores) son media-
+dos por herramientas psicológicas como el lenguaje, los signos y los símbolos. Los adultos enseñan
+estas herramientas a los niños en el transcurso de sus actividades conjuntas (colaborativas). Una vez
+que los niños internalizan estas herramientas, funcionan como mediadores de sus procesos psicoló-
+gicos más avanzados.
+Tabla 6.4
+Principales ideas de la teoría de Vygotsky.
+n Las interacciones sociales son fundamentales␞ el conocimiento se construye entre dos o más personas.
+n La autorregulación se desarrolla mediante la internalización (desarrollando una representación interna)
+de las acciones y de las operaciones mentales que ocurren en las interacciones sociales.
+n El desarrollo humano ocurre a través de la transmisión cultural de herramientas (lenguaje y símbolos).
+n El lenguaje es la herramienta más importante␞ su desarrollo va desde el discurso social y el discurso privado,
+hasta el discurso cubierto (internos).
+n La zona de desarrollo próximo (=DP) es la diferencia entre lo que los niños pueden hacer por sí mismos y lo que
+pueden hacer con ayuda de otros. Las interacciones con los adultos y los pares en la =DP fomentan el desarrollo
+cognoscitivo.
+El argumento más polémico de Vygotsky es que todas las funciones mentales superiores se origi-
+nan en el entorno social (Vygotsky, 1962). Se trata de una aseveración poderosa, pero posee un alto
+grado de verdad. El proceso más influyente involucrado en el desarrollo cognoscitivo es el lenguaje.
+Vygotsky creía que un componente fundamental para el desarrollo psicológico era el dominio de los
+procesos externos de transmisión del desarrollo cultural y del pensamiento a través de símbolos como el
+lenguaje, el conteo y la escritura. Una vez que se domina este proceso, el siguiente paso consiste en utili-
+zar esos símbolos para influir y autorregular los pensamientos y las acciones. La autorregulación utiliza
+la importante función del discurso privado, que se analizará más adelante en este capítulo.
+A pesar de estas impresionantes ideas, al parecer las aseveraciones de Vygotsky son muy firmes.
+Las evidencias de investigaciones revelan que los niños pequeños descubren mentalmente muchos
+conocimientos acerca de cómo opera el mundo, mucho tiempo antes de que tengan la oportunidad de
+aprender de la cultura en la que viven (Bereiter, 1994). Al parecer, los niños también están biológica-
+mente predispuestos a adquirir ciertos conceptos, por ejemplo, a comprender que al sumar aumenta la
+cantidad; y que esto no depende del entorno (Geary, 1995). Aunque el aprendizaje social influye en
+la construcción del conocimiento, la afirmación de que todo el aprendizaje se deriva del entorno social
+parece exagerada. Sin embargo, sabemos que la cultura de los aprendices es fundamental, y que es
+necesario tomarla en cuenta al explicar el aprendizaje y el desarrollo. En la tabla 6.4 (Meece, 2002) se
+presenta un resumen de las principales ideas de la teoría de Vygotsky (1978).
+Zona de desarrollo próximo
+Un concepto importante es la zona de desarrollo próximo (ZDP), que se define como “la distancia
+entre el nivel actual del desarrollo, determinada mediante la solución independiente de problemas,
+y el nivel de desarrollo potencial, determinado por medio de la solución de problemas bajo la guía
+adulta o en colaboración con pares más capaces” (Vygotsky, 1978, p. 86). La ZDP representa la can-
+tidad de aprendizaje que un estudiante puede lograr en las condiciones de instrucción apropiadas
+(Puntambekar y Hübscher, 2005); se trata principalmente de una prueba del desarrollo de un estu-
+diante, que indica su preparación o nivel intelectual en un área específica, muestra la relación entre
+el aprendizaje y el desarrollo (Bredo, 1997; Campione, Brown, Ferrara y Bryant, 1984) y se puede
+considerar como un concepto alternativo al de inteligencia (Belmont, 1989). En la ZDP un profesor
+y un aprendiz (adulto/niño, tutor/alumno, modelo/observador, profesor/aprendiz, experto/novato)
+trabajan en conjunto en una tarea que el aprendiz no puede realizar de forma independiente debido
+a su nivel de dificultad. La ZDP refleja la idea marxista de la actividad colectiva, en la cual aquellos
+que saben más o son más hábiles comparten ese conocimiento o habilidad para realizar una tarea con
+aquellos que saben menos (Bruner, 1984).
+Cuando el profesor y el aprendiz comparten herramientas culturales ocurre un cambio cognosci-
+tivo en la ZDP; mientras que cuando el aprendiz internaliza esta interacción mediada culturalmente,
+se produce en él un cambio cognoscitivo (Bruning et al., 2004; Cobb, 1994). Para trabajar en la ZDP
+se requiere mucha participación guiada (Rogoff, 1986); sin embargo, los niños no adquieren cono-
+cimientos culturales de forma pasiva a partir de esas interacciones, y lo que aprenden no es necesa-
+riamente un reflejo automático preciso de los acontecimientos. Más bien, los aprendices aplican su
+propia comprensión a las interacciones sociales y construyen significados al integrar esa comprensión
+a sus experiencias en el contexto. A menudo el aprendizaje se produce de manera repentina, como el
+discernimiento que plantean los teóricos de la Gestalt (véase el capítulo 7), más que como un reflejo
+de una adquisición gradual de conocimientos (Wertsch, 1984).
+Por ejemplo, suponga que una profesora (Trudy) y una niña (Laura) trabajarán en una tarea (di-
+bujar a mamá, papá y Laura haciendo algo juntos en casa). Laura aporta a la tarea su comprensión
+de cómo son las personas y la casa, y del tipo de cosas que podrían hacer, combinada con su cono-
+cimiento de cómo hacer dibujos. Trudy aporta la misma comprensión, además de su conocimiento
+de las condiciones necesarias para trabajar en diversas tareas. Suponga que deciden dibujar a los tres
+trabajando en el jardín. Laura podría dibujar a su papá podando el césped, a su mamá recortando
+los arbustos y dibujarse a ella misma barriendo la hierba. Si Laura quisiera dibujarse enfrente de su
+papá, Trudy tendría que explicarle que debe aparecer detrás de él, barriendo la hierba que va dejando
+después de cortarla. Durante la interacción Laura modifica sus creencias acerca del trabajo en el jar-
+dín con base en su comprensión actual y en los nuevos conocimientos que construye. A pesar de la
+importancia de la ZDP, el excesivo énfasis que las culturas occidentales han puesto en él ha distorsio-
+nado su significado y restado importancia a la complejidad de la teoría de Vygotsky. Como explican
+Tudge y Scrimsher (2003):
+Además, con frecuencia el concepto en sí se ha considerado de una forma muy limitada, destacando
+el aspecto interpersonal a expensas del individuo y de los niveles histórico-culturales, y tratándolo de
+manera unidireccional. Al utilizar el concepto como sinónimo de “andamiaje”, demasiados autores se
+han enfocado en el papel que desempeñan en éste las personas más competentes, especialmente el
+profesor, cuya función consiste en proporcionar ayuda sólo para mejorar el tipo de pensamiento actual
+del niño... Así, el concepto se ha equiparado con lo que los profesores cuidadosos deberían hacer con
+sus alumnos y, al pasar por alto lo que el niño aporta a la interacción y el contexto más amplio (cultural
+e histórico) en el que se lleva a cabo la interacción, se ha perdido gran parte de la complejidad que le
+infundió Vygotsky (p. 211).
+La influencia del entorno histórico-cultural se observa claramente en la creencia de Vygotsky de
+que la escuela es importante, no porque sea el lugar donde se proporcione andamiaje a los alumnos,
+sino porque les permite desarrollar una mayor conciencia de sí mismos, de su lenguaje y del papel
+que les toca desempeñar en el orden mundial. Participar en el mundo cultural transforma el funcio-
+namiento de la mente más que simplemente acelerar los procesos que, de cualquier manera, se de-
+sarrollarán. Por lo tanto, en términos generales, la ZDP se refiere a nuevas formas de conciencia que
+ocurren a medida que la gente interactúa con sus instituciones sociales. La cultura influye en el curso
+del propio desarrollo mental. Es desafortunado que, en la mayoría de los análisis de la ZDP, ésta se
+conciba de forma tan estrecha como un profesor experto proporcionando oportunidades de aprendi-
+zaje a un estudiante (aunque esto sea parte de ella).
+Aplicaciones
+Las ideas de Vygotsky se prestan a muchas aplicaciones educativas (Karpov y Haywood, 1998; Moll,
+2001). El campo de la autorregulación (véase el capítulo 9) ha sido muy influido por la teoría. La
+autorregulación requiere procesos metacognitivos, como la planeación, la verificación y la evaluación.
+En esta sección y en la aplicación 6.3, se incluyen otros ejemplos.
+Existen muchas maneras de ayudar a los estudiantes a adquirir mediadores cognoscitivos
+(como signos y símbolos) a través del entorno social. Una aplicación común implica el concepto
+de andamiaje instruccional, que se refiere al proceso de control de los elementos de las tareas
+que rebasan las capacidades de los estudiantes con el fin de que se concentren y dominen los as-
+pectos de la tarea que pueden captar con rapidez (Bruning et al., 2004; Puntambekar y Hübscher,
+2005). Para utilizar una analogía del andamiaje utilizado en los proyectos de construcción, el an-
+damiaje instruccional tiene cinco funciones principales: proporcionar apoyo al aprendiz, funcionar
+APLICACIÓN 6.3
+Teoría de Vygotsky
+Vygotsky planteó que las interacciones con el en-
+torno ayudan al aprendizaje. Las experiencias que
+las personas aportan a la situación de aprendizaje
+influyen de manera importante en el resultado.
+Los entrenadores de patinaje sobre hielo pue-
+den trabajar con estudiantes avanzados que han
+aprendido muchas cosas acerca de este deporte y
+de la manera en que su cuerpo se comporta so-
+bre el hielo. Los estudiantes aportan sus concep-
+tos de equilibrio, velocidad, movimiento y control
+corporal obtenidos a partir de sus experiencias en
+el patinaje. Los entrenadores utilizan las fortalezas
+y debilidades de sus estudiantes y los ayudan a
+aprender a modificar varios movimientos para me-
+jorar su desempeño. Por ejemplo, un entrenador
+ve que una patinadora muestra problemas para
+completar un giro triple aunque tiene la altura y la
+velocidad necesarias para completar el salto. El en-
+trenador observa que el problema se debe a que al
+dar la vuelta la patinadora gira su pie en cierto án-
+gulo, lo que altera la cadencia de sus movimientos.
+Una vez que el entrenador le hace la observación y
+la ayuda a aprender a modificar ese movimiento, la
+patinadora realiza el salto de forma exitosa.
+Los estudiantes de veterinaria que fueron
+instruidos en granjas y tienen experiencia en na-
+cimientos, enfermedades y cuidado de diversos
+tipos de animales aportan conocimientos valio-
+sos a su entrenamiento. Los profesores pueden
+utilizar estas experiencias para mejorar su apren-
+dizaje. Al enseñar a los estudiantes a tratar la
+pata lastimada de una vaca o de un caballo, el
+instructor podría pedirle a uno de esos alumnos
+instruidos en granjas que hable acerca de lo que
+ha observado, y partir de ese conocimiento ex-
+plicar los métodos de tratamiento más novedo-
+sos y eficaces.
+como herramienta, ampliar el alcance del aprendiz, permitirle lograr tareas que de otra forma no po-
+dría lograr y usarla selectivamente sólo en caso necesario.
+En una situación de aprendizaje, es probable que al principio el profesor tenga que hacer la mayor
+parte del trabajo, pero después los estudiantes deben compartir con él la responsabilidad. A medida
+que los alumnos se vuelven más competentes, el docente va retirando gradualmente el andamiaje
+para permitirles desempeñarse de manera independiente (Campione et al., 1984). La clave consiste en
+asegurarse de que el andamiaje mantenga a los estudiantes en la ZDP, la cual aumenta cuando éstos
+desarrollan habilidades. A los alumnos se les desafía a aprender dentro de los límites de la ZDP. En la
+conversación inicial, vimos cómo Anna fue capaz de aprender con el apoyo de enseñanza adecuado.
+Es muy importante entender que el andamiaje no es una parte formal de la teoría de Vygotsky
+(Puntambekar y Hübscher, 2005); el término fue acuñado por Wood, Bruner y Ross (1976). Sin em-
+bargo, se ajusta muy bien al concepto de la zona de desarrollo próximo. El andamiaje forma parte de
+la técnica de modelamiento participante de Bandura (1986) (véase el capítulo 4), en el que un profe-
+sor empieza por modelar una habilidad, después proporciona apoyo y va reduciendo gradualmente
+la ayuda a medida que los estudiantes desarrollan la habilidad. El concepto también guarda cierta
+relación con el moldeamiento (véase el capítulo 3), en el cual se utilizan apoyos educativos para guiar
+a los estudiantes a través de varias etapas para la adquisición de habilidades.
+El andamiaje es apropiado cuando un profesor desea proporcionar a los estudiantes cierta infor-
+mación o realizar por ellos partes de una tarea con el fin de que se puedan concentrar en la parte de
+la tarea que tratan de dominar. De esta manera, si Kathy Stone estuviera trabajando con sus alumnos
+de tercer grado en la organización de enunciados en un párrafo para expresar ideas de manera lógica,
+podría ayudarlos proporcionándoles inicialmente los enunciados con el significado y la ortografía de
+las palabras para que estos requisitos no interfirieran con su tarea principal. A medida que se vuelvan
+más hábiles para unir secuencias de ideas, les podría pedir que compusieran sus propios párrafos,
+pero sin dejar de ayudarlos con el significado y la ortografía de las palabras. Con el tiempo, los estu-
+diantes asumirán la responsabilidad de esas funciones. En resumen, el docente crea una ZDP y pro-
+porciona el andamiaje para que los estudiantes obtengan éxito (Moll, 2001).
+Otra aplicación que refleja las ideas de Vygotsky es la enseñanza recíproca. Esta técnica se ana-
+lizará y ejemplificará en el capítulo 7, junto con la lectura. La enseñanza recíproca implica un diálogo
+interactivo entre un profesor y un pequeño grupo de estudiantes. Al principio el docente modela
+las actividades, y después él y los alumnos se turnan para desempeñar el papel de profesor. Si los
+estudiantes están aprendiendo a hacer preguntas durante la lectura de comprensión, la secuencia de
+enseñanza podría incluir al profesor modelando una estrategia de indagación para determinar el nivel
+de comprensión. Desde la perspectiva de Vygotsky, la enseñanza recíproca comprende la interacción
+social y el andamiaje cuando los estudiantes desarrollan habilidades de manera gradual.
+Otra área importante de aplicación es la colaboración entre pares, que reflejan el concepto de acti-
+vidad colectiva (Bruner, 1984; Ratner et al., 2002; véase la sección sobre el aprendizaje asistido por los
+pares más adelante en este capítulo). Cuando los pares trabajan en una tarea de forma colaborativa, las
+interacciones sociales compartidas pueden tener una función instruccional. Las investigaciones revelan
+que los grupos cooperativos son más eficaces cuando se asignan responsabilidades a cada estudiante
+y todos deben lograr cierto grado de competencia antes de que el grupo pueda continuar con la tarea
+(Slavin, 1995). Los grupos de pares se suelen utilizar para el aprendizaje en campos como las mate-
+máticas, las ciencias y la literatura (Cobb, 1994; Cohen, 1994; DiPardo y Freedman, 1988; Geary, 1995;
+O´Donnell, 2006), lo que demuestra el reconocido impacto del entorno social durante el aprendizaje.
+Una aplicación importante de la teoría de Vygotsky y de la cognición situada es la guía social
+a través de los grupos de aprendizaje (Radziszewska y Rogoff, 1991; Rogoff, 1990), en los cuales los
+aprendices trabajan de forma estrecha con expertos en actividades conjuntas relacionadas con el
+trabajo. Los grupos de aprendizaje se ajustan bien al concepto de ZDP porque se dan en institucio-
+nes culturales, como escuelas y organismos y, por consiguiente, ayudan a transformar el desarrollo
+cognoscitivo de los aprendices. En la práctica, operan dentro de una ZDP porque a menudo realizan
+tareas que rebasan sus capacidades. Al trabajar con expertos, los novatos desarrollan una comprensión
+compartida de procesos importantes, la cual integran a los conocimientos que ya poseen. Los grupos
+de aprendizaje representan un tipo de constructivismo dialéctico que depende en gran parte de las
+interacciones sociales.
+Childs y Greenfield (1981) describieron un ejemplo de grupos de aprendizaje en un contexto cul-
+tural particular, el de las tejedoras chinantecas de Oaxaca, México, relacionado con la enseñanza de
+tejido. En esa cultura las niñas observan desde que nacen cómo sus madres y otras mujeres mayores
+tejen, de manera que cuando les empiezan a enseñar, ya han estado expuestas a muchos modelos.
+Observaron que en las primeras fases de la instrucción el adulto pasaba más de 90 por ciento del
+tiempo tejiendo con la niña y que después de tejer la primera prenda ese tiempo se reducía a 50 Por
+ciento. Luego, el adulto trabajaba los aspectos más difíciles de la tarea. Después de tejer cuatro pren-
+das, la participación del adulto se reducía a menos de 40 por ciento. Este procedimiento de enseñanza
+ejemplifica una interacción social cercana y el andamiaje dentro de la ZDP.
+Los grupos de aprendizaje se utilizan en muchas áreas de la educación. Los futuros profesores tra-
+bajan en cooperación con los profesores en las escuelas y, cuando empiezan a practicar la docencia,
+suelen unirse a profesores experimentados para recibir tutoría. Los estudiantes realizan investigación
+con los profesores, quienes fungen como tutores (Mullen, 2005). Los futuros consejeros hacen prácti-
+cas bajo la guía directa de un supervisor. Los programas de estudios prácticos de capacitación utilizan
+el modelo de los grupos de aprendizaje cuando los estudiantes adquieren habilidades en el entorno
+laboral real e interactúan con otras personas. Se ha puesto mucho énfasis en ampliar los grupos de
+aprendizaje para los jóvenes, en especial para aquellos que no asisten a la universidad (Bailey, 1993).
+En futuras investigaciones se deben evaluar los factores que influyen en el éxito de los grupos de
+aprendizaje para contar con medios que permitan fomentar la adquisición de habilidades en estudian-
+tes de diversas edades.
+Críticas
+Es difícil evaluar las contribuciones de la teoría de Vygotsky al desarrollo y aprendizaje humanos
+(Tudge y Scrimsher, 2003). Sus trabajos no se distribuyeron durante muchos años y únicamente hasta
+hace poco tiempo empezamos a disponer de traducciones; apenas existen unas cuantas fuentes de sus
+escritos (Vygotsky, 1978, 1987). Los investigadores y los profesionales han tendido a enfocarse en la
+ZDP sin ubicarla en un contexto teórico más general, centrado en la influencia cultural.
+Otro problema que a menudo se encuentra cuando se analizan las aplicaciones de la teoría
+de Vygotsky, es que no forman parte de la teoría, sino que parecen ajustarse a ella. Por ejemplo,
+cuando Wood y sus colaboradores (1976) introdujeron el término andamiaje, consideraron que éste
+permitiría a los profesores estructurar los ambientes de aprendizaje, lo cual tiene muy poca relación
+con la zona de desarrollo próximo dinámica a la que se refiere Vygotsky. Aunque la enseñanza
+recíproca no es un concepto creado por Vygotsky, capta mucho mejor este sentido de interacción
+dinámica y multidireccional.
+Dadas estas cuestiones, ha habido poco debate sobre qué tan adecuada es la teoría. Con fre-
+cuencia surge el debate de “Piaget contra Vygotsky”, el cual compara sus posturas supuestamente
+discrepantes sobre el curso del desarrollo humano, aunque coinciden en muchos aspectos (Duncan,
+1995). Si bien este tipo de debates revelan las diferencias y proporcionan hipótesis de investigación
+que se pueden someter a prueba, no son útiles para los educadores que buscan formas para ayudar a
+los niños a aprender. Quizás la implicación más importante de la teoría de Vygotsky para la educación sea que el con-
+texto histórico-cultural es relevante para todas las formas de aprendizaje, ya que éste no ocurre de
+manera aislada. Las interacciones entre el estudiante y el profesor forman parte de ese contexto. Por
+ejemplo, las investigaciones han identificado diferentes estilos de interacción entre los niños hawaia-
+nos, anglosajones y navajos (Tharp, 1989; Tharp y Gallimore, 1988). Mientras que la cultura hawaiana
+fomenta las actividades en colaboración y que varios estudiantes hablen al mismo tiempo, los niños
+navajos están menos acostumbrados a trabajar en grupo y por lo general esperan su turno para hablar.
+Así, un estilo de enseñanza eficaz para una cultura podría no ser igual de eficaz para otra. Este aspecto
+es especialmente digno de mencionar, dada la enorme cantidad de niños que asisten a las escuelas de
+Estados Unidos cuya lengua materna no es el inglés. Tener la capacidad de diferenciar la instrucción
+con el fin de ajustarla a las preferencias de aprendizaje de los niños es una habilidad fundamental para
+el siglo XXI.
+DISCURSO PRIVADO Y APRENDIZAJE MEDIADO SOCIALMENTE
+Una premisa básica del constructivismo es que el aprendizaje implica transformar e internalizar el en-
+torno social, dos procesos en los cuales el lenguaje desempeña un papel fundamental. En esta sección
+analizamos la manera en que el discurso privado ayuda a realizar estos procesos básicos de transfor-
+mación e internalización.
+Discurso privado
+El discurso privado se refiere a un conjunto de fenómenos del habla cuya función es de autorregula-
+ción, pero que no tienen un fin de comunicación social (Fuson, 1979). Varias teorías, entre las que se
+incluyen el constructivismo, la del desarrollo cognoscitivo y la cognoscitiva social establecen un fuerte
+vínculo entre el discurso privado y el desarrollo de la autorregulación (Berk, 1986; Frauenglass y Diaz,
+1985; Harris, 1982).
+El ímpetu histórico se deriva en parte del trabajo de Pavlov (1927). En el capítulo 3 vimos que
+Pavlov distinguió dos sistemas de señales: el primero era el perceptual y el segundo el lingüístico. Este
+investigador se dio cuenta de que los resultados del condicionamiento animal no se pueden genera-
+lizar por completo a los seres humanos; el condicionamiento humano suele ocurrir con rapidez, con
+tan sólo unos cuantos emparejamientos del estímulo condicionado y el estímulo incondicionado, a
+diferencia de los múltiples emparejamientos que requieren los animales. Pavlov creía que las diferen-
+cias en el condicionamiento de seres humanos y de animales se deben principalmente a la capacidad
+de lenguaje y pensamiento que tienen los humanos. En el caso de los humanos es probable que los
+estímulos no produzcan el condicionamiento de manera automática, sino que las personas los inter-
+preten a partir de sus experiencias previas. Aunque Pavlov no realizó investigaciones sobre el segundo
+sistema de señales, estudios posteriores han validado sus planteamientos de que el condicionamiento
+humano es complejo y que el lenguaje desempeña un papel mediador en él.
+Luria (1961), el psicólogo soviético, se concentró en la transición del primero al segundo sistema
+de señales en los niños, y planteó tres etapas en el desarrollo del control verbal de la conducta mo-
+tora. En un inicio, del año y medio a los dos años y medio, el principal responsable de dirigir la con-
+ducta del niño es el discurso de los demás. Durante la segunda etapa, de los tres a los cuatro años, las
+verbalizaciones abiertas del niño inician las conductas motoras, pero no necesariamente las inhiben.
+En la tercera etapa, de los cuatro años y medio a los cinco años y medio, el discurso privado del niño
+se vuelve capaz de iniciar, dirigir e inhibir las conductas motoras. Luria creía que este discurso privado
+y autorregulatorio dirige la conducta a través de mecanismos neurofisiológicos.
+El papel mediador y autodirectivo del segundo sistema de señales está implícito en la teoría de
+Vygotsky (1962), ya que consideraba que el discurso privado ayuda a desarrollar el pensamiento al
+organizar la conducta. Los niños utilizan el discurso privado para entender las situaciones y superar
+las dificultades. El discurso privado se da en conjunción con las interacciones del niño en el entorno
+social. Conforme se desarrolla la habilidad del lenguaje de los niños, las palabras que expresan los
+demás adquieren significado, independientemente de sus características fonológicas y sintácticas. Los
+niños internalizan el significado de las palabras y las utilizan para dirigir su conducta.
+Vygotsky creía que el discurso privado sigue un patrón de desarrollo curvilíneo: las verbalizacio-
+nes abiertas (pensar en voz alta) aumentan hasta los 6 o 7 años, y después, entre los 8 y los 10 años,
+disminuyen y se vuelven principalmente cubiertas (internas). Sin embargo, las verbalizaciones se pue-
+den dar a cualquier edad, cuando las personas enfrentan problemas o dificultades. Las investigaciones
+demuestran que, aun cuando la cantidad de discurso privado disminuye desde alrededor de los 4 o 5
+años hasta los 8 años, la proporción de discurso privado autorregulatorio aumenta con la edad (Fuson,
+1979). En muchas investigaciones se ha encontrado que la cantidad real de discurso privado es baja
+y que muchos niños no verbalizan en lo absoluto. Así, el patrón de desarrollo del discurso privado
+parece ser más complejo de lo que creía Vygotsky.
+Verbalización y aprovechamiento
+La verbalización de reglas, procedimientos y estrategias suele aumentar el aprendizaje de los estu-
+diantes. Aunque el procedimiento de entrenamiento autoinstruccional de Meichenbaum (1977, 1986)
+(véase el capítulo 4) no tiene raíces constructivistas, recrea el desarrollo progresivo del discurso pri-
+vado (de abierto a cubierto). Los tipos de afirmaciones que se modelan son: la definición de proble-
+mas (“¿Qué tengo que hacer?”), el enfoque de la atención (“Necesito poner atención en lo que estoy
+haciendo”), la planeación y guía de respuesta (“Necesito trabajar con cuidado”), el autorreforzamiento
+(“Lo estoy haciendo bien”), la autoevaluación (“¿Estoy haciendo las cosas en el orden correcto?”), y
+el afrontamiento (“Si no lo hago bien debo volver a intentarlo”). Los profesores pueden utilizar el en-
+trenamiento autoinstruccional para enseñar a los aprendices habilidades cognoscitivas y motoras, y es
+probable que éste cree una perspectiva positiva de la tarea, así como una actitud perseverante ante las
+dificultades (Meichenbaum y Asarnow, 1979). No es necesario que el procedimiento esté programado;
+los aprendices pueden construir sus propias verbalizaciones.
+La verbalización es benéfica para los estudiantes que a menudo experimentan dificultades y un
+desempeño deficiente (Denney, 1975; Denney y Turner, 1979). Los profesores han observado que
+beneficia a los niños que no repasan de manera espontánea el material por aprender, a los estudiantes
+impulsivos, a los que tienen problemas de aprendizaje y retraso mental, y a los que requieren ex-
+periencias correctivas (Schunk, 1986). La verbalización sirve para que los estudiantes con problemas
+de aprendizaje trabajen en una tarea de manera sistemática (Hallahan et al., 1983); para forzar a los
+estudiantes a poner atención en las tareas y a repasar el material, lo que mejora el aprendizaje. Al pa-
+recer la verbalización no facilita el aprendizaje cuando los estudiantes no la requieren para manejar las
+demandas de la tarea de forma adecuada. Como la verbalización constituye una tarea adicional, podría
+interferir con el aprendizaje al distraer a los niños de la tarea que están realizando.
+Las investigaciones han identificado las condiciones en que la verbalización mejora el desempeño.
+Denney (1975) modeló una estrategia de desempeño para estudiantes normales de 6, 8 y 10 años de
+edad en una tarea de 20 preguntas. Los niños de 8 y 10 años que verbalizaron la estrategia del modelo
+mientras realizaban la tarea no obtuvieron una puntuación más alta que los niños que no lo hicieron.
+En los niños de 6 años se encontró que la verbalización de aseveraciones específicas, como “encuen-
+tra la imagen correcta en las primeras preguntas”, interfirió con su desempeño; al parecer realizar esta
+tarea adicional distrajo demasiado a los niños más pequeños. Denney y Turner (1979) descubrieron que, entre los aprendices normales de 3 a 10 años de edad, añadir la verbalización al modelado de
+estrategias no produjo beneficios en las tareas cognoscitivas en comparación con las veces en que
+solamente se usó el modelamiento. Los participantes construyen sus propias verbalizaciones, lo que
+podría provocar menos distracción que las aseveraciones específicas utilizadas por Denney. Coates
+y Hartup (1969) encontraron que los niños de 7 años que verbalizaron las acciones de un modelo
+mientras realizaba una tarea en la que después ellos tuvieron que trabajar no la realizaron mejor que
+los niños que observaron de forma pasiva al modelo. Los niños regularon su atención y procesaron
+cognoscitivamente las acciones del modelo sin verbalizarlas.
+Berk (1986) estudió el discurso privado espontáneo de alumnos de primero y tercer grado. El
+discurso abierto, relevante para la tarea, se relacionó de manera negativa, y el desvanecimiento de la
+verbalización (susurros, movimientos de los labios y murmullos) se relacionó de manera positiva con
+el desempeño en matemáticas. Estos resultados se obtuvieron con los estudiantes de primer grado
+con inteligencia superior y con los alumnos de tercer grado con inteligencia promedio; entre los alum-
+nos de tercer grado con inteligencia superior, el discurso abierto y desvanecido no mostraron una
+relación con el aprovechamiento. En el caso de estos estudiantes al parecer la estrategia más eficaz
+es el discurso internalizado guiado de forma personal. Daugherty y White (2008) encontraron que el
+discurso privado se relaciona positivamente con los índices de creatividad en alumnos de preescolar
+de bajo nivel socioeconómico y participantes en el programa Head Start.
+Keeney, Cannizzo y Flavell (1967) evaluaron a niños de 6 y 7 años de edad en una tarea de me-
+moria serial e identificaron a aquellos que no repasaban antes de recordar. Una vez que aprendieron
+a repasar, su memoria igualó a la de los estudiantes que repasaban de forma espontánea. Asarnow y
+Meichenbaum (1979) identificaron a estudiantes de jardín de niños que no repasaban de forma espon-
+tánea en una prueba de memoria serial. A algunos se les entrenó para que utilizaran una estrategia de
+repaso similar a la utilizada por Keeney y sus colaboradores, en tanto que otros recibieron un entre-
+namiento de autoinstrucción. Ambos tratamientos facilitaron el recuerdo con respecto a una condición
+de control, pero el tratamiento autoinstruccional fue el más eficaz. Taylor y sus colaboradores (Taylor,
+Josberger y Whitely, 1973; Whitely y Taylor, 1973) descubrieron que los niños con retraso mental que
+tenían capacidad de aprender, a los que se entrenó para hacer elaboraciones entre pares de palabras
+asociadas, recordaban más asociaciones cuando verbalizaban sus elaboraciones que cuando no lo
+hacían. En el estudio de Coates y Hartup (1969) los niños de 4 años que verbalizaron las acciones de
+un modelo mientras las realizaba, posteriormente las reprodujeron mejor que los niños que sólo lo
+observaron realizarlas.
+Schunk (1982b) instruyó a estudiantes que carecían de habilidades para dividir. A algunos de ellos
+les pidió verbalizar afirmaciones explícitas, como “verifica”, “multiplica”, “copia”; a otros les permitió
+crear sus propias verbalizaciones; a un tercer grupo le pidió repetir las afirmaciones y sus propias
+verbalizaciones; y a un cuarto grupo de estudiantes les pidió que no verbalizaran. El resultado fue que
+los niños que crearon sus verbalizaciones, y que las usaron solas o combinadas con las afirmaciones,
+desarrollaron más las habilidades para dividir.
+En resumen, si las verbalizaciones son relevantes para la tarea y no interfieren con el desempeño
+tienen más probabilidades de mejorar el aprovechamiento de los estudiantes. Cuanto más relevantes
+sean las afirmaciones para la tarea, mejor será el aprendizaje que produzcan (Schunk y Gunn, 1986).
+El desarrollo del discurso privado sigue un ciclo que va de lo abierto a lo cubierto, y se internaliza
+más temprano en los estudiantes que son más inteligentes (Berk, 1986; Frauenglass y Diaz, 1985). El
+discurso privado se relaciona positivamente con la creatividad. Permitir a los estudiantes crear sus
+propias verbalizaciones, y tal vez utilizarlas junto con la verbalización de los pasos de una estrategia,
+es más benéfico que limitar la verbalización a afirmaciones específicas. Para facilitar la transferencia y
+el mantenimiento, las verbalizaciones abiertas deben desvanecerse de manera paulatina y convertirse APLICACIÓN 6.4
+Autoverbalización
+Un profesor podría utilizar la autoverbalización
+(hablar con uno mismo) en un salón de recur-
+sos especiales o en un salón regular para ayu-
+dar a los estudiantes que presentan problemas
+para poner atención en el material y dominar
+ciertas habilidades. Cuando Kathy Stone ense-
+ña la división larga a sus estudiantes de tercer
+grado, emplea la verbalización para ayudar a
+los que no recuerdan los pasos para completar
+el procedimiento. Ella trabaja de manera indivi-
+dual con los alumnos verbalizando y aplicando
+los siguientes pasos:
+n ¿Cabrá (número) en (número)?
+n Dividir.
+n Multiplicar: (número) × (número) =
+(número).
+n Anotar la respuesta.
+n Restar: (número) – (número) = (número).
+n Bajar el siguiente número.
+n Repetir los pasos.
+El uso del discurso personal ayuda a los es-
+tudiantes a mantenerse concentrados en la tarea
+y a construir su autoeficacia para trabajar de for-
+ma sistemática a través de un proceso largo. Una
+vez que empiezan a captar el contenido, es mejor
+desvanecer las verbalizaciones hasta un nivel cu-
+bierto (silencioso) para que puedan trabajar más
+rápido.
+La autoverbalización también ayuda a los alum-
+nos que están aprendiendo habilidades y estrate-
+gias deportivas. Podrían comenzar por verbalizar
+lo que está ocurriendo y avanzar a los movimientos
+que deben hacer. Por ejemplo, un entrenador de
+tenis podría animar a los estudiantes a utilizar el
+discurso personal durante los juegos de práctica:
+“Bola alta-raqueta por arriba del hombro “, “bola
+baja-raqueta por debajo del hombro”, “pelota a lo
+ancho-golpe de revés”.
+Los instructores de aeróbicos y de baile a me-
+nudo utilizan el discurso privado durante la prácti-
+ca. Un profesor de ballet le pediría a los estudian-
+tes jóvenes que repitan “pinto un arco iris” al hacer
+un movimiento circular con el brazo, y “camino
+sobre huevos” al caminar sobre la punta de sus
+pies. Las personas que participan en una clase de
+ejercicio aeróbico también podrían verbalizar los
+movimientos mientras los realizan, podrían decir,
+por ejemplo, “selección y estiramiento”, “deslizarse
+a la derecha y alrededor”.
+en movimientos de los labios, y al final ser completamente internas. La internalización es una caracte-
+rística fundamental de la autorregulación (Schunk, 1999; capítulo 9).
+Estos beneficios de la verbalización no implican que todos los estudiantes deban verbalizar mien-
+tras aprenden. ¡Esta práctica daría como resultado un salón de clases ruidoso y distraería a muchos
+estudiantes! Más bien, se podría incorporar a la instrucción de los estudiantes con problemas para
+aprender. El profesor o el auxiliar podrían trabajar con estos alumnos de forma individual o en grupos
+para evitar distraer a los otros miembros del grupo. En la aplicación 6.4 se analizan formas de integrar
+la verbalización al aprendizaje.
+APRENDIZAJE MEDIADO SOCIALMENTE
+Muchos tipos de constructivismo, y la teoría de Vygotsky en particular, destacan la idea de que el
+aprendizaje es un proceso mediado socialmente. Esta idea no es única del constructivismo, ya que
+muchas otras teorías del aprendizaje afirman que los procesos sociales tienen un impacto significativo sobre el aprendizaje. Por ejemplo, la teoría cognoscitiva social de Bandura (1986, 1987; capítulo 4)
+resalta las relaciones recíprocas entre los aprendices y las influencias del entorno social, y muchas
+investigaciones han demostrado que el modelamiento social es una influencia poderosa sobre el
+aprendizaje (Rosenthal y Zimmerman, 1978; Schunk, 1987). Sin embargo, en la teoría de Vygotsky la
+mediación social del aprendizaje es el constructo central (Karpov y Haywood, 1998; Moll, 2001; Tudge
+y Scrimsher, 2003). Todo el aprendizaje es mediado por herramientas como el lenguaje, los símbolos y
+los signos. Los niños adquieren esas herramientas durante sus interacciones sociales con otros indi-
+viduos; luego las internalizan y las utilizan como mediadoras para un aprendizaje más avanzado, es
+decir, para procesos cognoscitivos más elevados, como el aprendizaje de conceptos y la solución de
+problemas.
+La relevancia de la mediación social es evidente en la autorregulación y los entornos de aprendi-
+zaje constructivista, que se analizarán más adelante. Por ahora, examinemos cómo la mediación social
+influye en la adquisición de conceptos. Los niños pequeños adquieren los conceptos de manera es-
+pontánea observando su mundo y formulando hipótesis. Por ejemplo, al escuchar el ruido que hacen
+los automóviles y los camiones podrían creer que los objetos más grandes hacen más ruido. Tienen
+problemas para acomodar observaciones discrepantes, por ejemplo, cuando escuchan el ruido que
+produce una motocicleta, que si bien es más pequeña que un automóvil o un camión, podría ser más
+ruidosa que ambos.
+A través de las interacciones sociales las personas enseñan conceptos a los niños, como los pro-
+fesores, los padres o los hermanos mayores. A menudo la enseñanza es resultado de un proceso di-
+recto, como ocurre cuando un profesor enseña a los niños la diferencia entre cuadrados, rectángulos,
+triángulos y círculos. Como dirían los psicólogos cognoscitivos, estos conceptos se internalizan como
+conocimiento declarativo. Por consiguiente, para internalizar esos conceptos los niños utilizan las
+herramientas del lenguaje y los símbolos.
+Desde luego, las personas pueden aprender conceptos por sí mismas, sin interacciones sociales.
+Sin embargo, incluso este tipo de aprendizaje independiente es, en un sentido constructivista, me-
+diado socialmente, ya que involucra herramientas como el lenguaje, los signos y los símbolos, que han
+sido adquiridos mediante interacciones sociales previas. Además, se requiere cierta cantidad de etique-
+tación. Es probable que los niños aprendan un concepto sin conocer su nombre (“¿Cómo se llama una
+cosa que _____?”). La etiqueta implica al lenguaje y por lo general es proporcionada por otra persona.
+Las herramientas no únicamente sirven para aprender sino también para enseñar. Los niños se
+enseñan unos a otros las cosas que han aprendido. Vygotsky (1962, 1978) creía que al utilizarse para
+propósitos sociales, las herramientas ejercen una enorme influencia sobre los demás.
+Estas cuestiones sugieren que los niños requieren preparación para construir conocimientos de
+manera eficaz. La enseñanza de las herramientas básicas para aprender puede ser directa. No es nece-
+sario que los estudiantes construyan lo evidente o lo que se les puede enseñar con facilidad. Los des-
+cubrimientos construidos son el resultado del aprendizaje básico y no la causa (Karpov y Haywood,
+1998). Los profesores deben preparar a los estudiantes para aprender enseñándoles las herramientas
+y luego dándoles oportunidades de aprendizaje. En la aplicación 6.5 se presentan aplicaciones del
+aprendizaje mediado socialmente.
+AUTORREGULACIÓN
+La teoría de Vygotsky en general, y las ideas expresadas en esta sección sobre el discurso privado y
+el aprendizaje mediado socialmente en particular, son muy importantes para la autorregulación. En
+la teoría de Vygotsky la autorregulación implica coordinar procesos mentales (cognoscitivos) como la APLICACIÓN 6.5
+Aprendizaje mediado socialmente
+El aprendizaje mediado socialmente se puede
+utilizar con estudiantes de cualquier edad. Gina
+Brown sabe que el éxito en la enseñanza depende
+en parte de que se comprenda la cultura de las
+comunidades que atienden las escuelas. Obtiene
+el consentimiento de las escuelas donde practican
+sus estudiantes y también de los padres, y asigna a
+cada estudiante para que sea “amigo” de un niño.
+Como parte de sus tareas, sus alumnos pasan tiem-
+po adicional con sus amigos, por ejemplo, cuando
+realizan trabajo individual, cuando comen su al-
+muerzo, cuando viajan en el autobús escolar de
+regreso a casa y cuando los visitan en sus hogares.
+Ella forma parejas de estudiantes y los miembros
+de cada pareja se reúnen de forma regular para ha-
+blar acerca de la cultura de sus amigos asignados,
+por ejemplo, sobre lo que les gusta a los niños de
+la escuela, lo que hacen sus padres o tutores, las
+características del vecindario donde viven. La pro-
+fesora se reúne regularmente con cada pareja con
+el fin de analizar las implicaciones de las variables
+culturales para el aprendizaje escolar. Por medio
+de las interacciones sociales con los amigos, con
+la docente y con otros miembros del grupo los es-
+tudiantes logran una mejor comprensión del papel
+que la cultura desempeña en la escuela.
+Los eventos históricos suelen prestarse a múl-
+tiples interpretaciones, y Jim Marshall utiliza la
+mediación social para desarrollar el pensamien-
+to de sus alumnos acerca de los acontecimientos.
+Como parte de una unidad sobre los cambios que
+se observaron en la vida de los estadounidenses
+después de la Segunda Guerra Mundial divide a
+su grupo en cinco equipos y a cada uno le asigna
+un tema: medicina, transporte, educación, tecno-
+logía y suburbios. Los equipos preparan una pre-
+sentación acerca de por qué su tema representa
+un avance significativo en la vida de los estado-
+unidenses. Los alumnos de cada equipo trabajan
+en conjunto para preparar la presentación y cada
+miembro presenta una parte. Cuando terminan las
+presentaciones, Jim dirige una discusión con el
+grupo y trata de lograr que vean las relaciones
+que existen entre los avances. Por ejemplo, la tec-
+nología influye en la medicina, el transporte y la
+educación; un mayor número de automóviles y
+caminos conduce a un crecimiento de los subur-
+bios; y una mejor educación fomenta la medicina
+preventiva. La mediación social a través de dis-
+cusiones y presentaciones ayuda a los alumnos a
+comprender mejor los cambios en la vida de los
+estadounidenses. planeación, la síntesis y la formación de conceptos (Henderson y Cunningham, 1994); pero esa coor-
+dinación no surge independientemente del entorno social y la cultura del individuo.
+El proceso de autorregulación consiste en la internalización gradual del lenguaje de los concep-
+tos. Los niños pequeños responden principalmente a las instrucciones de otros, por ejemplo, a las
+de las personas mayores que los rodean. A través del uso del discurso privado y de otras herramien-
+tas cognoscitivas, los niños internalizan las instrucciones para autorregular su conducta en diferentes
+situaciones. Los procesos de pensamiento se vuelven autodirigidos. La internalización es fundamental
+para el desarrollo de la autorregulación (Schunk, 1999).
+Las primeras manifestaciones de autorregulación de los niños suelen ser burdas y reflejar prin-
+cipalmente las verbalizaciones de otras personas; sin embargo, a medida que desarrollan una mayor
+capacidad para un pensamiento autodirigido, construyen autorreguladores cognoscitivos eficaces e
+idiosincráticos. La perspectiva constructivista sobre la autorregulación se analiza más a fondo en el
+capítulo 9. MOTIVACIÓN
+El constructivismo es principalmente una teoría del desarrollo humano, que en años recientes se ha
+aplicado al aprendizaje. Se ha escrito menos acerca del papel que la motivación desempeña en el
+constructivismo. Sin embargo, esta perspectiva se puede aplicar a la motivación, y algunos principios
+motivacionales estudiados por investigadores en otros campos teóricos se ajustan bien al constructi-
+vismo (Sivan, 1986). Algunos aspectos de la motivación especialmente relevantes incluyen los factores
+contextuales, las teorías implícitas y las expectativas de los profesores (véase el capítulo 8).
+Factores contextuales
+Organización y estructura. El constructivismo hace hincapié en la cognición situada y en la importan-
+cia de tomar en cuenta el contexto del ambiente para explicar la conducta. Un tema importante para
+el constructivismo es la organización y estructura de los ambientes de aprendizaje, es decir, la forma
+en que los estudiantes se agrupan para la enseñanza, la manera en que se evalúa y se recompensa el
+trabajo, cómo se establece la autoridad y cómo se planea el uso del tiempo. Muchos investigadores y
+profesionales consideran que los ambientes son complejos y que para entender el aprendizaje es ne-
+cesario tomar en cuenta muchos factores (Marshall y Weinstein, 1984; Roeser, Urdan y Stephens, 2009).
+Un aspecto importante de la organización es la dimensionalidad (Rosenholtz y Simpson, 1984).
+Los salones de clases unidimensionales incluyen pocas actividades que abarcan una gama limitada de
+habilidades de los estudiantes. Los salones de clases multidimensionales incluyen más actividades y
+permiten una mayor diversidad en las habilidades y desempeño de los alumnos. Las clases multidi-
+mensionales son compatibles con los principios constructivistas del aprendizaje.
+Las características del aula que indican dimensionalidad son la diferenciación de la estructura de
+las tareas, la autonomía de los estudiantes, los patrones de agrupamiento y la prominencia de las eva-
+luaciones formales del desempeño (véase la tabla 6.5). Los salones de clases unidimensionales tienen
+estructuras de tarea indiferenciadas; todos los estudiantes trabajan en la misma tarea o en tareas si-
+milares, y la enseñanza utiliza pocos materiales y métodos (Rosenholtz y Simpson, 1984). Cuanto más
+indiferenciada sea la estructura, más probable es que las actividades cotidianas produzcan desempeños
+consistentes en cada estudiante y que los alumnos comparen socialmente su trabajo con el de los demás
+268pdf
