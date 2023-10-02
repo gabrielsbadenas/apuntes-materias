@@ -1,221 +1,512 @@
 ﻿texto_pdf="""
-1
-Género, escuela secundaria y militancias: algunas notas
-para mirar a las y los jóvenes
-Ilustración de Dolores Pasolini
-Por Marina Larrondo*
-Pedro, un muy joven sociólogo recién graduado y a la vez estudiante del profesorado de
-la misma disciplina, compartió el siguiente relato sobre su propia escolaridad secundaria:
-“yo soy, y era, puto, negro, pobre, de Villa Lugano e iba a una escuela de negros pobres,
-donde mis compañeros terminaban muertos o presos o en la esquina en el mejor de los
-casos. Ir a la escuela todos los días, con mi pelo fucsia y arreglado como a mi me
-gustaba, era un verdadero calvario. No daba más. La escuela a la vez era un desastre, no
-aprendíamos nada, pero era lo único que yo tenía y estaba dispuesto a aprovechar
-porque yo sabía que era el único camino para salir de ahí. El acoso, el bullying y el odio
-de mis compañeros varones no me dejaba vivir. Un día le conté mi problema a Rubén, el
-portero de la escuela, la única persona adulta con quien yo hablaba y a la vez el único a
-quien ellos respetaban. Finalmente, acepté su ofrecimiento y Rubén habló con ellos: les
-contó quien era yo. Desde ese día, la relación de ellos para conmigo cambió. Me dejaron
-de acosar, me empezaron a hablar y a saludar en la calle. Nos encontrábamos en la
-bailanta y yo empecé a ser para ellos una amiga más, me cuidaban de que nadie me
-jodiera por puto, de que nadie me bardeara ni me molestara. Rubén les dijo, en definitiva,
-que me dejaran de joder, que por qué hacían eso. Que yo no era un cheto, que era tan
-pobre como ellos. Me di cuenta que el odio venía, antes que por ser gay, por estudiar, por
-hacer la tarea, por arreglarme, por ser responsable. Cuestiones que relacionaban con
-sentimientos de superioridad por una supuesta mejor condición social. Ellos no sabían
-que yo era como ellos”. El relato de Pedro nos permite ver algunas similitudes –
-particularmente en esta rivalidad y las formas violentas de canalizarla y sus significados y
-motivos- con el trabajo reciente de la investigadora Silvia Elizalde (2015), en su etnografía
-sobre la forma en la que chicas jóvenes, a partir de su interacción entre ellas y con los
-varones, se van construyendo como mujeres.
-Vayamos a otra escena, acontecida en un ámbito bien diferente. En unas jornadas sobre
-historia de la juventud convocada por una Universidad, dos adolescentes, miembros de la
-comisión de género del centro de estudiantes del Colegio Carlos Pellegrini, habían sido
-invitadas para contar su historia como comisión, las demandas que tenían y las acciones
-que implementaban. Básicamente, sus luchas y logros recientes habían tenido que ver
-2
-con impedir el nombramiento de un docente con denuncias por acosar y maltratar a las
-alumnas. Otra de las acciones promovidas por el grupo consistía en “escrachar”
-públicamente hechos o frases de docentes y preceptores que podían calificarse de
-machistas/discriminadoras. Por último, las jóvenes mencionaban como una actividad
-propia, el éxito de la convocatoria de su escuela a la marcha #NiUnaMenos, tambièn
-motorizada por ellas. Al relatar las acciones e incluso el involucramiento personal con este
-activismo dentro de la escuela, no obstante, una de ellas dijo “yo no me considero
-feminista”, ante la mirada sorprendida del auditorio y parte de las otras panelistas adultas.
-Las intervenciones del público incluyeron, al finalizar, muchas celebraciones y
-felicitaciones por las acciones políticas del grupo y varios cuestionamientos en torno al “no
-reconocimiento” del feminismo de una de las chicas, quien parecía renegar más bien de
-autodenominarse de una forma determinada que del feminismo en sí mismo. Las adultas
-que participaban del panel parecían oscilar entre una actitud de cuestionamiento e
-intención de “corregir¨ ciertas apreciaciones de las jóvenes (sobre todo en torno al “no soy
-feminista”) y la tranquilidad y la “esperanza” porque las y los jóvenes, en definitiva,
-tomaban en sus manos esta causa, muy visible además por tratarse de una escuela
-reconocida.
-¿Qué tienen que ver estas dos situaciones, cómo se conectan entre sí, qué nos dicen? En
-principio, muestran cosas que suceden en las escuelas. Pero además, condensan
-cuestiones clave a la hora de pensar juventudes, género y política: las formas complejas
-en las que el género (expresado en sentidos y prácticas concretas, con efectos concretos)
-se trama en y con lo generacional, con las pertenencias de clase, con los modos de
-intervención adulta y sus lecturas sobre las prácticas juveniles. Con esto queremos decir
-que pensar en la condición juvenil y de género nos invita a pensar, simultáneamente, la
-construcción sociohistórica de ser joven y devenir hombres y mujeres sin caer en un
-riesgo frecuente: la esencialización de la categoría de juventud, que es la otra cara del
-adultocentrismo. Sobre ello avanzaremos enseguida.
-Lecturas sobre lo juvenil
-Esencializar la juventud es adjudicarle rasgos per se, considerar que los jóvenes son
-portadores de una diferencia radical por el sólo hecho de ser jóvenes: así, depositamos
-esperanzas en un carácter eminentemente novedoso, contestatario, rebelde que la
-juventud “tendría” (o “tendría que tener”) en sí misma. También, esencializamos a la
-juventud cuando adjudicamos rasgos problemáticos o de incompletud por lo mismo. En
-definitiva, las sorpresas, los temores, la perplejidad que manifestamos los adultos cuando
-los jóvenes “no se comportan” o “no piensan” como esperamos que lo hagan por ser
-jóvenes vienen muchas veces de esta particular operación. Cuando nos distanciamos,
-podemos ver que las prácticas de los jóvenes están co producidas en y con ese mundo
-que comparten y viven con los adultos, con lo cual, nunca son portadores de novedades
-radicales. En síntesis: las identidades y los modos de vivir el género en la vida de las y los
-jóvenes se construye, siempre, en interacción con el mundo adulto y en relación con las
-pertenencias étnicas, de clase y experiencias cotidianas que ellos y ellas tienen.
-Esto significa que en tanto jóvenes, ellxs son creadores de novedades y diferencias que -
-no obstante- no se dan en un vacío. Si consideramos esto, comprendemos por qué en las
-escuelas conviven una mayor aceptación de la identidad LGTB, pollerazos como forma de
-protesta, reclamos por el derecho a expresarse y disponer de su cuerpo al tiempo que
-persisten actitudes discriminatorias, bullying, jóvenes que golpean a otras jóvenes por
-¨hacerse las lindas¨ o ser “robanovios”, varones que piden que las novias o compañeras
-les hagan los deberes o se encarguen de ciertas tareas si trabajan en equipo, la fuerza
-3
-física como una condición valiosa de la masculinidad. En las escuelas conviven una
-mayor demanda de educación sexual de calidad y la adhesión al #NiUnaMenos con la
-enorme dificultad, por ejemplo, a la hora de cuestionar que la maternidad no es natural.
-Por supuesto, ello se da en una institución escolar (sobre la que no ahondamos aquí)
-cuyos dispositivos siguen reproduciendo muchos estereotipos. En este sentido, caben
-entonces dos conclusiones bastante lógicas en relación a la intervención adulta en pos de
-co-construir acciones pedagógicas o políticas: la primera es que las prácticas de los y las
-jóvenes, en contexto, son complejas y siempre requieren ser comprendidas y leerlas
-“adecuadamente”, esto es, adecuadas en su sentido. ¿Por qué las chicas pelean con
-otras chicas? ¿Es realmente por la belleza o por los hombres? ¿hay en realidad
-cuestiones de clase, o étnicas que se vehiculizan a través de rivalidades de género?
-¿Cómo es que piden educación sexual integral a la vez que muchas dicen elegir la
-maternidad? ¿la eligen? Estas y otras formas de hacer y de sentir que pueden verse a
-diario en las escuelas no tienen una respuesta fácil y a priori. Y esto nos lleva a una
-segunda conclusión, vinculada a la eficacia: no hay un único discurso capaz de interpelar
-a todas estas prácticas a la vez y a todas las jóvenes, aunque si hay discursos que logran
-hacerlo y abrir caminos, o bien, dialogar con aquello que les pasa para ir hacia otro
-lugar. Por el contrario, cuando esta incomprensión tiene lugar y desde categorías adultas
-(que obviamente también son de clase, formateadas por cierto capital cultural, étnicas,
-entre otros aspectos) forzamos la interpretación o censuramos, lo que se produce son
-bloqueos que redundan en definitiva en el status quo. De distintas formas, los relatos que
-presentamos al comienzo nos hablan de este ir hacia otro lugar -de encuentro-: vemos
-adultos que leyeron una situación, jóvenes que entablan un diálogo con ellos, distintos
-modos en que la cuestión de género se hace presente en la escuela, estudiantes que
-fueron tramitando sus problemas y reclamos con determinados recursos organizativos,
-afectivos, simbólicos. Pedro no se imaginaba que sus compañeros lo detestaban por
-cheto y no por gay, Rubén fue capaz de leer ese conflicto y de intervenir. Las panelistas
-adultas supieron dejar atrás su experiencia militante y su cuestionamiento sobre el ¨no
-feminismo” declarado para dar lugar a la voz propia de las militantes secundarias, que
-fueron invitadas a dar su testimonio y contar su experiencia. Claro que ambas historias
-nos muestran distintas condiciones, porque la desigualdad se entrecruza siempre: adultos
-e instituciones presentes de distintas maneras, de un lado, tradiciones organizativas que
-sirven como un recurso y soporte para defenderse, y en otro polo, jóvenes en un cuasi
-desamparo. Sobre esto volveremos más adelante.
-Militancias estudiantiles y género
-Ahora bien, ¿qué están haciendo y cómo las y los jóvenes (y especialmente, los
-adolescentes) tratan e intervienen políticamente en la problemática de género? La noticia
-es que si, lo hacen. Las y los jóvenes construyen sus intervenciones políticas a partir de
-experiencias concretas y lo hacen, además, en vinculación con docentes, activistas con
-mayor experiencia, referentes políticos. Ello redunda en un diálogo que es inter
-generacional, y en tanto tal, capaz de motorizar fricciones, contradicciones pero también
-solidaridades y aprendizajes mutuos. En Argentina y en América Latina los movimientos
-juveniles retoman las demandas de género como una cuestión transversal a los
-movimientos. Es más infrecuente -aunque existen- encontrar colectivos de género a la vez
-que reconocidos y presentados como ¨juveniles”, que encontrar ramas juveniles en
-colectivos de género más amplios (o no acotados a la cuestión etárea); o bien, espacios y
-reivindicaciones “de género” en colectivos juveniles más amplios o en juventudes
-políticas. Un ejemplo sencillo lo constituyen colectivos como los grupos de Mujeres por la
-paz en Colombia o Mujeres Negras en Brasil, quienes se agrupan en torno a la
-4
-intersección de esas identidades antes que en la cuestión etárea, aunque incluyen a las
-problemáticas de las jóvenes y niñas como centrales y la cuestión generacional aparece
-en sus marcos de y acciones/reivindicaciones.
-En el caso del movimiento estudiantil, y más particularmente en los estudiantes
-secundarios de Argentina, esto es más que claro. Si bien no es un fenómeno que suceda
-en la gran mayoría de las escuelas –como tampoco la gran mayoría tiene centros de
-estudiantes institucionalizados- los y las jóvenes construyen cada vez más causas
-colectivas y reivindicaciones en torno al género, como así también encontramos una
-fuerte presencia de liderazgo de chicas en los centros de estudiantes. Asimismo,
-aparecen dos características distintivas. En primer lugar, la participación activa de
-varones en reclamos de género y la construcción de cuestiones bien específicas y de
-interés “gremial” estudiantil en clave de género. Esto constituye una fuerte diferencia en
-relación con las décadas de 1990 y 1980, donde esto no aparecía con tanta visibilidad.
-Así, por ejemplo, en 2016, los alumnos varones del colegio Normal 1 protagonizaron
-un “pollerazo” en solidaridad con un reglamento escolar prohibitivo que obligaba a las
-mujeres a no usar minifalda o musculosas, acción que se replicó en una escuela técnica
-del barrio de Chacarita (ET 32). Esta forma de protesta tiene un antecedente pionero en
-Brasil, donde jóvenes de una escuela secundaria de Río de Janeiro concurrieron al
-colegio vestidos con falda en solidaridad con una compañera trans que había sido
-discriminada al no permitírsele usar esta prenda. Asimismo, en los reclamos de los
-centros de estudiantes de las escuelas de la provincia de Buenos Aires (las cuales he
-explorado en mi trabajo de investigación) en los últimos años también encontramos otro
-tipo de reivindicaciones y preocupaciones en torno al género, como la promoción de
-noviazgos no violentos, el pedido por una educación sexual integral de calidad y dentro de
-la escuela, los pedidos por una mayor libertad en el uso de vestimenta y accesorios.
-También se han registrado protestas y exigencias a las autoridades en relación con la
-seguridad de las chicas frente a exhibicionistas que las acosaban en las inmediaciones de
-las escuelas y polideportivos (como fue el caso de la ciudad de La Plata en el año 2013,
-reclamo que llevó adelante la coordinadora unificada de estudiantes secundarios-CUES).
-Cabe destacar, más recientemente, la fuerte adhesión a la marcha de #NiUnaMenos en
-las escuelas secundarias. En definitiva, si bien no podemos hablar de una agenda
-articulada y consolidada, vemos una persistente presencia de las cuestiones de género en
-los reclamos de las chicas y chicos. En este sentido, tampoco parece ser casualidad la
-mayor visibilidad de liderazgos femeninos en el movimiento estudiantil, hecho que se ha
-visto reflejado en la región. Jóvenes como Camila Vallejo, Karol Cariola (del movimiento
-estudiantil chileno, hoy diputadas) o Daisy Aparicio (de la asamblea nacional de
-estudiantes secundarios colombiana) son nombres de referencia del movimiento
-estudiantil latinoamericano de los últimos años.
-La organización estudiantil ha servido y sirve, como hemos visto, para poner en agenda y
-problematizar opresiones de género en las instituciones educativas. Ello es innegable. La
-investigadora Jésica Báez ha mostrado, a partir de sus trabajos sobre la experiencia de
-chicos y chicas trans en la escuela secundaria, la importancia del apoyo de profesores y
-las posibilidades de respeto y visibilidad que pueden vehiculizar las organizaciones
-estudiantiles. Estos dispositivos aparecen como importantes en la construcción de una
-trayectoria exitosa en la escuela, donde la profunda desigualdad, el rechazo y la
-heteronorma persisten como causas del abandono e interrupción de trayectorias
-escolares de los y las jóvenes trans.
-5
-Vínculos inter generacionales dialógicos, organización estudiantil
-El mundo del activismo ha ido ampliando espacios, las jóvenes y adultas suelen trabajar
-juntas también en la acción política colectiva, y es importante tener en cuenta que este
-diálogo no es lineal, directo ni fácil. Dialogar en clave de género y en clave generacional
-no va de suyo. No es fácil para los docentes, no es fácil para los y las activistas. En este
-sentido, la apertura a la multiplicidad de lecturas de las prácticas de las y los jóvenes –que
-mencionábamos al principio- parece ser la única manera de acompañar (y acompañarse)
-en intervenciones políticas. Las jóvenes van construyendo su identidad de género en la
-escuela, pero también en sus grupos de amigas y amigos, en la maternidad, los
-noviazgos, el hogar, en sus consumos y “fanatismos” culturales, y a la vez, (y no siempre
-en contradicción con lo anterior) los centros de estudiantes, las asambleas de aula, las
-marchas, la adhesión a convocatorias como #NiUnaMenos. En esta dirección, acordamos
-con Silvia Elizalde quien plantea que esta multiciplicidad de experiencias mediante las que
-las chicas devienen mujeres implica ver el género y las sexualidades como modos de
-construirse en constante resignificación, no como rasgos o características sedimentadas –
-ni siquiera provisoriamente-. Advierte la autora que cuando esta mirada compleja no es
-posible, esta tensión “seguirá siendo resuelta –a su favor– por los discursos y las
-prácticas del poder, y poco (y a veces nada) gestionada, impugnada o intervenida
-públicamente por las propias chicas”. En definitiva, el adultocentrismo, la imposición de
-modos unívocos de marcar la agenda de género en las chicas –como con otras
-cuestiones- es un riesgo que siempre puede aparecer -y es importante atender- en el
-vínculo entre adultos y jóvenes.
-Esto último nos lleva a retomar la cuestión de la participación estudiantil genuina y de su
-importancia para la escolaridad de los jóvenes: los centros de estudiantes, los consejos
-de aula, los cuerpos de delegados y otras formas de organización son la principal
-herramienta con la que cuentan los y las jóvenes para plantear sus necesidades y
-reivindicaciones identitarias y de género dentro de la escuela y en el sistema educativo,
-además de otros derechos estudiantiles. En un contexto donde las políticas educativas
-tienden a difundir miedo y visiones anticuadas y represivas sobre la política y la
-participación en las escuelas (obviamente, políticamente orientadas hacia un
-conservadurismo inútil y antidemocrático) es fundamental recordar que sin la participación
-estudiantil difícilmente se pueda hacer escuelas más inclusivas e igualitarias, lo cual
-incluye la protección de derechos de las y los jóvenes a aprender en condiciones de
-igualdad pedagógica, a ser respetados en sus identidades sino también cumplir con la ley
-de educación sexual integral.
+TEORÍA DE PIAGET EN EL DESARROLLO COGNOSCITIVO
+En sus inicios, la teoría de Piaget tuvo poco impacto, pero gradualmente fue adquiriendo un lugar
+importante en el campo del desarrollo humano. Esta teoría abarca muchos tipos de desarrollo y es
+compleja; un resumen completo de ella rebasa el alcance de este libro. Los lectores interesados deben
+consultar otras fuentes (Brainerd, 2003; Furth, 1970; Ginsburg y Opper, 1988; Meece, 2002; Phillips,
+1969; Piaget, 1952, 1970; Piaget e Inhelder, 1969; Wadsworth, 1996). A continuación se presenta una
+exposición concisa de los puntos más relevantes para el constructivismo y el aprendizaje. Aunque la
+teoría del desarrollo cognoscitivo de Piaget ya no es una de las más aceptadas, sigue siendo impor-
+tante y presenta varias implicaciones útiles para la enseñanza y el aprendizaje.
+Procesos del desarrollo
+Equilibrio. Según Piaget, el desarrollo cognoscitivo depende de cuatro factores: la madurez biológica,
+la experiencia con el ambiente físico, la experiencia con el entorno social y el equilibrio. Los primeros
+tres se explican por sí mismos, pero sus efectos dependen del cuarto. El equilibrio es el impulso bioló-
+gico de producir un estado óptimo de equilibrio (o adaptación) entre las estructuras cognoscitivas y el
+ambiente (Duncan, 1995). El equilibrio es el factor central y la fuerza motivadora detrás del desarrollo
+cognoscitivo; coordina las acciones de los otros tres factores y permite que haya congruencia entre las
+estructuras mentales internas y la realidad ambiental externa.
+Para ilustrar cómo funciona el equilibrio, considere a Allison, una niña de seis años de edad,
+que está viajando en automóvil con su padre. Ellos viajan a 65 millas por hora, y aproximadamente
+a 100 yardas adelante de ellos se encuentra otro automóvil, al que han estado siguiendo durante un
+tiempo a una distancia que ha permanecido constante. El padre señala el automóvil y le pregunta a
+Allison: “¿Cuál automóvil va más rápido, el nuestro o el de adelante?, ¿o vamos a la misma veloci-
+dad?” Allison responde que el otro automóvil va más rápido. Cuando su padre le pregunta por qué,
+responde: “Porque está enfrente de nosotros”. Si el padre de Allison le dijera “En realidad vamos a la
+misma velocidad”, crearía un conflicto en ella, quien cree que el otro automóvil va más rápido pero
+recibe un estímulo ambiental que le genera un conflicto, el cual podría resolver utilizando uno de los
+dos procesos componentes del equilibrio: la asimilación y la acomodación. La asimilación consiste
+en ajustar la realidad externa a la estructura cognoscitiva existente. Cuando interpretamos, definimos
+y encuadramos alteramos la naturaleza de la realidad para ajustarla a nuestra estructura cognoscitiva.
+Para asimilar la información, Allison podría alterar la realidad pensando que su papá está bromeando
+o que quizá en ese momento los dos automóviles van a la misma velocidad pero que anteriormente
+el otro automóvil iba más rápido.
+La acomodación consiste en cambiar las estructuras internas para lograr que sean congruentes
+con la realidad externa. Acomodamos cuando adaptamos nuestras ideas para darle sentido a la rea-
+lidad. Para acomodar su sistema de creencias (estructuras) a la nueva información, Allison le creería
+a su padre sin entender por qué, o podría cambiar su sistema de creencias para incluir la idea de
+que no todos los automóviles que van adelante de ellos conducen a la misma velocidad que el que
+les sigue.
+La asimilación y la acomodación son procesos complementarios. Mientras la realidad se asimila,
+las estructuras se acomodan.
+Etapas. A partir de sus investigaciones, Piaget concluyó que el desarrollo cognoscitivo de los niños
+seguía una secuencia fija. El patrón de operaciones que el niño puede realizar podría considerarse
+como un nivel o etapa. Cada nivel o etapa se define por la manera en que el niño ve el mundo. Piaget
+y otras teorías que incluyen etapas suponen ciertas cosas (véase el capítulo 10):
+n Las etapas son discretas, separadas y cualitativamente diferentes. El paso de una etapa a otra no
+es una cuestión de mezcla gradual o de fusión continua.
+n El desarrollo de las estructuras cognoscitivas depende del desarrollo previo.
+n Aunque el orden del desarrollo de las estructuras no varía, la edad en la que se pasa por una
+etapa en particular varía de una persona a otra. Las etapas no deben equipararse a las edades.
+En la tabla 6.2 se muestra cómo describió Piaget la progresión de sus etapas. Se ha escrito mucho
+acerca de ellas y existen muchas publicaciones científicas sobre cada una. Aquí sólo se describen
+brevemente; los lectores que deseen profundizar en el tema deben consultar otras fuentes (Brainerd,
+2003; Byrnes, 1996; Meece, 2002; Wadsworth, 1996).
+En la etapa sensoriomotriz las acciones de los niños son espontáneas y representan un intento por
+entender el mundo. La comprensión se basa en las acciones presentes; por ejemplo, una pelota es para
+lanzarla y una botella es para chuparla. El periodo se caracteriza por cambios rápidos; un niño de dos
+años de edad es muy diferente de un bebé en lo que se refiere a su desarrollo cognoscitivo. Los niños
+equilibran de manera activa, aunque lo hacen a nivel primitivo. Las estructuras cognoscitivas se cons-
+truyen y alteran, y la motivación para hacer esto es interna. El concepto de motivación de efectancia
+(motivación de dominio; capítulo 8) es importante para los niños en la etapa sensoriomotriz. A finales
+de este periodo los niños han alcanzado un desarrollo cognoscitivo suficiente para avanzar a un nuevo
+pensamiento simbólico-conceptual, característico de la etapa preoperacional (Wadsworth, 1996).
+En la etapa preoperacional, los niños son capaces de imaginar el futuro y de reflexionar acerca del
+pasado, aunque su percepción permanece muy orientada hacia el presente. Estos niños pueden creer
+que en una fila de 10 monedas hay más monedas que en una pila de 10 monedas. Más aún, siguen sin
+tener la capacidad de pensar en más de una dimensión al mismo tiempo; por lo tanto, si se concentran
+en la longitud, pueden pensar que un objeto largo, como una vara, es más grande que uno corto, por
+ejemplo un ladrillo, aun cuando este último sea más ancho y profundo. Los niños en etapa preopera-
+cional demuestran irreversibilidad, es decir, creen que una vez que se hace algo a las cosas, ya no se
+puede cambiar, por ejemplo, pueden creer que una vez que se aplasta una caja, ya no puede volver
+a tomar la forma de una caja. También muestran dificultades para distinguir la fantasía de la realidad.
+Los personajes de las caricaturas les parecen tan reales como las personas. Este periodo se caracteriza
+por un rápido desarrollo del lenguaje y porque los niños se vuelven menos egocéntricos, se dan cuenta
+de que los otros pueden pensar y sentir de forma diferente que ellos.
+La etapa de operaciones concretas se caracteriza por un arcado crecimiento cognoscitivo, es un
+periodo muy formativo en la escuela, ya que el lenguaje y la adquisición de las habilidades básicas
+de los niños se aceleran de forma drástica. Los niños empiezan a manifestar cierto pensamiento abs-
+tracto, aunque por lo general se define mediante las propiedades o las acciones, por ejemplo, ser
+honesto es devolver el dinero a la persona que lo perdió. En esta etapa los niños manifiestan un pen-
+samiento menos egocéntrico y un lenguaje cada vez más social; también adquieren el pensamiento
+de reversibilidad, junto con la capacidad de clasificar y de formar series, conceptos que son esencia-
+les para la adquisición de las habilidades matemáticas. El pensamiento operacional concreto ya no es
+dominado por la percepción; los niños se basan en sus experiencias y no siempre son influidos por
+lo que perciben.
+La etapa de operaciones formales amplía el pensamiento operacional concreto. Los niños ya no se
+enfocan exclusivamente en lo tangible, ahora son capaces de pensar en situaciones hipotéticas. Las
+capacidades de razonamiento mejoran y los niños piensan en múltiples dimensiones y en propiedades
+abstractas. El egocentrismo surge en los adolescentes cuando comparan la realidad con lo ideal; en
+consecuencia, a menudo muestran un pensamiento idealista.
+Las etapas de Piaget han sido criticadas en muchos aspectos (Byrnes, 1996). Un problema es que
+los niños con frecuencia captan las ideas y son capaces de realizar operaciones más pronto de lo
+que Piaget plantea. Otro problema es que el desarrollo cognoscitivo en las diferentes áreas no suele
+ser similar; pocas veces un niño piensa en las formas típicas de una etapa con respecto a todas las
+cosas (matemáticas, ciencias, historia). Lo mismo ocurre con los adultos, que podrían comprender el
+mismo tema de forma muy diferente. Por ejemplo, algunos adultos piensan en el béisbol en términos
+preoperacionales, (“golpear la pelota y correr”), otros lo analizan en formas operacionalmente concre-
+tas (“¿Qué hago en las diferentes situaciones?”), y otros pueden razonar utilizando operaciones forma-
+les (“Explícame por qué una bola curva viaja formando una curva”). Sin embargo, como un marco de
+referencia general, las etapas describen los patrones de pensamiento que tienden a ocurrir, lo cual es
+útil para los educadores, los padres y otros profesionales que trabajan con niños.
+Mecanismos de aprendizaje. El equilibrio es un proceso interno (Duncan, 1995). Como tal, el desarrollo
+cognoscitivo únicamente se puede dar cuando, a través del equilibrio, se busca resolver el desequili-
+brio o conflicto cognoscitivo que surge en el momento en que las creencias del niño no coinciden con
+la realidad observada, es decir, cuando ocurre un suceso que modifica sus estructuras cognoscitivas.
+El equilibrio trata de resolver el conflicto mediante la asimilación y la acomodación.
+Piaget pensaba que el desarrollo se daba de manera natural a través de las interacciones habitua-
+les con los entornos físico y social. El impulso para los cambios en el desarrollo es interno. Los facto-
+res ambientales son extrínsecos; pueden influir en el desarrollo pero no dirigirlo. Esta cuestión tiene
+profundas implicaciones para la educación, ya que sugiere la posibilidad de que la enseñanza cause
+muy poco impacto sobre el desarrollo. Los profesores pueden organizar el ambiente para provocar un
+conflicto, pero no predecir cómo un niño en específico lo resolverá.
+Por lo tanto, el aprendizaje ocurre cuando los niños experimentan un conflicto cognoscitivo y lo
+asimilan o acomodan para construir o modificar sus estructuras internas. Sin embargo, es importante
+señalar que el conflicto no debe ser demasiado grande, ya que si lo fuera no se desencadenaría el
+equilibrio. El aprendizaje es óptimo cuando el conflicto es pequeño, sobre todo cuando los niños se
+encuentran en la transición entre dos etapas. Para que la información promueva un cambio estructural
+(acomodación), es necesario haberla comprendido parcialmente (asimilación). La estimulación del
+ambiente para facilitar el cambio debe tener un efecto despreciable, a menos que se haya iniciado la
+transición a la etapa crítica, de modo que el conflicto se pueda resolver con éxito mediante el equili-
+brio. Por consiguiente, el aprendizaje es limitado por las restricciones del desarrollo (Brainerd, 2003).
+Las evidencias científicas sobre el conflicto cognoscitivo no respaldan mucho el planteamiento de
+Piaget (Zimmerman y Blom, 1983a, 1983b; Zimmerman y Whitehurst, 1979). Rosenthal y Zimmerman
+(1978) resumieron los datos de varios estudios que revelaban que los niños en la etapa preoperacional
+son capaces de dominar tareas operacionales concretas mediante una enseñanza que involucre ex-
+plicaciones verbales y demostraciones modeladas. Según la teoría de Piaget, esto no podría ocurrir a
+menos que el niño se encuentre en la transición hacia otra etapa, un momento en el cual el conflicto
+cognoscitivo se encontraría a un nivel razonable.
+Los cambios de pensamiento de los niños característicos de las etapas parecen estar vinculados
+con cambios más graduales en la atención y el procesamiento cognoscitivo (Meece, 2002). Así, es
+probable que los niños no demuestren los niveles de comprensión de una etapa piagetiana por varias
+razones, como la falta de atención hacia los estímulos relevantes, la codificación inadecuada de la
+información, la incapacidad para relacionar información con los conocimientos previos o el uso de
+medios ineficaces para recuperar la información (Siegler, 1991). Cuando se enseña a los niños a utili-
+zar los procesos cognoscitivos de manera más eficaz, a menudo pueden realizar las tareas en niveles
+cognoscitivos más elevados.
+La teoría de Piaget es constructivista porque supone que los niños establecen sus propios con-
+ceptos sobre el mundo para darle sentido (Byrnes, 1996). Estos conceptos no son innatos, sino que
+los niños los adquieren a través de sus experiencias normales. El niño no recibe La información del
+entorno (incluyendo las personas) de manera automática, sino que la procesa de acuerdo con las es-
+tructuras mentales que ya posee. Los niños le dan un sentido a su ambiente y construyen la realidad
+con base en sus capacidades actuales. A su vez, esos conceptos básicos se convierten en perspectivas
+más sofisticadas a través de la experiencia.
+Implicaciones para la enseñanza
+Piaget consideraba que el desarrollo cognoscitivo no se puede enseñar, aunque algunas investigacio-
+nes demuestran que es posible acelerarlo (Zimmerman y Whitehurst, 1979). La teoría y la investigación
+tienen ciertas implicaciones para la enseñanza (tabla 6.3).
+Comprender el desarrollo cognoscitivo. Los profesores se benefician cuando comprenden en qué
+niveles están funcionando sus estudiantes. No debemos esperar que todos los alumnos de un grupo
+operen al mismo nivel. Muchas tareas piagetianas son fáciles de asignar (Wadsworth, 1996). Los pro-
+fesores pueden tratar de determinar los niveles y ajustar su enseñanza a ellos. Los estudiantes que pa-
+rezcan estar experimentando la transición a otra etapa pueden aprovechar la enseñanza en el siguiente
+grado de dificultad, ya que así el conflicto no será demasiado grande para ellos.
+Mantener activos a los estudiantes. Piaget criticó el aprendizaje pasivo. Los niños necesitan ambientes
+estimulantes que les permitan explorar de forma activa y que incluyan actividades prácticas. Este tipo
+de enseñanza facilita la construcción activa del conocimiento.
+APLICACIÓN 6.1
+Piaget y la educación
+En cualquier grado escolar, los docentes deben
+evaluar el nivel de desarrollo de sus estudiantes
+antes de planear sus lecciones; deben saber cómo
+piensan sus alumnos para provocarles un conflicto
+cognoscitivo a un nivel razonable, de modo que
+puedan resolverlo a través de la asimilación y la
+acomodación. Kathy Stone, por ejemplo, suele te-
+ner estudiantes que operan tanto a nivel preope-
+racional como a nivel de operaciones concretas, y
+esto implica que una lección no es suficiente para
+una unidad específica. Además, como algunos de
+los niños captan las operaciones con mayor rapi-
+dez que otros, necesita organizar actividades enri-
+quecedoras para sus lecciones.
+Al planear las unidades para su clase de
+historia, Jim Marshall incluye componentes que
+requieren una comprensión básica, y otros que
+necesitan del razonamiento abstracto. Por con-
+siguiente, incorpora actividades que exigen res-
+puestas de hechos, así como actividades que no
+tienen respuestas correctas o incorrectas pero que
+requieren que los estudiantes piensen de forma
+abstracta y construyan sus ideas a través de jui-
+cios razonados basados en datos. Para los estu-
+diantes que aún no operan plenamente a nivel
+operacional formal, los componentes que nece-
+sitan del razonamiento abstracto suelen producir
+el conflicto cognoscitivo deseado y fomentan un
+nivel de pensamiento más elevado. En el caso de
+los alumnos que ya operan a nivel operacional
+formal, las actividades de razonamiento continúan
+planteando desafíos.
+Provocar incongruencia. El desarrollo ocurre solamente cuando los estímulos ambientales no se ajus-
+tan a las estructuras cognoscitivas de los estudiantes. El material no debe ser demasiado fácil de asi-
+milar, pero tampoco tan difícil como para impedir la acomodación. También se puede fomentar la
+incongruencia permitiendo a los alumnos resolver problemas que los lleven a respuestas incorrectas.
+La teoría de Piaget no establece que el niño siempre deba tener éxito; la retroalimentación del profesor
+que indica una respuesta correcta puede fomentar el desequilibrio.
+Fomentar la interacción social. Aunque la teoría de Piaget sostiene que el desarrollo se puede dar sin
+la interacción social, el entorno social es siempre una fuente fundamental para el desarrollo cognos-
+citivo. Las actividades que fomentan las interacciones sociales son útiles. El hecho de aprender que
+los demás tienen diferentes puntos de vista ayuda a que los niños se vuelvan menos egocéntricos. En
+la aplicación 6.2 se presentan formas en que los profesores podrían ayudar a fomentar el desarrollo
+cognoscitivo.
+TEORÍA SOCIOCULTURAL DE VYGOTSKY
+Al igual que la teoría de Piaget, la de Vygotsky es una teoría constructivista; sin embargo, este úl-
+timo asigna mayor importancia al entorno social como un facilitador del desarrollo y del aprendizaje
+(Tudge y Scrimsher, 2003). A continuación analizaremos los antecedentes de esta teoría, junto con sus
+principales supuestos y principios.
+Antecedentes
+Lev Semenovich Vygotsky nació en Rusia en 1896. Estudió varias materias en la escuela, incluyendo
+psicología, filosofía y literatura; además, obtuvo el título de abogado en la Universidad Imperial de
+Moscú en 1917. Después de graduarse regresó a Gomel, su tierra natal, donde estuvo rodeado de pro-
+blemas debido a la ocupación alemana, la hambruna y la guerra civil. Dos de sus hermanos murieron
+y él contrajo tuberculosis, la enfermedad que terminó con su vida. Fue profesor de psicología y litera-
+tura, hizo crítica literaria y editó una revista. Además, trabajó en una institución en donde capacitó a
+profesores, fundó un laboratorio de psicología y escribió un libro sobre psicología educativa (Tudge
+y Scrimsher, 2003).
+En 1924, en el Segundo Congreso Ruso de Psiconeurología, realizado en Leningrado, ocurrió
+un acontecimiento crítico en su vida. En esa época, en la cual la teoría psicológica prevaleciente re-
+chazaba las experiencias subjetivas y favorecía los reflejos condicionados de Pavlov y el énfasis del
+conductismo sobre las influencias ambientales, Vygotsky presentó “Los métodos de la investigación
+reflexológica y psicológica”, un trabajo en el que criticaba las perspectivas dominantes y hablaba de
+la relación entre los reflejos condicionados y la conciencia y la conducta humana. Los experimentos
+de Pavlov con perros (véase el capítulo 3) y los estudios de Köhler con simios (véase el capítulo 7)
+borraron muchas de las diferencias entre los animales y los seres humanos.
+Vygotsky planteaba que, a diferencia de los animales que se limitan a reaccionar al ambiente, los
+seres humanos tienen la capacidad de modificarlo para su beneficio. Esta capacidad adaptativa distin-
+gue a los seres humanos de formas de vida inferiores. Su discurso causó tanto impacto en un miembro
+de su audiencia (Alexander Luria, de quien se hablará más adelante en este capítulo), que fue invitado
+a unirse al prestigioso Instituto de Psicología Experimental de Moscú, en donde ayudó a establecer
+el Instituto de Defectología, cuyo objetivo era estudiar formas para ayudar a las personas discapaci-
+tadas. Hasta su muerte en 1934, escribió extensamente sobre la mediación social del aprendizaje y el
+papel que en éste desempeña la conciencia, a menudo con la colaboración de colegas como Luria y
+Leontiev (Rohrkemper, 1989).
+Para entender la perspectiva de Vygotsky, es necesario tener en cuenta su postura marxista,
+y que sus ideas representaban un intento por aplicar las ideas marxistas del cambio social al len-
+guaje y al desarrollo (Rohrkemper, 1989). Después de la Revolución rusa de 1917, el ímpetu de
+los nuevos líderes produjo un cambio rápido en el pueblo. La firme orientación teórica sociocul-
+tural de Vygotsky se ajustaba bien a las metas revolucionarias de cambiar la cultura a un sistema
+socialista.
+Vygotsky tuvo cierto acceso a la sociedad occidental, en concreto a escritores como Piaget
+(Bredo, 1997; Tudge y Winterhoff, 1993), pero durante su vida o poco tiempo después de su
+muerte muy pocos de sus escritos fueron publicados (Gredler, 2009). En la antigua Unión Soviética
+prevalecía un clima político negativo; el Partido Comunista prohibió, entre otras cosas, las prue-
+bas y las publicaciones sobre psicología. Vygotsky adoptó un pensamiento revisionista (Bruner,
+1984); pasó de una perspectiva pavloviana de la psicología enfocada en los reflejos a una pers-
+pectiva histórico-cultural que destacaba el lenguaje y la interacción social (Tudge y Scrimsher,
+2003). Algunos de sus escritos entraban en conflicto con las ideas de Stalin, por lo que no fueron
+publicados. Hasta la década de 1980 las referencias a su trabajo estaban prohibidas en la Unión
+Soviética (Tudge y Scrimsher, 2003). En años recientes cada vez más de sus escritos han sido tra-
+ducidos y distribuidos, lo que ha incrementado su impacto sobre disciplinas como la educación,
+la psicología y la lingüística.
+PRINCIPIOS BÁSICOS
+Una de sus principales contribuciones a la psicología fue su énfasis en la actividad socialmente signi-
+ficativa como una influencia importante en la conciencia humana (Bredo, 1997; Kozulin, 1986; Tudge
+y Winterhoff, 1993). Vygotsky trató de explicar el pensamiento humano de formas novedosas; rechazó
+la introspección (véase el capítulo 1) y formuló muchas de las mismas críticas que los conductistas.
+Quería dejar de explicar los estados de conciencia y referirse al concepto de conciencia; también
+rechazó las explicaciones conductuales de la acción en términos de acciones previas. En lugar de des-
+cartar la conciencia —lo que hicieron los conductistas— o el papel que desempeña el ambiente en el
+desarrollo cognoscitivo —lo que plantearon los introspeccionistas—, buscó un punto medio en el que
+se tomaran en cuenta las influencias ambientales a través de sus efectos sobre la conciencia.
+La teoría de Vygotsky destaca la interacción de los factores interpersonales (sociales), los histó-
+rico-culturales y los individuales como la clave del desarrollo humano (Tudge y Scrimsher, 2003). Al
+interactuar con las personas en el entorno, como cuando se trabaja en grupos de aprendizaje o en
+colaboración, se estimulan procesos del desarrollo y se fomenta el crecimiento cognoscitivo. Pero para
+Vygotsky la utilidad de las interacciones no radica, como en el sentido tradicional, en que proporcio-
+nan información a los niños, sino en que les permiten transformar sus experiencias con base en su
+conocimiento y características, así como reorganizar sus estructuras mentales.
+Los aspectos histórico-culturales de la teoría de Vygotsky aclaran la cuestión de que no es posible
+separar el aprendizaje y el desarrollo del contexto en el que ocurren. La manera en que los aprendices
+interactúan con sus mundos (es decir, con las personas, los objetos y las instituciones que los confor-
+man) transforman su pensamiento. El significado de los conceptos cambia cuando se vincula con el
+mundo (Gredler, 2009). En consecuencia, “escuela” no es simplemente una palabra o una estructura
+física, sino también una institución que busca fomentar el aprendizaje y el civismo.
+Existen también factores individuales o heredados que influyen en el desarrollo. Vygotsky estaba
+interesado en los niños con discapacidades mentales y físicas porque creía que sus características
+heredadas producían trayectorias de aprendizaje diferentes a las de los niños que no tenían esos pro-
+blemas.
+De esos tres factores, el que ha recibido mayor atención, al menos entre los investigadores
+y profesionales occidentales, es el interpersonal. Vygotsky consideraba que el entorno social era
+fundamental para el aprendizaje y que las interacciones sociales transformaban las experiencias rela-
+cionadas con ese aprendizaje. La actividad social es un fenómeno que ayuda a explicar los cambios
+en la conciencia y establece una teoría psicológica que unifica a la conducta y la mente (Kozulin,
+1986; Wertsch, 1985).
+El entorno social influye en la cognición a través de sus “herramientas”, es decir, sus objetos cul-
+turales, como los automóviles y las máquinas; su lenguaje y sus instituciones sociales, por ejemplo, las
+escuelas y las iglesias. Las interacciones sociales ayudan a coordinar los tres factores que influyen en
+el desarrollo. El cambio cognoscitivo es el resultado de utilizar las herramientas culturales en las inte-
+racciones sociales y de internalizar y realizar la transformación mental de esas interacciones (Bruning
+et al., 2004). La postura de Vygotsky es un tipo de constructivismo dialéctico (cognoscitivo); es cons-
+tructivismo porque hace hincapié en la interacción entre las personas y sus entornos. La mediación es
+el mecanismo clave en el desarrollo y el aprendizaje:
+Todos los procesos psicológicos de los seres humanos (procesos mentales superiores) son media-
+dos por herramientas psicológicas como el lenguaje, los signos y los símbolos. Los adultos enseñan
+estas herramientas a los niños en el transcurso de sus actividades conjuntas (colaborativas). Una vez
+que los niños internalizan estas herramientas, funcionan como mediadores de sus procesos psicoló-
+gicos más avanzados.
+Tabla 6.4
+Principales ideas de la teoría de Vygotsky.
+n Las interacciones sociales son fundamentales␞ el conocimiento se construye entre dos o más personas.
+n La autorregulación se desarrolla mediante la internalización (desarrollando una representación interna)
+de las acciones y de las operaciones mentales que ocurren en las interacciones sociales.
+n El desarrollo humano ocurre a través de la transmisión cultural de herramientas (lenguaje y símbolos).
+n El lenguaje es la herramienta más importante␞ su desarrollo va desde el discurso social y el discurso privado,
+hasta el discurso cubierto (internos).
+n La zona de desarrollo próximo (=DP) es la diferencia entre lo que los niños pueden hacer por sí mismos y lo que
+pueden hacer con ayuda de otros. Las interacciones con los adultos y los pares en la =DP fomentan el desarrollo
+cognoscitivo.
+El argumento más polémico de Vygotsky es que todas las funciones mentales superiores se origi-
+nan en el entorno social (Vygotsky, 1962). Se trata de una aseveración poderosa, pero posee un alto
+grado de verdad. El proceso más influyente involucrado en el desarrollo cognoscitivo es el lenguaje.
+Vygotsky creía que un componente fundamental para el desarrollo psicológico era el dominio de los
+procesos externos de transmisión del desarrollo cultural y del pensamiento a través de símbolos como el
+lenguaje, el conteo y la escritura. Una vez que se domina este proceso, el siguiente paso consiste en utili-
+zar esos símbolos para influir y autorregular los pensamientos y las acciones. La autorregulación utiliza
+la importante función del discurso privado, que se analizará más adelante en este capítulo.
+A pesar de estas impresionantes ideas, al parecer las aseveraciones de Vygotsky son muy firmes.
+Las evidencias de investigaciones revelan que los niños pequeños descubren mentalmente muchos
+conocimientos acerca de cómo opera el mundo, mucho tiempo antes de que tengan la oportunidad de
+aprender de la cultura en la que viven (Bereiter, 1994). Al parecer, los niños también están biológica-
+mente predispuestos a adquirir ciertos conceptos, por ejemplo, a comprender que al sumar aumenta la
+cantidad; y que esto no depende del entorno (Geary, 1995). Aunque el aprendizaje social influye en
+la construcción del conocimiento, la afirmación de que todo el aprendizaje se deriva del entorno social
+parece exagerada. Sin embargo, sabemos que la cultura de los aprendices es fundamental, y que es
+necesario tomarla en cuenta al explicar el aprendizaje y el desarrollo. En la tabla 6.4 (Meece, 2002) se
+presenta un resumen de las principales ideas de la teoría de Vygotsky (1978).
+Zona de desarrollo próximo
+Un concepto importante es la zona de desarrollo próximo (ZDP), que se define como “la distancia
+entre el nivel actual del desarrollo, determinada mediante la solución independiente de problemas,
+y el nivel de desarrollo potencial, determinado por medio de la solución de problemas bajo la guía
+adulta o en colaboración con pares más capaces” (Vygotsky, 1978, p. 86). La ZDP representa la can-
+tidad de aprendizaje que un estudiante puede lograr en las condiciones de instrucción apropiadas
+(Puntambekar y Hübscher, 2005); se trata principalmente de una prueba del desarrollo de un estu-
+diante, que indica su preparación o nivel intelectual en un área específica, muestra la relación entre
+el aprendizaje y el desarrollo (Bredo, 1997; Campione, Brown, Ferrara y Bryant, 1984) y se puede
+considerar como un concepto alternativo al de inteligencia (Belmont, 1989). En la ZDP un profesor
+y un aprendiz (adulto/niño, tutor/alumno, modelo/observador, profesor/aprendiz, experto/novato)
+trabajan en conjunto en una tarea que el aprendiz no puede realizar de forma independiente debido
+a su nivel de dificultad. La ZDP refleja la idea marxista de la actividad colectiva, en la cual aquellos
+que saben más o son más hábiles comparten ese conocimiento o habilidad para realizar una tarea con
+aquellos que saben menos (Bruner, 1984).
+Cuando el profesor y el aprendiz comparten herramientas culturales ocurre un cambio cognosci-
+tivo en la ZDP; mientras que cuando el aprendiz internaliza esta interacción mediada culturalmente,
+se produce en él un cambio cognoscitivo (Bruning et al., 2004; Cobb, 1994). Para trabajar en la ZDP
+se requiere mucha participación guiada (Rogoff, 1986); sin embargo, los niños no adquieren cono-
+cimientos culturales de forma pasiva a partir de esas interacciones, y lo que aprenden no es necesa-
+riamente un reflejo automático preciso de los acontecimientos. Más bien, los aprendices aplican su
+propia comprensión a las interacciones sociales y construyen significados al integrar esa comprensión
+a sus experiencias en el contexto. A menudo el aprendizaje se produce de manera repentina, como el
+discernimiento que plantean los teóricos de la Gestalt (véase el capítulo 7), más que como un reflejo
+de una adquisición gradual de conocimientos (Wertsch, 1984).
+Por ejemplo, suponga que una profesora (Trudy) y una niña (Laura) trabajarán en una tarea (di-
+bujar a mamá, papá y Laura haciendo algo juntos en casa). Laura aporta a la tarea su comprensión
+de cómo son las personas y la casa, y del tipo de cosas que podrían hacer, combinada con su cono-
+cimiento de cómo hacer dibujos. Trudy aporta la misma comprensión, además de su conocimiento
+de las condiciones necesarias para trabajar en diversas tareas. Suponga que deciden dibujar a los tres
+trabajando en el jardín. Laura podría dibujar a su papá podando el césped, a su mamá recortando
+los arbustos y dibujarse a ella misma barriendo la hierba. Si Laura quisiera dibujarse enfrente de su
+papá, Trudy tendría que explicarle que debe aparecer detrás de él, barriendo la hierba que va dejando
+después de cortarla. Durante la interacción Laura modifica sus creencias acerca del trabajo en el jar-
+dín con base en su comprensión actual y en los nuevos conocimientos que construye. A pesar de la
+importancia de la ZDP, el excesivo énfasis que las culturas occidentales han puesto en él ha distorsio-
+nado su significado y restado importancia a la complejidad de la teoría de Vygotsky. Como explican
+Tudge y Scrimsher (2003):
+Además, con frecuencia el concepto en sí se ha considerado de una forma muy limitada, destacando
+el aspecto interpersonal a expensas del individuo y de los niveles histórico-culturales, y tratándolo de
+manera unidireccional. Al utilizar el concepto como sinónimo de “andamiaje”, demasiados autores se
+han enfocado en el papel que desempeñan en éste las personas más competentes, especialmente el
+profesor, cuya función consiste en proporcionar ayuda sólo para mejorar el tipo de pensamiento actual
+del niño... Así, el concepto se ha equiparado con lo que los profesores cuidadosos deberían hacer con
+sus alumnos y, al pasar por alto lo que el niño aporta a la interacción y el contexto más amplio (cultural
+e histórico) en el que se lleva a cabo la interacción, se ha perdido gran parte de la complejidad que le
+infundió Vygotsky (p. 211).
+La influencia del entorno histórico-cultural se observa claramente en la creencia de Vygotsky de
+que la escuela es importante, no porque sea el lugar donde se proporcione andamiaje a los alumnos,
+sino porque les permite desarrollar una mayor conciencia de sí mismos, de su lenguaje y del papel
+que les toca desempeñar en el orden mundial. Participar en el mundo cultural transforma el funcio-
+namiento de la mente más que simplemente acelerar los procesos que, de cualquier manera, se de-
+sarrollarán. Por lo tanto, en términos generales, la ZDP se refiere a nuevas formas de conciencia que
+ocurren a medida que la gente interactúa con sus instituciones sociales. La cultura influye en el curso
+del propio desarrollo mental. Es desafortunado que, en la mayoría de los análisis de la ZDP, ésta se
+conciba de forma tan estrecha como un profesor experto proporcionando oportunidades de aprendi-
+zaje a un estudiante (aunque esto sea parte de ella).
+Aplicaciones
+Las ideas de Vygotsky se prestan a muchas aplicaciones educativas (Karpov y Haywood, 1998; Moll,
+2001). El campo de la autorregulación (véase el capítulo 9) ha sido muy influido por la teoría. La
+autorregulación requiere procesos metacognitivos, como la planeación, la verificación y la evaluación.
+En esta sección y en la aplicación 6.3, se incluyen otros ejemplos.
+Existen muchas maneras de ayudar a los estudiantes a adquirir mediadores cognoscitivos
+(como signos y símbolos) a través del entorno social. Una aplicación común implica el concepto
+de andamiaje instruccional, que se refiere al proceso de control de los elementos de las tareas
+que rebasan las capacidades de los estudiantes con el fin de que se concentren y dominen los as-
+pectos de la tarea que pueden captar con rapidez (Bruning et al., 2004; Puntambekar y Hübscher,
+2005). Para utilizar una analogía del andamiaje utilizado en los proyectos de construcción, el an-
+damiaje instruccional tiene cinco funciones principales: proporcionar apoyo al aprendiz, funcionar
+APLICACIÓN 6.3
+Teoría de Vygotsky
+Vygotsky planteó que las interacciones con el en-
+torno ayudan al aprendizaje. Las experiencias que
+las personas aportan a la situación de aprendizaje
+influyen de manera importante en el resultado.
+Los entrenadores de patinaje sobre hielo pue-
+den trabajar con estudiantes avanzados que han
+aprendido muchas cosas acerca de este deporte y
+de la manera en que su cuerpo se comporta so-
+bre el hielo. Los estudiantes aportan sus concep-
+tos de equilibrio, velocidad, movimiento y control
+corporal obtenidos a partir de sus experiencias en
+el patinaje. Los entrenadores utilizan las fortalezas
+y debilidades de sus estudiantes y los ayudan a
+aprender a modificar varios movimientos para me-
+jorar su desempeño. Por ejemplo, un entrenador
+ve que una patinadora muestra problemas para
+completar un giro triple aunque tiene la altura y la
+velocidad necesarias para completar el salto. El en-
+trenador observa que el problema se debe a que al
+dar la vuelta la patinadora gira su pie en cierto án-
+gulo, lo que altera la cadencia de sus movimientos.
+Una vez que el entrenador le hace la observación y
+la ayuda a aprender a modificar ese movimiento, la
+patinadora realiza el salto de forma exitosa.
+Los estudiantes de veterinaria que fueron
+instruidos en granjas y tienen experiencia en na-
+cimientos, enfermedades y cuidado de diversos
+tipos de animales aportan conocimientos valio-
+sos a su entrenamiento. Los profesores pueden
+utilizar estas experiencias para mejorar su apren-
+dizaje. Al enseñar a los estudiantes a tratar la
+pata lastimada de una vaca o de un caballo, el
+instructor podría pedirle a uno de esos alumnos
+instruidos en granjas que hable acerca de lo que
+ha observado, y partir de ese conocimiento ex-
+plicar los métodos de tratamiento más novedo-
+sos y eficaces.
+como herramienta, ampliar el alcance del aprendiz, permitirle lograr tareas que de otra forma no po-
+dría lograr y usarla selectivamente sólo en caso necesario.
+En una situación de aprendizaje, es probable que al principio el profesor tenga que hacer la mayor
+parte del trabajo, pero después los estudiantes deben compartir con él la responsabilidad. A medida
+que los alumnos se vuelven más competentes, el docente va retirando gradualmente el andamiaje
+para permitirles desempeñarse de manera independiente (Campione et al., 1984). La clave consiste en
+asegurarse de que el andamiaje mantenga a los estudiantes en la ZDP, la cual aumenta cuando éstos
+desarrollan habilidades. A los alumnos se les desafía a aprender dentro de los límites de la ZDP. En la
+conversación inicial, vimos cómo Anna fue capaz de aprender con el apoyo de enseñanza adecuado.
+Es muy importante entender que el andamiaje no es una parte formal de la teoría de Vygotsky
+(Puntambekar y Hübscher, 2005); el término fue acuñado por Wood, Bruner y Ross (1976). Sin em-
+bargo, se ajusta muy bien al concepto de la zona de desarrollo próximo. El andamiaje forma parte de
+la técnica de modelamiento participante de Bandura (1986) (véase el capítulo 4), en el que un profe-
+sor empieza por modelar una habilidad, después proporciona apoyo y va reduciendo gradualmente
+la ayuda a medida que los estudiantes desarrollan la habilidad. El concepto también guarda cierta
+relación con el moldeamiento (véase el capítulo 3), en el cual se utilizan apoyos educativos para guiar
+a los estudiantes a través de varias etapas para la adquisición de habilidades.
+El andamiaje es apropiado cuando un profesor desea proporcionar a los estudiantes cierta infor-
+mación o realizar por ellos partes de una tarea con el fin de que se puedan concentrar en la parte de
+la tarea que tratan de dominar. De esta manera, si Kathy Stone estuviera trabajando con sus alumnos
+de tercer grado en la organización de enunciados en un párrafo para expresar ideas de manera lógica,
+podría ayudarlos proporcionándoles inicialmente los enunciados con el significado y la ortografía de
+las palabras para que estos requisitos no interfirieran con su tarea principal. A medida que se vuelvan
+más hábiles para unir secuencias de ideas, les podría pedir que compusieran sus propios párrafos,
+pero sin dejar de ayudarlos con el significado y la ortografía de las palabras. Con el tiempo, los estu-
+diantes asumirán la responsabilidad de esas funciones. En resumen, el docente crea una ZDP y pro-
+porciona el andamiaje para que los estudiantes obtengan éxito (Moll, 2001).
+Otra aplicación que refleja las ideas de Vygotsky es la enseñanza recíproca. Esta técnica se ana-
+lizará y ejemplificará en el capítulo 7, junto con la lectura. La enseñanza recíproca implica un diálogo
+interactivo entre un profesor y un pequeño grupo de estudiantes. Al principio el docente modela
+las actividades, y después él y los alumnos se turnan para desempeñar el papel de profesor. Si los
+estudiantes están aprendiendo a hacer preguntas durante la lectura de comprensión, la secuencia de
+enseñanza podría incluir al profesor modelando una estrategia de indagación para determinar el nivel
+de comprensión. Desde la perspectiva de Vygotsky, la enseñanza recíproca comprende la interacción
+social y el andamiaje cuando los estudiantes desarrollan habilidades de manera gradual.
+Otra área importante de aplicación es la colaboración entre pares, que reflejan el concepto de acti-
+vidad colectiva (Bruner, 1984; Ratner et al., 2002; véase la sección sobre el aprendizaje asistido por los
+pares más adelante en este capítulo). Cuando los pares trabajan en una tarea de forma colaborativa, las
+interacciones sociales compartidas pueden tener una función instruccional. Las investigaciones revelan
+que los grupos cooperativos son más eficaces cuando se asignan responsabilidades a cada estudiante
+y todos deben lograr cierto grado de competencia antes de que el grupo pueda continuar con la tarea
+(Slavin, 1995). Los grupos de pares se suelen utilizar para el aprendizaje en campos como las mate-
+máticas, las ciencias y la literatura (Cobb, 1994; Cohen, 1994; DiPardo y Freedman, 1988; Geary, 1995;
+O´Donnell, 2006), lo que demuestra el reconocido impacto del entorno social durante el aprendizaje.
+Una aplicación importante de la teoría de Vygotsky y de la cognición situada es la guía social
+a través de los grupos de aprendizaje (Radziszewska y Rogoff, 1991; Rogoff, 1990), en los cuales los
+aprendices trabajan de forma estrecha con expertos en actividades conjuntas relacionadas con el
+trabajo. Los grupos de aprendizaje se ajustan bien al concepto de ZDP porque se dan en institucio-
+nes culturales, como escuelas y organismos y, por consiguiente, ayudan a transformar el desarrollo
+cognoscitivo de los aprendices. En la práctica, operan dentro de una ZDP porque a menudo realizan
+tareas que rebasan sus capacidades. Al trabajar con expertos, los novatos desarrollan una comprensión
+compartida de procesos importantes, la cual integran a los conocimientos que ya poseen. Los grupos
+de aprendizaje representan un tipo de constructivismo dialéctico que depende en gran parte de las
+interacciones sociales.
+Childs y Greenfield (1981) describieron un ejemplo de grupos de aprendizaje en un contexto cul-
+tural particular, el de las tejedoras chinantecas de Oaxaca, México, relacionado con la enseñanza de
+tejido. En esa cultura las niñas observan desde que nacen cómo sus madres y otras mujeres mayores
+tejen, de manera que cuando les empiezan a enseñar, ya han estado expuestas a muchos modelos.
+Observaron que en las primeras fases de la instrucción el adulto pasaba más de 90 por ciento del
+tiempo tejiendo con la niña y que después de tejer la primera prenda ese tiempo se reducía a 50 Por
+ciento. Luego, el adulto trabajaba los aspectos más difíciles de la tarea. Después de tejer cuatro pren-
+das, la participación del adulto se reducía a menos de 40 por ciento. Este procedimiento de enseñanza
+ejemplifica una interacción social cercana y el andamiaje dentro de la ZDP.
+Los grupos de aprendizaje se utilizan en muchas áreas de la educación. Los futuros profesores tra-
+bajan en cooperación con los profesores en las escuelas y, cuando empiezan a practicar la docencia,
+suelen unirse a profesores experimentados para recibir tutoría. Los estudiantes realizan investigación
+con los profesores, quienes fungen como tutores (Mullen, 2005). Los futuros consejeros hacen prácti-
+cas bajo la guía directa de un supervisor. Los programas de estudios prácticos de capacitación utilizan
+el modelo de los grupos de aprendizaje cuando los estudiantes adquieren habilidades en el entorno
+laboral real e interactúan con otras personas. Se ha puesto mucho énfasis en ampliar los grupos de
+aprendizaje para los jóvenes, en especial para aquellos que no asisten a la universidad (Bailey, 1993).
+En futuras investigaciones se deben evaluar los factores que influyen en el éxito de los grupos de
+aprendizaje para contar con medios que permitan fomentar la adquisición de habilidades en estudian-
+tes de diversas edades.
+
 """
 def dividir_texto(texto, longitud):
     partes = []
