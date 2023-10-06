@@ -1,0 +1,45 @@
+¿Para quien está pensado esta monografia? Para gente que sepa de programación y esté interesado en enseñar.
+Considero que enseñar a programar en el nivel medio muchas veces está mal enfocado.
+En mi caso me ha pasado que nos enseñaron cosas como html (al cual definian como un lenguaje de programación) o robotica.
+Tambien es comun que se usen cosas como scratch o arduino.
+Otras veces se les enseña incluso a usar programas de animación como alice.
+Yo creo que lo primero que se tiene que enseñar a hacer es a usar control de versiones, especialmente git.
+Despues de eso se tiene que elegir un lenguaje de programación.
+A mi en la carrera lo primero que me mostraron fue como usar pseudocodigo, en parte porque la mayoria de los lenguajes de programación tienen sintaxis en inglés.
+Hay que evaluar el nivel de inglés de los alumnos porque no todos pueden entender inmediatamente lo que van a escribir.
+Usar html puro tiene sus ventajas porque se pueden generar paginas que cargan mas rapido y pesan menos que si se usan cosas como React, pero al momento de hacer cosas que no sean estaticas como centrar el texto o usar codigo de javascript puede ser muy dificil hacer paginas complejas.
+Hacer programas de consola en los cuales se impriman resultados puede ser bastante abstracto para los alumnos.
+Programar aplicaciones web con frameworks como React como primera experiencia con la programación puede ser muy dificil.
+Usar motores graficos de juego puede ser abrumador al principio porque son complejos.
+Creo que usar librerias o consolas de fantasia como TIC-80 puede ser una buena idea.
+También creo que es importante poder elegir un sistema operativo adecuado para programar.
+En mi experiencia personal es ideal poder usar linux, pero las computadoras que hay en las escuelas hoy en dia todas tienen unicamente windows en la Ciudad Autonoma de Buenos Aires.
+Una alternativa seria que se pudieran instalar maquinas virtuales con linux en esas computadoras pero en muchos casos no se permite instalar nada en esas laptops.
+Otra solución seria usar linux en un usb, pero esto tiene sus limitaciones, requeriria conseguir los usb y el bootloader de la maquina deberia estar desbloqueado.
+En los unicos casos en donde windows puede ser una mejor opción para programar es si se usa algún programa que no está disponible de forma nativa para linux.
+Las primeras laptops que habia tenian una partición de Debian o Huayra, pero ahora solo tienen el sistema operativo de Microsoft.
+Es importante que cuando se le enseña a programar algo a los alumnos no se les enseñe paso a paso como hacer un juego en especifico, sino que hay que enseñarle algoritmos para que puedan programar practicamente lo que quieran.
+Ademas quiero destacar que hacer juego en dos dimensiones es mucho mas facil que hacer juegos en tres dimensiones o con realidad aumentada.
+En mi tiempo como programador he probado mucho software diferente para hacer juegos o programas.
+Pygame, Phaser.js, Paper.js, Godot, Unity, Unreal Engine, TIC-80, entre otras.
+Hay algunas de mas bajo nivel escritas en lua, C, C++, C# o Rust que no pude hacer andar o son muy dificiles.
+Todas tienen sus ventajas y desventajas.
+Algunas son de codigo abierto y otras son propietarias.
+En el caso de TIC-80 es de codigo abierto, pero cuenta con binarios de pago para apoyar a los desarrolladores, los cuales pueden ser compilados por uno mismo para ahorrarse pagar 10 dolares.
+Una de las ventajas que tiene es que es todo en uno. Tiene editor de codigo, de sprites o imagenes, de celdas, de efectos de sonido y de musica.
+Otra cosa que sirve para aprender a programar es aprender a leer el codigo de los demás.
+Una pagina muy util para eso es GitHub, pero también existen otras como GitLab.
+Esta pagina tambien les permite varias cosas como trabajar en proyectos colaborativamente, hacer control de versiones con git, subir una pagina web estatica, lanzar versiones en archivos binarios para varias plataformas.
+Yo incluso subo mis archivos del profesorado a github para tenerlas en varias computadoras y no perder mis apuntes.
+Una de las cosas que dijo la profe de Tecnologias de la Información cuando hablé con ella es que les enseñaba HTML porque no requeria que instalen nada y porque hay que ver la absorción que tienen los chicos de lo que se enseña.
+El objetivo del trabajo del docente es que los alumnos aprendan, no solo enseñar.
+No es cuestión de enseñarle a la pared como hacer algo, los alumnos lo tienen que entender.
+Programar no es solo cuestión de escribir codigo, sino todos los juegos serian poligonos de colores.
+También hay que diseñar los sprites, los cuales son imagenes que se usan en el juego para representar personajes, fondos, objetos, etc.
+Algo que es opcional es el sonido.
+Los primeros juegos que hice eran totalmente mudos porque era dificil para mí ponerle música.
+En muchos motores de juego es necesario usar programas externos para crear el sonido, pero como mencioné antes en las consolas de fantasía como TIC-80 ya tienen creadores de música.
+La desventaja de esto es que si se quiere poner una canción ya existente se tiene que programar a mano toda la partitura de la canción, pero la ventaja es que si nos gusta la música retro de videojuegos como el chiptune podemos crear con este programa una versión de una canción que todavia no fue adaptada.
+Escuché a bastante gente hablar sobre Minecraft Education Edition y como se usa en la escuela.
+Los juegos de sandbox tienen bastante potencial para hacer que a los alumnos les interese la informatica, pero en mi opinión solo pueden en la mayoria de los casos hacer que practiquen diseño de niveles.
+Si lo que se quiere es que programen usando un juego ya existente entonces lo que se podria hacer es que hagan un mod de un juego.
