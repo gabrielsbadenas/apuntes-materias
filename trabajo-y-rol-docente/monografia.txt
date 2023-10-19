@@ -43,3 +43,18 @@ La desventaja de esto es que si se quiere poner una canción ya existente se tie
 Escuché a bastante gente hablar sobre Minecraft Education Edition y como se usa en la escuela.
 Los juegos de sandbox tienen bastante potencial para hacer que a los alumnos les interese la informatica, pero en mi opinión solo pueden en la mayoria de los casos hacer que practiquen diseño de niveles.
 Si lo que se quiere es que programen usando un juego ya existente entonces lo que se podria hacer es que hagan un mod de un juego.
+Para poder escribir el codigo fuente de los programas es necesario usar un editor de texto.
+Hay varios programas que tienen un editor de texto integrado, pero sino yo recomiendo usar vim.
+Este editor se ejecuta en el emulador de terminal pero tambien tiene una versión independiente.
+La particularidad que tiene que lo diferencia de los demás editores es que es muy ligero y tiene modos que permiten editar más facilmente.
+Lo primero que se le tiene que enseñar a alguien es como salir de este programa, lo cual se hace usando :q y luego enter.
+Cuando se apreta Esc se entra en el modo normal, desde el cual se pueden acceder a otros modos y usar comandos.
+Casi todas las letras del teclado tienen una función.
+Para empezar a escribir al entrar en el modo insertar se puede usar la letra I o la A.
+Considero que enseñarle a usar este editor de texto a los alumnos puede ser muy util tanto para programar como para escribir apuntes o textos.
+Creo que las limitaciones tecnicas llevan a que en la mayoria de los casos se estimule la creatividad.
+
+correccion que me hizo la compañera:
+muchos ejemplos
+ideas desordenadas
+terminos que no todos los docentes entienden
