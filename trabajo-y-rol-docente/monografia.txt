@@ -53,7 +53,8 @@ Casi todas las letras del teclado tienen una función.
 Para empezar a escribir al entrar en el modo insertar se puede usar la letra I o la A.
 Considero que enseñarle a usar este editor de texto a los alumnos puede ser muy util tanto para programar como para escribir apuntes o textos.
 Creo que las limitaciones tecnicas llevan a que en la mayoria de los casos se estimule la creatividad.
-
+Cuando le pregunte a un profesor de civica de como haria una microclase de informatica para taller 1 lo que me respondio es ensenar a usar powerpoint.
+En mi opinion no se si es la mejor opcion, yo preferiria darles una introduccion a javascript.
 correccion que me hizo la compañera:
 muchos ejemplos
 ideas desordenadas
