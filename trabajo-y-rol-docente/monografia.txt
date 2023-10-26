@@ -1,3 +1,25 @@
+Titulo
+Programacion en la escuela secundaria
+
+Autor: Gabriel Sanchez
+Año: 2023
+
+Introduccion
+En este texto voy a explorar desde mi experiencia personal en programación cuales son las ventajas y desventajas de enseñar a programar de cierta manera en varios lenguajes de programación y tecnologias.
+Tambien voy a hablar de diversos temas, como las buenas practicas de programación.
+Al escribir la monografia menciono terminos tecnicos que van a requerir buscar en internet que significan porque lo escribo desde mi experiencia previa.
+Como programador, cuando hice observaciones en el Juan B. Justo me llamó la atención como se les enseñaba a los alumnos a programar. Justo dió la casualidad que me tocó observar las clases de la que habia sido mi profesora de Tecnologia.
+Lo que me motivó es el hecho de que al contrario de lo que dijo en clase la profesora, HTML no es un lenguaje de programación, es un lenguaje de marcado.
+Escribo esta monografia como trabajo final del seminario de Trabajo y Rol Docente de la Certificación Pedagogia.
+En esta carrera hay quienes van a enseñar en nivel medio, otros en nivel primario y otros en ambos.
+En mi caso voy a enseñar en nivel medio por lo que pensé escribirlo para la secundaria.
+Otra de las cosas que me motiva a escribir este texto es mi pasion por los videojuegos, la que a su vez me llevó a querer crear los mios.
+Considero que hay muchos adolescentes a los que tambien les puede interesar y pueden aprender mejor jugando que con logica de negocio.
+Durante la escritura del desarrollo de este escrito también busqué ponerme en el lugar de alguien que no sabe programar y traté de recordar como me sentia cuando me estaban enseñando cosas que no sabia.
+Otra de las cosas que traté de hacer incluso fue intentar enseñarle JavaScript y a mi papá.
+Escribir este texto no hubiera sido posible sin el trabajo de los desarrolladores de software libre de linux, fedora, vim, terminator, neovim y git. Esto es debido a que usé gratis sus programas para escribir este texto.
+
+Desarrollo
 ¿Para quien está pensado esta monografia? Para gente que sepa de programación y esté interesado en enseñar.
 Considero que enseñar a programar en el nivel medio muchas veces está mal enfocado.
 En mi caso me ha pasado que nos enseñaron cosas como html (al cual definian como un lenguaje de programación) o robotica.
@@ -55,6 +77,30 @@ Considero que enseñarle a usar este editor de texto a los alumnos puede ser muy
 Creo que las limitaciones tecnicas llevan a que en la mayoria de los casos se estimule la creatividad.
 Cuando le pregunte a un profesor de civica de como haria una microclase de informatica para taller 1 lo que me respondio es ensenar a usar powerpoint.
 En mi opinion no se si es la mejor opcion, yo preferiria darles una introduccion a javascript.
+"Enseñar no existe sin el aprender" (Freire, p. 45, 1993).
+Yo puedo dar una exposición sobre un tema muy avanzado de programación y los alumnos pueden no entender lo que estoy diciendo.
+Para que aprendan primero tengo que ponerme en el lugar de ellos y pensar en como era yo cuando no sabia estos temas o mientras estaba aprendiendolos.
+"El acto de estudiar siempre implica leer" (Freire, p. 47, 1993).
+Para aprender a escribir codigo primero tenemos que leer el codigo de otros, ya sea en documentacion, foros, clases, repositorios online, etc.
+Es importante escribir codigo que sea legible.
+Hay gente, como mi profesor de taller de programacion, que prefiere hacer comentarios en el codigo, pero recientemente vi en un video que no conviene usar comentarios.
+Existen varias razones.
+La primera es que los comentarios son ignorados por el compilador o el interprete, por lo que cuando se modifica el codigo los comentarios pueden quedar desactualizados.
+La segunda es que si se usan buenas practicas, como no abreviar los nombres de variables, clases y funciones, no es necesario poner comentarios.
+Una mala practica es comentar codigo que no queremos que se ejecute.
+Lo recomendable es directamente hacer un commit y borrar ese codigo, porque cuando alguien vea ese codigo en el futuro no va a querer borrarlo por pensar que es importante.
+No podemos esperar que el escritor haga su tarea y la del lector (Freire, p. 53, 1993).
+Escribiendo esta monografia constantemente estuve pensando en que por ahi escribia demasiados ejemplos o explicaba de mas que significaba cada termino.
+Para poder leer este texto va a ser necesario tener conocimiento previo de informatica o buscar en internet a que me refiero.
+Es recomendable escribir por lo menos 3 veces por semana (Freire, p. 57, 1993).
+Hay que tener en cuenta que esta carta fue escrita en el siglo XX.
+Hoy en dia, por la invencion de la mensajeria instantanea y las redes sociales, escribimos mucho mas que en el pasado.
+Lo que si es cierto y se menciona un poco antes en esa carta es que a muchas personas les cuesta escribir y redactar correctamente en tesis o trabajos practicos.
+Esto podria aplicarse tambien a escribir codigo.
+Aunque no tengamos un trabajo o estemos estudiando formalmente programacion es importante que sigamos practicando de manera autodidacta programar.
+Lo bueno es que si nos gusta programar podemos desarrollar el proyecto que nosotros queramos.
+
+
 correccion que me hizo la compañera:
 muchos ejemplos
 ideas desordenadas
