@@ -1,0 +1,16 @@
+la adolescencia surge con el ascenso de la calidad de vida en la sociedad
+antes el ninio era un adulto en miniatura
+la pubertad es universal porque es un cambio biologico
+
+edad niniez
+|pubertad-> cambios biologicos]universal
+v
+cambios psicologicos]contexto sociocultural y familiar
+|	|
+v	L>[Autonomia]->normas
+crisis	      |  L>desarrollar capacidades nuevas
+	      V
+	      lugares/espacios
+
+antes el referente eran algunos adultos
+ahora son las redes sociales
