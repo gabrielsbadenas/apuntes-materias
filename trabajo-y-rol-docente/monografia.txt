@@ -1,52 +1,51 @@
-Titulo
-Programacion en la escuela secundaria
+Título: Programación en la escuela secundaria
 
 Autor: Gabriel Sanchez
 Año: 2023
 
-Introduccion
+Introducción
 En este texto voy a explorar desde mi experiencia personal en programación cuales son las ventajas y desventajas de enseñar a programar de cierta manera en varios lenguajes de programación y tecnologias.
-Tambien voy a hablar de diversos temas, como las buenas practicas de programación.
-Al escribir la monografia menciono terminos tecnicos que van a requerir buscar en internet que significan porque lo escribo desde mi experiencia previa.
-Como programador, cuando hice observaciones en el Juan B. Justo me llamó la atención como se les enseñaba a los alumnos a programar. Justo dió la casualidad que me tocó observar las clases de la que habia sido mi profesora de Tecnologia.
-Lo que me motivó es el hecho de que al contrario de lo que dijo en clase la profesora, HTML no es un lenguaje de programación, es un lenguaje de marcado.
-Escribo esta monografia como trabajo final del seminario de Trabajo y Rol Docente de la Certificación Pedagogia.
+También voy a hablar de diversos temas, como las buenas prácticas de programación.
+Al escribir la monografía menciono términos técnicos que van a requerir buscar en internet qué significan porque lo escribo desde mi experiencia previa.
+Como programador, cuando hice observaciones en el Instituto Juan B. Justo me llamó la atención como se les enseñaba a los alumnos a programar. Justo dió la casualidad que me tocó observar las clases de la que habia sido mi profesora de Tecnologia.
+Al contrario de lo que dijo en clase la profesora, HTML no es un lenguaje de programación, es un lenguaje de marcado.
+Escribo esta monografia como trabajo final del seminario de Trabajo y Rol Docente de la Certificación Pedagógica.
 En esta carrera hay quienes van a enseñar en nivel medio, otros en nivel primario y otros en ambos.
 En mi caso voy a enseñar en nivel medio por lo que pensé escribirlo para la secundaria.
-Otra de las cosas que me motiva a escribir este texto es mi pasion por los videojuegos, la que a su vez me llevó a querer crear los mios.
-Considero que hay muchos adolescentes a los que tambien les puede interesar y pueden aprender mejor jugando que con logica de negocio.
-Durante la escritura del desarrollo de este escrito también busqué ponerme en el lugar de alguien que no sabe programar y traté de recordar como me sentia cuando me estaban enseñando cosas que no sabia.
-Otra de las cosas que traté de hacer incluso fue intentar enseñarle JavaScript y a mi papá.
+Otra de las cosas que me motiva a escribir este texto es mi pasión por los videojuegos, la que a su vez me llevó a querer crear los mios.
+Considero que hay muchos adolescentes a los que tambien les puede interesar y pueden aprender mejor jugando que con lógica de negocio.
+Durante la escritura del desarrollo de este escrito también busqué ponerme en el lugar de alguien que no sabe programar y traté de recordar como me sentía cuando me estaban enseñando cosas que no sabía.
+Otra de las cosas que traté de hacer incluso fue intentar enseñarle JavaScript a mi papá.
 Escribir este texto no hubiera sido posible sin el trabajo de los desarrolladores de software libre de linux, fedora, vim, terminator, neovim y git. Esto es debido a que usé gratis sus programas para escribir este texto.
 
 Desarrollo
-¿Para quien está pensado esta monografia? Para gente que sepa de programación y esté interesado en enseñar.
+¿Para quien está pensada ésta monografia? Para gente que sepa de programación y esté interesado en enseñar.
 Considero que enseñar a programar en el nivel medio muchas veces está mal enfocado.
-En mi caso me ha pasado que nos enseñaron cosas como html (al cual definian como un lenguaje de programación) o robotica.
-Tambien es comun que se usen cosas como scratch o arduino.
+En mi caso me ha pasado que nos enseñaron cosas como html (al cual definían como un lenguaje de programación) o robótica.
+También es común que se usen cosas como scratch o arduino.
 Otras veces se les enseña incluso a usar programas de animación como alice.
-Yo creo que lo primero que se tiene que enseñar a hacer es a usar control de versiones, especialmente git.
-Despues de eso se tiene que elegir un lenguaje de programación.
-A mi en la carrera lo primero que me mostraron fue como usar pseudocodigo, en parte porque la mayoria de los lenguajes de programación tienen sintaxis en inglés.
+Yo creo que lo primero que se tiene que enseñar es a usar control de versiones, especialmente git.
+Después de eso se tiene que elegir un lenguaje de programación.
+A mi en la carrera lo primero que me mostraron fue como usar pseudocódigo, en parte porque la mayoría de los lenguajes de programación tienen sintaxis en inglés.
 Hay que evaluar el nivel de inglés de los alumnos porque no todos pueden entender inmediatamente lo que van a escribir.
-Usar html puro tiene sus ventajas porque se pueden generar paginas que cargan mas rapido y pesan menos que si se usan cosas como React, pero al momento de hacer cosas que no sean estaticas como centrar el texto o usar codigo de javascript puede ser muy dificil hacer paginas complejas.
+Usar html puro tiene sus ventajas porque se pueden generar páginas que cargan más rápido y pesan menos que si se usan cosas como React, pero al momento de hacer cosas que no sean estáticas como centrar el texto o usar código de javascript puede ser muy dificil hacer páginas complejas.
 Hacer programas de consola en los cuales se impriman resultados puede ser bastante abstracto para los alumnos.
 Programar aplicaciones web con frameworks como React como primera experiencia con la programación puede ser muy dificil.
-Usar motores graficos de juego puede ser abrumador al principio porque son complejos.
+Usar motores gráficos de juego puede ser abrumador al principio porque son complejos.
 Creo que usar librerias o consolas de fantasia como TIC-80 puede ser una buena idea.
 También creo que es importante poder elegir un sistema operativo adecuado para programar.
-En mi experiencia personal es ideal poder usar linux, pero las computadoras que hay en las escuelas hoy en dia todas tienen unicamente windows en la Ciudad Autonoma de Buenos Aires.
-Una alternativa seria que se pudieran instalar maquinas virtuales con linux en esas computadoras pero en muchos casos no se permite instalar nada en esas laptops.
-Otra solución seria usar linux en un usb, pero esto tiene sus limitaciones, requeriria conseguir los usb y el bootloader de la maquina deberia estar desbloqueado.
-En los unicos casos en donde windows puede ser una mejor opción para programar es si se usa algún programa que no está disponible de forma nativa para linux.
+En mi experiencia personal es ideal poder usar linux, pero las computadoras que hay en las escuelas de la Ciudad Autonoma de Buenos Aires, hoy en dia todas tienen únicamente windows
+Una alternativa seria que se pudieran instalar máquinas virtuales con linux en esas computadoras pero en muchos casos no se permite instalar nada en esas laptops.
+Otra solución seria usar linux en un usb, pero esto tiene sus limitaciones, requeriria conseguir los usb y el bootloader de la máquina deberia estar desbloqueado.
+En los únicos casos en donde windows puede ser una mejor opción para programar es si se usa algún programa que no está disponible de forma nativa para linux.
 Las primeras laptops que habia tenian una partición de Debian o Huayra, pero ahora solo tienen el sistema operativo de Microsoft.
 Es importante que cuando se le enseña a programar algo a los alumnos no se les enseñe paso a paso como hacer un juego en especifico, sino que hay que enseñarle algoritmos para que puedan programar practicamente lo que quieran.
-Ademas quiero destacar que hacer juego en dos dimensiones es mucho mas facil que hacer juegos en tres dimensiones o con realidad aumentada.
+Además quiero destacar que hacer un juego en dos dimensiones es mucho más fácil que hacer juegos en tres dimensiones o con realidad aumentada.
 En mi tiempo como programador he probado mucho software diferente para hacer juegos o programas.
 Pygame, Phaser.js, Paper.js, Godot, Unity, Unreal Engine, TIC-80, entre otras.
-Hay algunas de mas bajo nivel escritas en lua, C, C++, C# o Rust que no pude hacer andar o son muy dificiles.
+Hay algunas de más bajo nivel escritas en lua, C, C++, C# o Rust que no pude hacer andar o son muy dificiles.
 Todas tienen sus ventajas y desventajas.
-Algunas son de codigo abierto y otras son propietarias.
+Algunas son de código abierto y otras son propietarias.
 En el caso de TIC-80 es de codigo abierto, pero cuenta con binarios de pago para apoyar a los desarrolladores, los cuales pueden ser compilados por uno mismo para ahorrarse pagar 10 dolares.
 Una de las ventajas que tiene es que es todo en uno. Tiene editor de codigo, de sprites o imagenes, de celdas, de efectos de sonido y de musica.
 Otra cosa que sirve para aprender a programar es aprender a leer el codigo de los demás.
@@ -56,7 +55,7 @@ Yo incluso subo mis archivos del profesorado a github para tenerlas en varias co
 Una de las cosas que dijo la profe de Tecnologias de la Información cuando hablé con ella es que les enseñaba HTML porque no requeria que instalen nada y porque hay que ver la absorción que tienen los chicos de lo que se enseña.
 El objetivo del trabajo del docente es que los alumnos aprendan, no solo enseñar.
 No es cuestión de enseñarle a la pared como hacer algo, los alumnos lo tienen que entender.
-Programar no es solo cuestión de escribir codigo, sino todos los juegos serian poligonos de colores.
+Programar no es solo cuestión de escribir código, sino todos los juegos serian poligonos de colores.
 También hay que diseñar los sprites, los cuales son imagenes que se usan en el juego para representar personajes, fondos, objetos, etc.
 Algo que es opcional es el sonido.
 Los primeros juegos que hice eran totalmente mudos porque era dificil para mí ponerle música.
@@ -81,27 +80,27 @@ En mi opinion no se si es la mejor opcion, yo preferiria darles una introduccion
 Yo puedo dar una exposición sobre un tema muy avanzado de programación y los alumnos pueden no entender lo que estoy diciendo.
 Para que aprendan primero tengo que ponerme en el lugar de ellos y pensar en como era yo cuando no sabia estos temas o mientras estaba aprendiendolos.
 "El acto de estudiar siempre implica leer" (Freire, p. 47, 1993).
-Para aprender a escribir codigo primero tenemos que leer el codigo de otros, ya sea en documentacion, foros, clases, repositorios online, etc.
+Para aprender a escribir código, primero tenemos que leer el codigo de otros, ya sea en documentacion, foros, clases, repositorios online, etc.
 Es importante escribir codigo que sea legible.
 Hay gente, como mi profesor de taller de programacion, que prefiere hacer comentarios en el codigo, pero recientemente vi en un video que no conviene usar comentarios.
 Existen varias razones.
-La primera es que los comentarios son ignorados por el compilador o el interprete, por lo que cuando se modifica el codigo los comentarios pueden quedar desactualizados.
+La primera es que los comentarios son ignorados por el compilador o el intérprete, por lo que cuando se modifica el codigo los comentarios pueden quedar desactualizados.
 La segunda es que si se usan buenas practicas, como no abreviar los nombres de variables, clases y funciones, no es necesario poner comentarios.
 Una mala practica es comentar codigo que no queremos que se ejecute.
-Lo recomendable es directamente hacer un commit y borrar ese codigo, porque cuando alguien vea ese codigo en el futuro no va a querer borrarlo por pensar que es importante.
+Lo recomendable es directamente hacer un commit y borrar ese código, porque cuando alguien vea ese codigo en el futuro no va a querer borrarlo por pensar que es importante.
 No podemos esperar que el escritor haga su tarea y la del lector (Freire, p. 53, 1993).
 Escribiendo esta monografia constantemente estuve pensando en que por ahi escribia demasiados ejemplos o explicaba de mas que significaba cada termino.
 Para poder leer este texto va a ser necesario tener conocimiento previo de informatica o buscar en internet a que me refiero.
 Es recomendable escribir por lo menos 3 veces por semana (Freire, p. 57, 1993).
 Hay que tener en cuenta que esta carta fue escrita en el siglo XX.
-Hoy en dia, por la invencion de la mensajeria instantanea y las redes sociales, escribimos mucho mas que en el pasado.
+Hoy en dia, por la invencion de la mensajeria instántanea y las redes sociales, escribimos mucho mas que en el pasado.
 Lo que si es cierto y se menciona un poco antes en esa carta es que a muchas personas les cuesta escribir y redactar correctamente en tesis o trabajos practicos.
-Esto podria aplicarse tambien a escribir codigo.
-Aunque no tengamos un trabajo o estemos estudiando formalmente programacion es importante que sigamos practicando de manera autodidacta programar.
+Esto podria aplicarse también a escribir código.
+Aunque no tengamos un trabajo o estemos estudiando formalmente programación, es importante que sigamos practicando programar, de manera autodidacta.
 Lo bueno es que si nos gusta programar podemos desarrollar el proyecto que nosotros queramos.
 
+-correccion que me hizo la compañera:
+-muchos ejemplos
+-ideas desordenadas
+-terminos que no todos los docentes entienden
 
-correccion que me hizo la compañera:
-muchos ejemplos
-ideas desordenadas
-terminos que no todos los docentes entienden
