@@ -7,8 +7,6 @@ Introducción
 En este texto voy a explorar desde mi experiencia personal en programación cuales son las ventajas y desventajas de enseñar a programar de cierta manera en varios lenguajes de programación y tecnologias.
 También voy a hablar de diversos temas, como las buenas prácticas de programación.
 Al escribir la monografía menciono términos técnicos que van a requerir buscar en internet qué significan porque lo escribo desde mi experiencia previa.
-Como programador, cuando hice observaciones en el Instituto Juan B. Justo me llamó la atención como se les enseñaba a los alumnos a programar. Justo dió la casualidad que me tocó observar las clases de la que habia sido mi profesora de Tecnologia.
-Al contrario de lo que dijo en clase la profesora, HTML no es un lenguaje de programación, es un lenguaje de marcado.
 Escribo esta monografia como trabajo final del seminario de Trabajo y Rol Docente de la Certificación Pedagógica.
 En esta carrera hay quienes van a enseñar en nivel medio, otros en nivel primario y otros en ambos.
 En mi caso voy a enseñar en nivel medio por lo que pensé escribirlo para la secundaria.
@@ -52,7 +50,6 @@ Otra cosa que sirve para aprender a programar es aprender a leer el codigo de lo
 Una pagina muy util para eso es GitHub, pero también existen otras como GitLab.
 Esta pagina tambien les permite varias cosas como trabajar en proyectos colaborativamente, hacer control de versiones con git, subir una pagina web estatica, lanzar versiones en archivos binarios para varias plataformas.
 Yo incluso subo mis archivos del profesorado a github para tenerlas en varias computadoras y no perder mis apuntes.
-Una de las cosas que dijo la profe de Tecnologias de la Información cuando hablé con ella es que les enseñaba HTML porque no requeria que instalen nada y porque hay que ver la absorción que tienen los chicos de lo que se enseña.
 El objetivo del trabajo del docente es que los alumnos aprendan, no solo enseñar.
 No es cuestión de enseñarle a la pared como hacer algo, los alumnos lo tienen que entender.
 Programar no es solo cuestión de escribir código, sino todos los juegos serian poligonos de colores.
@@ -98,6 +95,22 @@ Lo que si es cierto y se menciona un poco antes en esa carta es que a muchas per
 Esto podria aplicarse también a escribir código.
 Aunque no tengamos un trabajo o estemos estudiando formalmente programación, es importante que sigamos practicando programar, de manera autodidacta.
 Lo bueno es que si nos gusta programar podemos desarrollar el proyecto que nosotros queramos.
+En mi primer dia de clases de la carrera de Analista de Sistemas me acuerdo que el profesor preguntó si teniamos experiencia previa con la programación y yo le comenté que habia aprendido algo de HTML.
+Él me dijo que tecnicamente no era un lenguaje de programación.
+Considero que la formación profesional que tiene una persona influye en como escribe cada uno.
+En mi caso como soy programador prefiero escribir una oración por renglon y en lugar de usar el teclado con Ñ y tildes uso el de ingles estandar porque es el que se suele usar para programar.
+Tambien tuve dificultad ordenando las ideas ya que iba escribiendo lo que se me ocurria.
+Otra cosa que estuve pensando es si realmente se le deberia enseñar programacion a los chicos en el secundario, en parte porque puede ser que no les interese del todo el tema.
+Yo creo que depende, dado que si es una escuela orientada a ciencias sociales como el Juan B. Justo al cual yo fui no va a ser la misma cantidad de horas disponibles que en una escuela tecnica orientada a computacion.
+De todas formas deberian darles aunque sea una introducción al tema.
+Una de las incertidumbres que tuve escribiendo esta monografia es que no estoy seguro si estoy capacitado para enseñar Tecnologia en nivel medio porque mi formación es en su mayoria sobre programación.
+Yo no sé mucho sobre como enseñar Office tampoco, ni hablar sobre las cosas que se enseñan normalmente en el primer ciclo del secundario en esta materia.
+Por eso creo que quizas lo mejor para mi seria enseñar en un colegio tecnico o buscar especificamente hacer concurso para enseñar informatica o tecnologias de la información.
+Tambien tuve la inquietud de que por ahi lo que yo quiera y sepa enseñar no esté dentro del plan de estudios.
+A partir de ahora voy a tratar de volver a leer los textos que lei en este seminario y los apuntes que tomé para tratar de relacionarlos con lo que escribi hasta ahora.
+
+Bibliografia:
+Freire, Paulo; Cartas a quien pretende enseñar - 2" ed. 5" reimp.- Buenos Aires: Siglo Veintiuno Editores, 2010. Título original: Professora sim; tia nao: cartas a quem ousa ensinar, 1993.
 
 -correccion que me hizo la compañera:
 -muchos ejemplos
