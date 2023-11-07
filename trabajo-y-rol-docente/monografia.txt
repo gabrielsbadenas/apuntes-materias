@@ -107,6 +107,9 @@ Una de las incertidumbres que tuve escribiendo esta monografia es que no estoy s
 Yo no sé mucho sobre como enseñar Office tampoco, ni hablar sobre las cosas que se enseñan normalmente en el primer ciclo del secundario en esta materia.
 Por eso creo que quizas lo mejor para mi seria enseñar en un colegio tecnico o buscar especificamente hacer concurso para enseñar informatica o tecnologias de la información.
 Tambien tuve la inquietud de que por ahi lo que yo quiera y sepa enseñar no esté dentro del plan de estudios.
+No todos los programadores tienen un mismo primer lenguaje de programación, pero en mi caso fue Java y mis profesores lo recomendaban porque al tener tipos de datos es mas facil aprender primero a usarlos que tener como primer lenguaje a uno como python o javascript los cuales no tienen tipos.
+La idea tambien era que al ser un lenguaje un poco mas dificil y estricto entonces podriamos aprender mas rapidamente y los otros lenguajes despues nos parecerian mas faciles.
+
 A partir de ahora voy a tratar de volver a leer los textos que lei en este seminario y los apuntes que tomé para tratar de relacionarlos con lo que escribi hasta ahora.
 
 Bibliografia:
