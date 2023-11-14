@@ -1,0 +1,22 @@
+a para entrar a modo insertar y usarlo como un editor de texto como notepad
+i para hacer lo mismo
+Esc que queda en la esquina superior izquierda
+dos puntos y q
+:q
+para hacer dos puntos lo que hacemos es shift y . punto
+: dos puntos y w seguido del nombre de archivo
+si ya tiene nombre de archivo le pongo solo :w
+:x guardar y salir
+hjkl
+h va a la izquierda
+j va hacia abajo
+k va hacia arriba
+l va hacia la derecha
+l va hacia la derecha
+dos veces y para copiar
+yy
+p sirve para pegar
+yy selecciona todo el renglon
+dos veces d para cortar
+dd todo el renglon
+v corta entra en modo visual que lo que hace es seleccionar texto

@@ -1,0 +1,14 @@
+Microclase para el 16/11
+Sánchez, Gabriel
+Materia: Tecnologias de la Información
+Nivel: Cuarto año del nivel medio, CABA.
+Tema: manejo del editor de texto VIM.
+Contenido: Que los alumnos conozcan los comandos basicos de este editor para poder usarlo para programar o escribir texto. Que sepan como guardar un archivo, salir del programa, cambiar de modo.
+Actividad: responder las preguntas del mentimeter sobre los comandos de VIM.
+Link: https://www.menti.com/alqrj26wc6vs
+Codigo de acceso: 8818821
+Recursos: computadora, celular, tele, cable HDMI, codigo QR, mentimeter, VIM.
+Objetivo: Conocer un editor de texto que permite escribir con menor esfuerzo y sin usar el mouse. Aprender a usar uno de los programas más utiles de Linux.
+Anexo:
+Link para descargar VIM en el celular: https://play.google.com/store/apps/details?id=com.droidvim
+Link para descargar VIM en la computadora: https://ftp.nluug.nl/pub/vim/pc/gvim90.zip
