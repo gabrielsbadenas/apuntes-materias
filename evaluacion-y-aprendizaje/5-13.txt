@@ -4,3 +4,26 @@ que herramientas les damos a los estudiantes en ese proceso
 autorregulacion perrenoud
 pensar el aula como espacio heterogeneo
 de que maneras puedo ponerlos alli a nuestros estudiantes
+
+57 anijovic 5 nuevas formas de evaluar
+
+introduccion a la programación
+operaciones aritmeticas en lenguajes de programación
+logica
+bucles
+entrada y salida
+control de versiones
+
+criterio
+escribe un programa con suma, resta, division y multiplicación sin errores y con control de versiones para que entiendan como usar valores numericos en un lenguaje de programación y aprendan a hacer pruebas de software
+
+habilidad
+contenido
+condicion
+finalidad
+
+evaluar tecnologias de la información usando la computadora es mucho mas practico en un taller de computación que si se tomarian evaluaciones escritas de algoritmos que los estudiantes no pueden probar antes de entregar. el compilador o interprete de cada lenguaje de programacion nos permite ver cual es el resultado de nuestro problema. ademas usar un software de control de versiones como git y una plataforma de desarrollo colaborativo tiene varias ventajas como el hecho de que en caso de que ocurra algun error se puede volver atras, el profesor puede ver lo que hace el estudiante a traves del tiempo y el conocimiento de como utilizar estas herramientas les puede servir para organizar sus repositorios de texto y codigo fuente. Los recursos que hoy en dia tienen los chicos en las escuelas secundarias son limitados en algunos sentidos porque no todos tienen computadoras propias para traer a clase por lo que tienen que usar las de la escuela, las cuales no tienen un almacenamiento permanente. para trabajar muchas veces tienen que traer un medio de almacenamiento propio como podria ser un pendrive o una tarjeta de memoria sd. Si en cambio usan solo el navegador web e inician sesion en una pagina que propongo llamada GitHub Codespaces entonces pueden trabajar en cualquier computadora sin tener que descargar nada y guardarlo en internet.
+en cuanto al instrumento de evaluación lo que quiero hacer es que despues de que en una clase yo les muestre como resolver un problema de ejemplo lo que hago es mostrarles como se resuelve. Luego les doy un problema diferente pero con los mismos contenidos y los dejo que los resuelvan cada uno en su computadora. Si ellos quieren hacer ese trabajo en grupo pueden hacerlo y compartir como les parece que se resuelve una cosa en especial si se quedan trabados en una parte o tienen alguna duda. Si en ese grupo no lo entienden pueden preguntar a otro grupo y sino a mi. Cuando termine la clase lo que hicieron va a quedar guardado en github y todos los trabajos son publicos por lo que los demas pueden ver lo que hicieron sus compañeros.
+
+hablar de los 3 textos
+trabajar con las fundamentaciones y ver los criterios del trabajo final
