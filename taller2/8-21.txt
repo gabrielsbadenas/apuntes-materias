@@ -1,0 +1,75 @@
+planificacion
+armar una planificacion de una clase de 80 minutos de un tema que tenga que ver con mi disciplina
+componentes necesarios
+
+objetivos de aprendizaje:
+Que los alumnos:
+-sepan sobre el paradigma de programación orientada a objetos.
+-puedan identificar qué es una clase en el contexto del desarrollo de software.
+-sean capaces de crear una clase.
+-sepan la diferencia entre lo que es una clase en programación y lo que significa en otros casos como una clase escolar.
+-sean capaces de agregarle parametros y metodos a esa clase.}
+-sepan que significa el anagrama UML (lenguaje unificado de modelado) y que puedan hacer un cuadro en este lenguaje con una clase orientada a objetos.
+-sepan que son los tipos de datos y los objetos en la programación.
+
+contenidos de la clase:
+Paradigma de programación orientada a objetos.
+Clases (computación)
+UML
+en ese orden
+
+propuesta de enseñanza (que actividades, estrategias y recursos se van a utilizar):
+El recurso que se va a utilizar es el pizarron, en el cual se va a dibujar un cuadro con una clase "Persona", la cual va a tener como parametro diferentes datos como el nombre, la fecha de nacimiento, etc. Se va a especificar en el cuadro que tipo de dato ese cada uno.
+Se va a escribir en el pizarron como ejemplo algunos datos de estudiantes elegidos al azar o del profesor para ejemplificar como se instanciaria una clase.
+Despues como actividad se le pedirá a los estudiantes que inventen una clase nueva, se la pasen al compañero de al lado y que este cree mas de una instancia de la clase que creó su compañero.
+Instanciar es crear un ejemplo de los datos que se le asignaran a los parametros de una clase.
+
+
+opcional instrumento de evaluacion en otra clase sobre ese tema
+
+planificar es pensar un recorrido, una trayectoria de formación para un grupo de alumnos determinado
+no es una secuencia de cosas, sino un diseño de propuesta de enseñanza pensada para que personas aprendan conocimientos
+no en su mirada tecnicista lineas con objetivos pero cumplir requisitos tecnicos
+como hago para que los alumnos aprendan lo que deben aprender
+es algo que hay que armar pensando en un determinado grupo en un determinado contexto
+algo que con un grupo no funciona con otro por ahi sí
+aunque des el mismo tema en diferentes grupos el resultado es diferente
+hay que tomar previsiones necesarias para que salga bien
+si no te escuchan por 30 minutos hay que frenar y hacer otra cosa o recuperar la atencion
+se puede hacer un chiste, un comentario, cortar, cualquier cosa disruptiva
+hay que encontrar la propuesta que esté en un punto intermedio que le permita acceder a todos
+hay que probar distintas cosas para alcanzar a la mayoria
+si siempre queda afuera la misma gente hay que cambiar y centrarse en los que peor les va
+el objetivos es que todos aprendan
+lo primero es el diagnostico inicial
+instancia para recoger informacion para imaginar el escenario
+se va a hacer una clase de observacion
+ver el grupo
+como participan
+espacio del aula
+que recursos hay disponibles
+iluminacion del aula
+si el aula está sobrepoblada no se puede mover o agrupar
+implica un pronostico el diagnostico
+como puedo enseñar, que actividades puedo usar, si se usa aula virtual, si hay biblioteca
+despues hay que consultar los contenidos en el diseño curricular
+objetivos
+un sujeto realiza una accion sobre un contenido
+que un alumno identifique los componentes de la planificación
+el sujeto es siempre el alumno
+proposito de la enseñanza tiene como sujeto al profesor
+propositos es el elemento mas nuevo y algunos lugares te lo piden tambien
+se distinguen porque no es algo que se evalua
+si se quiere evaluar la participacion tiene que haber un objetivo que diga por ejemplo que conozcan tipos de participacion
+contenido es lo que se enseña en clase
+los marcan los objetivos
+tiene que aparecer lo que dice el diseño curricular
+los diseños curriculares son ejes tematicos, no contenidos. hay que hacer una seleccion, organizacion y secuenciacion. no se dice en que clase hay que dar cada cosa. en la selección se regula el tamaño de un tema. tambien se elije en que orden se dá un tema.
+propuesta de enseñanza: explicar en que consiste la clase, que estrategias, actividades, etc van a usar. los tiempos. hay que ser bien explicitos en taller 2. cuentenlo como escena de pelicula. hay que poner cuanto tiempo dura cada cosa. habitualmente no se hace pero en taller 2 nos deja hacer una mejor devolución. esto es para que corrijan si el tiempo no está bien.
+no necesariamente las clases necesitan una evaluacion formal pero al final de la clase se puede pensar 5 o 10 minutos para sondear que entendieron o si quedó una duda. una evaluación de proceso seria.
+tipos de evaluacion: diagnostica, proceso, resultados
+
+dale schunk
+cap. 6 constructivismo
+vigotsky y piaget
+paginas 230 a 245
