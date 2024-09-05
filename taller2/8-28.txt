@@ -61,3 +61,5 @@ el conductismo tiene mala fama
 las competencias se enseñan a partir de la lectura, de la interaccion con otros, de lo que puede hacer, lo que puede relacionar
 si no se puede desarrollar la atencion no se puede enseñar
 si no pueden escribir algo nuevo
+
+clase que viene trabajar con diseños curriculares de cada año|
