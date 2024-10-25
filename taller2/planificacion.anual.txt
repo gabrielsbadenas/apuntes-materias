@@ -1,0 +1,201 @@
+marzo abril
+mayo junio julio
+agosto septiembre
+octubre noviembre diciembre
+
+ Materias de 3° Año:
+
+    Tecnologías de la Información 1,
+
+    Tratamiento de Imágenes por medios informáticos.
+
+
+Materias de 4° Año
+
+    Base de Datos,
+    Estructura y funcionamiento de los sistemas informáticos 1,    Taller de programación,
+    Tecnologías de la Información 2.
+Materias de 5° Año
+
+    Desarrollo de aplicaciones informáticas,    Estructura y funcionamiento de los sistemas informáticos 2,
+    Proyecto de producción,
+    Seminario de Informática y Telecomunicaciones,
+    Seminario de las tic en la producción de bienes y servicios,
+    Tecnologías de la Información 3.
+
+
+
+Bloque: Lógicas de programación
+
+Presentación
+
+Dado que la programación de computadoras es una
+de las actividades que más caracterizan a la informáti-
+ca como campo de conocimiento, el desarrollo de ca-
+pacidades para la resolución de problemas mediante la
+creación y representación de algoritmos y su correspon-
+diente transformación en los códigos propios de un len-
+guaje de programación constituye uno de los propósitos
+centrales de la orientación.
+Para los alumnos, la apropiación de las lógicas de
+programación, constituye un proceso que requiere de un
+tiempo de maduración a través de prácticas y ejercita-
+ciones sistemáticas. Mediante los contenidos propues-
+tos en este bloque los alumnos ponen en juego habili-
+dades necesarias para afianzar los métodos, enriquecer
+las estrategias, reconocer las regularidades y construir
+las generalizaciones necesarias para poder abordar, de
+manera eficiente, problemas de programación cada vez
+más diversos y de mayor complejidad.
+El bloque comprende tres ejes. Los mismos pueden
+abordarse de manera articulada e introductoria dentro
+de un mismo espacio curricular, y luego retomarse y pro-
+fundizarse a través de espacios subsiguientes.
+
+El eje “Algoritmos y estructura de datos” constituye la
+base conceptual sobre la cual los alumnos constru-
+yen los conocimientos y habilidades necesarias para
+la resolución de problemas de base computacional.
+Se centra en la lógica de la estructura de los datos y
+en el tratamiento de las estrategias necesarias para
+la creación de algoritmos eficientes. Los contenidos
+propuestos en este eje permiten comprender y aplicar
+metodologías de resolución de problemas basadas en
+técnicas de programación que implican procedimien-
+tos de modularización, de uso de estructuras de datos
+adecuadas, de aplicación de reglas de programación
+y de puesta en práctica de estrategias de prueba y
+depuración de las soluciones.
+
+El eje “Programación orientada a objetos” constituye
+el paradigma que, actualmente, orienta la selección de
+técnicas y metodologías utilizadas para el desarrollo
+de software. Este eje se complementa con el anterior,
+incluyendo conceptos y habilidades que permiten a
+los alumnos abordar problemas, modelarlos e imple-
+mentarlos mediante lenguajes de programación orien-
+tados a objetos, aplicando normas de calidad en el
+desarrollo de software. Los conocimientos asociados
+con este eje se construyen mediante la reflexión y sis-
+tematización sobre la base de la experiencia práctica
+en el desarrollo de programas y aplicaciones informá-
+ticas; por tal razón se propone una articulación con el
+tercer eje, “Desarrollo de aplicaciones”.
+
+Propósitos de enseñanza
+
+Favorecer en los alumnos la comprensión de las es-
+tructuras de datos, brindando oportunidades para
+que valoraren el rol que cumplen en los procesos de
+diseño de los algoritmos necesarios para la resolu-
+ción de problemas computacionales.
+ Involucrar a los alumnos en situaciones de aprendi-
+zaje que impliquen resolver problemas del campo in-
+formático, seleccionando y combinando estructuras
+y representando los algoritmos, sobre la base de los
+fundamentos de la programación orientada a objetos.
+ Promover la creación y el desarrollo de programas
+y aplicaciones, con base en el análisis previo de los
+requerimientos específicos de uso, favoreciendo la
+posterior evaluación y documentación de las solu-
+ciones obtenidas.
+ Presentar información, situaciones y ejemplos que
+permitan a los alumnos identificar las características
+de los diferentes lenguajes de programación, reco-
+nociendo sus aplicaciones y desarrollando criterios
+para su selección.
+ Ofrecer oportunidades para la experimentación con
+software libre y software de código abierto, crean-
+do las condiciones para el reconocimiento de sus
+posibilidades de uso, modificación, distribución y
+publicación.
+ Generar situaciones de aprendizaje que impliquen
+el desarrollo de aplicaciones para diferentes plata-
+formas, aplicando técnicas de programación para
+arquitecturas cliente y servidor, y vinculando los pro-
+gramas con bases de datos y aplicaciones externas.
+ Ofrecer información sobre “el estado del arte” en el
+desarrollo de videojuegos y proponer experimentar
+con las estrategias y técnicas asociadas con su pro-
+gramación.
+ Brindar los fundamentos básicos de la robótica, pro-
+piciando actividades que impliquen el desarrollo de
+programas para controlar dispositivos externos a la
+computadora.
+
+Objetivos de aprendizaje
+
+ Comprender las lógicas de las estructuras de los
+datos y valorar su rol en la creación de algoritmos
+eficientes.
+ Resolver problemas del campo informático, median-
+te el diseño de algoritmos y la aplicación de técnicas
+de representación apropiadas.
+ Aplicar estrategias de programación, seleccionando
+y combinando estructuras y utilizando los fundamen-
+tos básicos de la programación orientada a objetos.
+ Desarrollar programas y aplicaciones que respondan
+a requerimientos específicos de uso y aplicación,
+evaluando su eficiencia y su eficacia, y elaborando la
+documentación técnica asociada.
+ Identificar las características de los diferentes len-
+guajes de programación, reconociendo los usos y
+aplicaciones de cada uno de ellos y desarrollando
+criterios para su selección.
+ Comprender los conceptos de software libre y soft-
+ware de código abierto, experimentando las posibili-
+dades para la utilización, modificación, distribución y
+publicación de este tipo de programas.
+ Desarrollar aplicaciones para diferentes plataformas,
+aplicando técnicas de programación para arquitec-
+turas cliente y servidor, y vinculando los programas
+con bases de datos y aplicaciones externas.
+
+Conocer las estrategias y técnicas asociadas con
+el diseño y el desarrollo de videojuegos basados en
+lenguajes de programación de marcado hipertextual.
+ Comprender los fundamentos básicos de la robóti-
+ca, desarrollando programas que permitan interac-
+tuar con el entorno físico, mediante sensores y ele-
+mentos de salida de información.
+
+Ejes y contenidos
+
+Algoritmos y estructuras
+de datos
+
+y Técnicas de resolución de problemas computacionales: etapas, análisis descendente.
+y Algoritmos: técnicas de representación lógica y gráfica, técnicas de diseño de algoritmos eficientes.
+y Estructuras de control: secuencial, selección, repetición.
+y Tipo de datos simple: concepto, operaciones, expresiones lógicas y aritméticas.
+y Constantes y variables, asignación interna y externa.
+y Procedimientos y funciones: concepto, variables locales y globales, pasaje de parámetros.
+y Tipo de datos estructurados: concepto, arreglos unidimensionales y multidimensionales, algoritmos de búsqueda y ordenamiento.
+y Tipo de dato registro: concepto, declaración y tratamiento de secuencias, operaciones.
+y Archivos de datos: concepto, archivos binarios, operaciones, tratamiento secuencial.
+y Lenguajes de programación: estructuras sintácticas y reglas, detección de errores sintácticos y lógicos, compilación y depuración.
+
+Programación orientada
+a objetos
+
+y El modelo computacional de objetos: características, análisis comparativo con otros modelos. Conceptos básicos: clase y objeto,
+atributos y métodos, estado y comportamiento, mensaje entre objetos, encapsulamiento de la información, tiempo de vida de los
+objetos. Abstracción y modularización. Herencia.
+y Lenguaje de modelado unificado (UML). Características y aplicaciones.
+y Diagramas de clases. Relaciones entre clases: herencia, asociación, composición y agregación.
+y Estándares de interfaces de usuarios. Principios generales.
+y Testeo. Concepto y objetivo. Documentación del testeo.
+
+Desarrollo de
+aplicaciones
+
+y Concepto de aplicación informática. Ejemplos. Programación para diferentes tipos de plataformas y arquitecturas (web, dispositivos
+móviles, embebidos, etcétera). Estructura de capas. Función de cada capa.
+y Concepto de entorno de desarrollo integrado (EDI). Ejemplos y aplicaciones.
+y Características de los lenguajes para la arquitectura cliente y la arquitectura servidor.
+y Análisis y desarrollo de aplicaciones para diferentes arquitecturas. Aplicaciones multiplataformas.
+y Software libre y software de código abierto: características, posibilidades de uso, modificación, publicación y distribución.
+y Desarrollo de videojuegos: etapas, lenguajes, interfases de usuario, desarrollo sobre la base de tecnologías de web abierta,
+programación de videojuegos mediante lenguajes de marcado hipertextual.
+y Robótica. Programación de robots: textual, gestual, por imitación, programación por trayectorias y por posiciones. Programación de los
+puertos de entrada y salida: lectura de sensores y activación de actuadores. El rol de los simuladores.
