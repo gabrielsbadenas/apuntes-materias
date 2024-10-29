@@ -1,749 +1,110 @@
 ﻿texto_pdf="""
-La escuela secundaria argentina
-Cambios y continuidades en su desarrollo
-durante el siglo XX
-En este capítulo abordaremos la escuela secundaria argen-
-tina en clave histórica. Esto permitirá una mirada global
-desde mediados del siglo XIX hasta 2010. Interesa detener-
-se en aquellos momentos en que la necesidad de producir
-cambios o reformas en el nivel medio se materializó en
-propuestas concretas.
-El período comprendido entre 1984 y 2010 resulta de
-especial interés ya que está atravesado por una cantidad
-importante de iniciativas de reformas1 (que afectaron a la
-escuela secundaria en particular), que parecen signadas por
-una tensión entre dos fuerzas: una democratizante y otra
-modernizadora.
-Siglo XIX: el modelo del bachillerato francés
-La escuela secundaria3 o media argentina (utilizaremos
-ambas denominaciones como equivalentes a lo largo del
-presente trabajo) ha estado en el foco de las propuestas
-reformistas4 casi desde los albores de la conformación del
-sistema educativo nacional. La escuela secundaria argentina
-nació, durante el siglo XIX, al amparo del modelo del bachi-
-llerato francés, admirado tanto por las clases pudientes de
-Buenos Aires como por las aristocracias terratenientes de
-las provincias. Un bachillerato humanista y enciclopedista
-que formaba hombres cultos para integrar la elite dirigente
-del país. Ya hacia fines del mismo siglo, el entonces ministro
-del área Osvaldo Magnasco5 (en ese cargo desde 1898 hasta
-1901) proponía una primera reforma de las escuelas medias
-para adecuarlas a los nuevos tiempos que se avecinaban.
-Magnasco criticaba ese modelo y miraba con buenos ojos
-a los países anglosajones (Alemania o EE. UU.) que daban
-lugar a las ciencias naturales y a la moderna tecnología en
-las aulas de sus escuelas secundarias. Su idea era cerrar
-algunos de los bachilleratos existentes y en su reemplazo
-crear escuelas para la enseñanza de oficios técnicos que,
-desde su perspectiva, serían útiles para el desarrollo de
-la economía nacional. El proyecto del ministro chocó con
-la negativa de un parlamento nacional cuyos legisladores eran mayormente egresados del criticado bachillerato. La
-iniciativa de Magnasco no pudo concretarse (Tiramonti y
-Susanbar, 2015).
-Para principios del siglo XX, Carlos Saavedra Lamas,6
-nuevo ministro de instrucción pública (1915-1916), presen-
-ta una nueva propuesta de reforma. Su idea era crear una
-escuela intermedia ubicada entre la escuela primaria y la
-secundaria. Esta propuesta se basaba, entre otras cuestio-
-nes, en novedosos postulados de la moderna psicología.7
-Para algunos autores (Dussel, 2006) no faltan motivos para
-pensar que esta reforma estuvo inspirada en las ideas de
-Víctor Mercante.8 La escuela intermedia daría cabida a los
-púberes y adolescentes, lo que generaría un nivel apropiado para los requerimientos de estas edades caracterizadas por
-la necesidad de poner el cuerpo en acción y por ser un
-momento clave en el desarrollo del joven.
-A pesar de los argumentos hasta aquí expuestos, no
-es desatinado pensar que tanto Magnasco como Saavedra
-Lamas habían percibido que las nuevas clases medias argen-
-tinas (en especial las de Buenos Aires y las grandes capita-
-les provinciales) pujaban por que sus hijos ingresaran a las
-escuelas secundarias. A estas escuelas9 habían concurrido
-tradicionalmente los varones de las clases acomodadas, con
-aspiraciones de convertirse en figuras de la política y de
-la economía nacional. Es decir, estaban pensadas para un
-selecto sector social.
-El crecimiento de la clase media (en número, en aspi-
-raciones de ascenso social y en poder económico) ponía
-en peligro esta condición de escuela para la elite. Una cla-
-se media que podía postergar el ingreso de sus hijos ado-
-lescentes al trabajo presionaba por el ingreso a la escuela
-media. El triunfo de Hipólito Yrigoyen en 1916 es una clara
-muestra del avance de estos sectores sociales sobre los espa-
-cios reservados tradicionalmente a la elite. Tanto la pro-
-puesta de Magnasco como la de Saavedra Lamas incluían
-caminos alternativos al bachillerato tradicional de los Cole-
-gios Nacionales, aunque ninguno allanaba el ingreso a la
-universidad como lo hacía este último. A diferencia de lo que sucedía en muchos países euro-
-peos,11 en la Argentina la idea de una escuela única y para
-todos era muy fuerte. Por tanto, debían buscarse otros
-caminos para escolarizar y desviar el avance de sectores
-sociales que no fueran la élite sobre la escuela media y sobre
-la universidad. Ampliar el acceso a la escuela secundaria
-a nuevos sectores sociales derivaría, tarde o temprano, en
-habilitar el acceso a la universidad.
-Si bien las discusiones por la escuela secundaria segui-
-rán dándose durante las tres décadas posteriores,12 a los
-efectos de este trabajo vamos a elegir la década del 60 como
-punto de partida de nuestros análisis. El motivo de esta
-elección es que en esta década se va a dar la que puede con-
-siderarse la primera de las reformas integrales del sistema
-educativo.13 Esta tendrá una serie de características (como
-la creación de una escuela intermedia para los adolescentes)
-que volverán a presentarse posteriormente en otras refor-
-mas que tendrán lugar en la Argentina.
-La década de 1960. La teoría del capital humano
-y la reforma del 68
-Los años 60 son un período caracterizado por grandes
-eventos políticos y sociales que marcaron el rumbo de la
-historia en Occidente. Quizás sea la denominada Guerra Fría la que sirva de contexto para comprender muchas de
-las decisiones políticas de la época. En el marco de esta con-
-tienda no declarada, cabe destacar dos hechos que pudieron
-tener incidencia en las cuestiones que nos ocupan: la puesta
-en órbita del satélite ruso Sputnik (1957) y la Revolución
-cubana (1959). La misión que colocó en órbita el primer
-satélite artificial de la historia puso en jaque el sistema
-educativo estadounidense. Los soviéticos estarían logrando
-éxitos en el campo de la ciencia y la tecnología superando
-a EE.UU. Esta situación los obligó a una fuerte revisión
-de la educación y en especial de la escuela media. La clase
-gobernante de los EE. UU. entendió que debía reemplazar
-la educación basada en principios filosóficos y humanis-
-ta (como la educación propuesta por los escolanovistas) e
-instalar una educación basada en la ciencia y la tecnología
-(Picco, 2014). Había llegado el momento de la teoría curri-
-cular (Kemmis, 1990) y de la psicología en tanto ciencia que
-podía aportar sus conocimientos en relación con el apren-
-dizaje en la escuela.
-Desde principios del siglo XX, había autores abocados
-a la formulación de una teoría curricular para la educación
-(como Ralph Tyler). Esta planteaba una organización cien-
-tífica del currículum escolar basada en técnicas y procedi-
-mientos precisos que permitieran asegurar el éxito de los
-objetivos propuestos (Joyce, 2002). La escuela secundaria
-estadounidense comenzó a ser reformada a la luz de la nue-
-va teoría curricular norteamericana. Esta visión pedagógica
-de la educación prometía logros concretos y medibles por
-parte del sistema educativo (Bloom, 1969). Por otro lado, la
-corriente conductista de la psicología estadounidense avan-
-zaba sobre la comprensión de los procesos de aprendizaje.
-Bhurrus Skinner, su máximo exponente, logrará formular
-una explicación sobre cómo aprenden las personas a par-
-tir de las leyes que rigen su conducta. Con estos aportes,
-entre otros, se avanzará en la elaboración de un método de
-enseñanza que será conocido como instrucción programa-
-da. Para mediados de los 60, los EE.UU. estaban lanzados de lleno a reformar la escuela media apoyados en la teo-
-ría curricular de Ralph Tyler14 y la instrucción programada
-de Skinner.
-En el campo de lo económico, comienzan a ganar
-terreno las ideas desarrollistas, y las acciones del Estado se
-orientan a promover el desarrollo económico. Se afianza la
-Teoría del capital humano, sostenida en la idea de que la
-educación debe ser vista como una inversión para lograr
-el mentado desarrollo. La teoría del capital humano (Bec-
-ker, 1983) introduce nuevos términos en el campo de la
-educación que obligan a repensar la enseñanza (Tedesco y
-Tenti Fanfani, 2001; Pineau, 2006; Birgin, 2007). El sistema
-educativo debe racionalizar el uso de los recursos y apun-
-tar a objetivos claros y mensurables. Para ello se requiere
-de una enseñanza basada en técnicas de base científica y
-con docentes entrenados en la aplicación de esas técnicas
-(Aronson, 2007).
-En 1959, triunfa la Revolución cubana, de clara orien-
-tación prosoviética, en la isla caribeña. A las puertas de
-los EE.UU., se instalaba un enclave de su enemigo político
-y militar. Seguramente, este fue uno de los acicates que
-impulsó a los EE.UU. a extender sus ideas desarrollistas por
-todo el continente americano. En el caso de la educación,
-se produjo una verdadera ola promotora de cambios curri-
-culares (Palamidessi, 2003) en toda Latinoamérica bajo los
-auspicios de EE.UU. y de organismos internacionales como
-la OEA y la UNESCO. Esta es una característica novedosa
-en temas de reforma educativa. La presencia de los organis-
-mos internacionales en las reformas educativas del conti-
-nente será una constante de aquí en más. La Argentina no será la excepción en esta ola de cambio
-curricular (Goodson, 1995). Durante los años 60 las ideas
-desarrollistas dominarán el escenario económico y tam-
-bién el educativo (Furlán, 2011). La teoría curricular nor-
-teamericana y la psicología conductista se imponen en sus
-fundamentos:
-A fines de la década del 60 se comienza a difundir la teoría del
-currículum, nuestros libros de referencia eran Tyler, Saylor y
-Alexander e Hilda Taba. Estos autores proponían un mode-
-lo de planeamiento que tenía en cuenta las ideas básicas a
-enseñar, el contexto, destacaban el papel del alumno en la dis-
-cusión de la propuesta elaborada por el docente y sostenían
-una concepción de aprendizaje basado en la experiencia. En
-la década del 70, se comenzó a difundir el modelo tecnoló-
-gico conductista de planeamiento didáctico. Este fue adopta-
-do por los organismos técnicos del Ministerio de Educación
-para orientar a los docentes en la implementación de la refor-
-ma educativa iniciada en 1971. Comenzó a circular biblio-
-grafía de origen estadounidense y mexicano como Chadwick,
-Briggs, Mager, Gagné, que planteaban un enfoque tecnicista
-del planeamiento educativo. (Furlán y Avolio de Cols, 2011)
-A pesar de las constantes interrupciones del orden ins-
-titucional por parte de sectores militares, las ideas desa-
-rrollistas (tanto en lo económico como en lo educativo)
-reaparecerán una y otra vez a lo largo de todos los gobier-
-nos de la década. En 1968, se sancionará una reforma educativa integral,
-considerada así porque abarcará todos los niveles del sis-
-tema (Tiramonti, 2015). Esa reforma será impulsada por la
-dictadura de Juan C. Onganía y acompañada por sectores
-conservadores del catolicismo (Scirica, 2007). Si bien no irá
-más allá del fin de su gobierno, es interesante rescatar algu-
-nas características de la iniciativa y de sus fundamentos.
-La Resolución 994 de octubre de 1968 sanciona la
-reforma de todo el sistema educativo argentino. Interesa,
-para los fines de esta investigación, subrayar los aspectos
-que se refieren a la escuela media. La norma establece la
-creación de la escuela intermedia. De alguna manera here-
-dera de las ideas de Víctor Mercante y la reforma Saavedra
-Lamas, se ubica entre la escuela primaria y la secundaria. Se
-conforma tomando los dos últimos años de la escuela pri-
-maria y los dos primeros de la escuela secundaria, abarcan-
-do la edad de la pubertad. La norma fundamenta la creación
-de este nuevo nivel, básicamente, en los conocimientos que
-provee la psicología en relación con las etapas madurativas
-y de evolución de la inteligencia en niños, púberes y ado-
-lescentes (en los términos planteados por J. Piaget). Entre
-los documentos referenciados en la norma de reforma se
-citan producciones de la UNESCO y de la CONADE16 y
-también de otras dependencias del gobierno. En el caso
-de UNESCO, se trata de documentos que vinculan clara-
-mente al sistema educativo con el desarrollo económico de
-los países subdesarrollados.17 En el caso de la CONADE y
-de los organismos nacionales, se citan distintos informes
-sobre la educación en el país, que plantean su desvincula-
-ción con el desarrollo del potencial humano, lo que impide
-satisfacer los requerimientos de bienestar de la población . También mencionan que posterga la pro-
-ducción y distribución de bienes y que impide el triunfo
-de los mejores.18
-La reforma aparece claramente comprometida con las
-ideas del desarrollo económico y ubica al sistema educativo
-en consonancia con la teoría del capital humano (Cazas,
-2017). La norma dice que se buscará racionalizar y hacer
-más eficiente el sistema educativo para ponerlo al servi-
-cio del desarrollo económico de la nación. Este atenderá
-a todos los sujetos de acuerdo con sus necesidades. Así,
-atenderá a los alumnos más dotados como a aquellos que
-presenten deficiencias o sean ineptos (en estos términos se
-expresa la norma). Para los primeros habrá que crear las
-condiciones óptimas para que sigan desarrollándose y para
-los segundos, habrá que tomar medidas que permitan com-
-pensar esas deficiencias que impiden su desarrollo.
-Esta reforma rompe claramente con el paradigma del
-bachillerato francés basado en una formación humanista
-y de cultura general, para presentarse como una iniciativa
-que busca modernizar y hacer eficiente el sistema educa-
-tivo atendiendo a los cambios en el mundo y a las nece-
-sidades del país.
-El 3 de marzo de 1970 se sanciona la Ley 18614,
-que será conocida como “Ley del Proyecto 13”. Esta norma
-había surgido de una iniciativa de un grupo de inspecto-
-res de las escuelas nacionales de nivel secundario.19 Estos
-inspectores entendían que cualquier intento de reforma al
-nivel medio debía incluir un cambio en el régimen labo-
-ral docente. En el marco de las ideas de la reforma de 1968, estos funcionarios habían elaborado una propuesta.
-Lo central era reemplazar la tradicional designación por
-horas cátedra, por una designación por cargo. Esta modi-
-ficación, que se materializó en la sanción de la ley, implicó
-un reconocimiento económico a las tareas que un profesor
-desarrolla como parte de su rol fuera del horario al fren-
-te de alumnos (reuniones, tutorías, capacitaciones, planifi-
-cación),20 además de dar sus clases. Con este sistema, los
-profesores del nivel medio pasaron a tener horas rentadas
-para participar de proyectos institucionales, capacitaciones
-y talleres extracurriculares. Esta modificación al régimen
-laboral repercutió en las escuelas y dio lugar a la aparición
-(o bien les dio mayor impulso) de proyectos institucionales21
-que incidían en forma directa en la mejora de los aprendi-
-zajes. A pesar de las evidentes ventajas del nuevo régimen
-laboral, el Poder Ejecutivo de entonces (otra dictadura mili-
-tar) limitó su aplicación a un pequeño grupo de escuelas a
-modo de experiencia piloto. Esta nunca abandonó su con-
-dición de piloto y no se amplió a la totalidad de las escuelas
-del sistema.22 Es interesante mencionar que entre las escue-
-las elegidas, predominaba el núcleo de escuelas públicas a
-las que asistían los hijos de las clases medias urbanas de la
-Ciudad de Buenos Aires y de las capitales provinciales. La década del 70. Represión y discriminación
-Luego de un breve período de gobierno constitucional
-(1973-1976), se instala en la Argentina una feroz dictadura
-(1976-1983). La persecución de opositores y disidentes a la
-dictadura cívico-militar que encabezaba Jorge Videla utili-
-zó desde el encarcelamiento hasta la desaparición forzada
-como eficaces metodologías para borrar todo tipo de resis-
-tencia. Durante esos años difíciles y oscuros, no hubo gran-
-des novedades para la educación en materia de reformas.
-Los dictadores estuvieron más ocupados en purgar los cua-
-dros docentes, los centros de estudiantes, prohibir teorías y
-quemar libros que en cambiar el sistema. No obstante pode-
-mos reconocer dos grandes líneas en el campo pedagógico
-que actuaron, en especial, sobre la escuela secundaria. Por
-un lado los tradicionalistas y ultraconservadores (Pineau,
-2006), preocupados por restaurar el orden alterado por las
-intenciones democratizadoras de los anteriores gobiernos
-populares. Había que reinstalar los alicaídos valores cris-
-tianos, base de la formación de los adolescentes y jóvenes,
-y reponer la autoridad vertical. Por otro lado estaban los
-sectores modernizadores-tecnocráticos (Pineau, 2006), par-
-tidarios de una segmentación del sistema educativo que se
-ajustara a las necesidades del mercado y del modelo econó-
-mico capitalista. Ambas posturas tenían en común desba-
-ratar todos los cambios e innovaciones que se habían rea-
-lizado con el objetivo de democratizar el sistema educativo
-y la escuela secundaria en particular. Si bien la dictadura
-de Videla no llevó adelante una reforma educativa al estilo
-de su antecesor Onganía, las líneas que tomaron fuerza en
-esos años sobre la escuela (y en particular sobre la escue-
-la pública) iban a reaparecer en los proyectos de reformas
-futuras (en particular la línea modernizadora-tecnocrática
-en los años 90). La década del 80. La posdictadura. El retorno
-a la democracia
-En los últimos años de la dictadura, ya comenzaban a circu-
-lar algunos trabajos que subrayaban el deterioro del sistema
-educativo en general y de la escuela media en particular.
-Con esos diagnósticos de una escuela secundaria desactuali-
-zada (Tedesco, 1985) y profundamente elitista y autoritaria
-(Braslavsky, 1985; Krawczyk, 1989), el gobierno constitu-
-cional que asumió a fines de 1983 encaró la reformulación
-de la escuela secundaria argentina.
-La demanda de democratización era muy potente en
-esos años. Esta alcanzaba también al sistema educativo.
-Durante este período no se dará una reforma a través de
-una norma general que abarque todo el sistema, sino que
-se irán haciendo cambios paulatinos. En primer lugar el
-gobierno constitucional de Raúl Alfonsín procederá a eli-
-minar el examen de ingreso24 (esa prueba que se tomaba
-a todos los aspirantes a la escuela media era de carácter
-selectivo). De esta forma todos los estudiantes que aspiren a
-ingresar podrán hacerlo sin ningún requisito más que el de
-contar con el certificado de aprobación del nivel primario.
-También se elimina el uso obligatorio de un uniforme esco-
-lar, que resultaba un costo importante para las familias de
-bajos recursos económicos. Uno de los cambios más desta-
-cados por su peso en el sistema educativo y en la tradición
-de la escuela media es el cambio del régimen de calificación
-y promoción de los alumnos. Para el ciclo lectivo 1985,
-se reemplazan las tradicionales mesas examinadoras de los
-meses de diciembre por un período de recuperación. Ya no
-se trata de rendir examen frente a un tribunal examinador
-compuesto por tres profesores, sino que se reemplaza por
-un curso de apoyo a cargo del profesor de la materia. La idea es que aquellos alumnos que al terminar el año no lograron
-los aprendizajes esperados, cuenten con una extensión de
-un mes más de clases para poder alcanzar el rendimiento
-esperado y para aprobar la materia. Al año siguiente, el
-ministerio del área promulga una resolución25 que reem-
-plaza el régimen de evaluación, calificación y promoción
-de los alumnos que estaba vigente desde 1975. Este nuevo
-régimen incorpora el sistema de recuperatorio en reempla-
-zo de las mesas examinadoras de diciembre, pero lo más
-destacado es que reemplaza la escala numérica de 1 a 10
-por una escala de tipo conceptual.26 Esta es una escala no
-promediable y marca si el alumno alcanzó o no los objetivos
-de aprendizaje de la materia o asignatura. La formalización
-de este nuevo régimen de evaluación, calificación y promo-
-ción obligaba a un cambio profundo en la forma de pensar
-la escuela secundaria no solo para los docentes sino para
-la sociedad en su conjunto. Esta nueva norma desplaza del
-centro de la escena a la clasificación y ubica allí a la eva-
-luación, entendida esta como un proceso más amplio y rico
-que dé cuenta de los aprendizajes de los alumnos. Pone la
-mirada en los aprendizajes y no solo en la enseñanza. Para
-el alumno que no alcanza las expectativas, no se prevén san-
-ciones sino alternativas desde la enseñanza para que pueda
-aprender. En esta línea, se decide que el alumno que debe
-repetir un año solo cursará las materias que desaprobó, no
-la totalidad de las materias correspondientes a ese año de
-estudios. Con relación al régimen laboral docente del Pro-
-yecto 13 (que seguía funcionando en las escuelas piloto), si
-bien no lo generalizó, retomó su idea al momento de crear
-el Ciclo Básico General . La intención era que todas las escuelas medias tuvieran
-un ciclo básico en común que abarcara los primeros tres
-años y luego dos años de ciclo orientado. Los profesores
-tendrían designación similar a los del Proyecto 13. La expe-
-riencia se puso en marcha en un grupo de escuelas sobre
-el final del gobierno de Alfonsín. No se expandió a otras
-escuelas, pero las que formaban la experiencia piloto con-
-tinuaron funcionando.
-Así como la reforma del 68 tenía por objetivo moder-
-nizar y racionalizar el sistema educativo para ponerlo al
-servicio del desarrollo económico, las reformas que se reali-
-zaron durante los años 80 tuvieron por meta democratizar
-el sistema (objetivo explícito en las normas educativas de la
-época). Se pretendía que la escuela media formara sujetos
-participativos y comprometidos con la defensa del orden
-constitucional y democrático.
-Hacia 1988, el gobierno constitucional entrará en una
-crisis económica que obligará a una convocatoria anticipa-
-da de las elecciones presidenciales y también a una entre-
-ga anticipada del poder. De esta manera los logros del
-gobierno de Alfonsín en materia educativa quedarán opa-
-cados por la desacreditación general con la que termina su
-mandato. Esto facilitará, entre otros factores, la llegada de
-otras ideas de cambios al sistema educativo.
-La década del 90. Neoliberalismo y mercado
-Durante la década de los 90, los gobiernos de América Lati-
-na iniciaron un viraje hacia el neoliberalismo y las econo-
-mías de mercado, principalmente impulsado por los EE.UU.
-En la Argentina, se iniciaba un nuevo período de gobierno
-constitucional, que rápidamente se alineó con las políti-
-cas del libre mercado. Apenas iniciado su mandato, Carlos
-Menem (1989-1999) pone en marcha la transferencia de las
-escuelas medias de la órbita nacional a la provincial. Esto es un cambio significativo en lo que había sido la tradición del
-Colegio Nacional.27 La decisión de provincializar el sistema
-educativo en su totalidad28 era coherente con la adhesión a
-las políticas neoliberales. El Estado nacional se desentendía
-de la educación de sus ciudadanos transfiriendo la respon-
-sabilidad a las provincias así como el costo económico que
-implicaba el sostenimiento del sistema (Bravo, 1994; Pavi-
-glianiti, 1995). Casi al mismo tiempo, el ministro de Edu-
-cación nacional Antonio Salonia (en ese cargo desde 1989
-hasta 1992) deroga el régimen de evaluación, calificación
-y promoción de los alumnos. El nuevo régimen reinstala
-la escala numérica 1 a 10 y el sistema de promedios para
-poder promocionar las asignaturas.29 Poco tiempo después,
-el gobierno nacional envía al Congreso nacional una nueva
-reforma integral del sistema educativo, que será conocida
-como Ley Federal de Educación (LFE).30
-La nueva ley, sancionada en 1993, modifica la estruc-
-tura del sistema en general y en particular la de la escuela
-secundaria. La escuela primaria pasa a denominarse escuela
-de Educación General Básica (EGB) y se conforma en tres
-niveles de tres años cada uno. Así, la EGB 3 se forma con el
-último año de la escuela primaria y los dos primeros de la
-secundaria. La escuela secundaria desaparece y en su lugar
-se crea el nivel de educación polimodal de tres años. Este
-se conforma de modo similar a un bachillerato con orien-
-taciones. La nueva estructura no contempla las escuelas de educación técnica (desaparecen del sistema), las cuales
-deben reorientarse a un formato compatible con el del nivel
-polimodal. Es de destacar que se extiende por primera vez la
-educación obligatoria (que durante todo el siglo XX se había
-limitado a la escuela primaria) a diez años, incluyendo el
-último año del nivel inicial y los nueve de la EGB. También
-se decide realizar una revisión y renovación de los conte-
-nidos de la enseñanza. Así surgirán los Contenidos Bási-
-cos Comunes (CBC) producto de la consulta a destacados
-especialistas de cada área del conocimiento convocado por
-las autoridades ministeriales. Estos saberes son presenta-
-dos como una modernización de los “obsoletos” contenidos
-vigentes (en el caso de la escuela media, la mayoría de los
-programas oficiales databan de las décadas del 50 y 60).
-Esta reforma educativa integral retomó, en cierto sen-
-tido, algunos aspectos de la reforma del 68. Su argumento
-principal era la modernización del sistema educativo y su
-puesta al servicio de la economía de mercado. Los orga-
-nismos internacionales y la Iglesia católica fueron fuente
-de consulta para la redacción de la ley y para su posterior
-implementación.
-El Ministerio de Educación y Cultura tenía el objetivo
-explícito de orientar el sistema educativo para promover
-la competitividad internacional de la economía nacional
-e incrementar la productividad.31 Acorde con las políti-
-cas económicas reinantes en esos años en gran parte de
-América Latina, la educación secundaria debía priorizar la
-adquisición de competencias32 en los jóvenes para facilitar
-su inserción al mercado laboral. Si bien es cierto que en la norma legal se menciona la necesidad de seguir avan-
-zando en la democratización del sistema educativo, estas
-menciones aparecen más como declaraciones de princi-
-pios que como intenciones políticas efectivas (Paviglianiti,
-1995). Podría pensarse que la ampliación de la obligatorie-
-dad hasta la finalización de la EGB 3 sería un avance hacia
-la democratización, sin embargo es notorio que cuando se
-leen atentamente los documentos curriculares, los saberes
-para el acceso a estudios superiores, para el desarrollo de
-competencias para la inserción laboral y los avances cien-
-tíficos y tecnológicos quedan ubicados por fuera de los
-niveles obligatorios.33
-Así como algunos vieron en la reforma impulsada
-por Saavedra Lamas la intención de romper la continuidad
-lógica que se había instalado entre primaria y secundaria
-para obstaculizar el acceso a la universidad, podría verse
-una intención similar al establecer la obligatoriedad de la
-escuela básica pero no del polimodal. En el contexto de
-políticas sociales y económicas con consecuencias fuerte-
-mente excluyentes (alta tasa de desocupación, bajos niveles
-de remuneración, aumento del trabajo precario y desfinan-
-ciamiento del sistema educativo) y con un Estado nacional
-desentendido de la responsabilidad de conducir el sistema
-educativo (Bravo, 1994; Paviglianiti, 1995), la presión social
-obligó al gobierno nacional a implementar algunas medi-
-das paliativas. Con el pretexto de democratizar el acceso y
-permanencia en el sistema educativo de todos los jóvenes,
-y morigerar las críticas al gobierno nacional, se pusieron
-en práctica una serie de políticas compensatorias. El Esta-
-do, ubicado nuevamente en un rol subsidiario (dejando el rol principal a las familias y a la Iglesia católica),34 debía
-ocuparse de aquellos jóvenes con carencias. Para estos, el
-gobierno nacional desarrolló planes, como el Plan Social
-Educativo (Giovine, 2014), para proveer de recursos a los
-jóvenes provenientes de sectores sociales más desfavoreci-
-dos económicamente. Así, se entregaron útiles escolares y
-libros de texto. Este mismo plan se extendió a las institucio-
-nes escolares que recibían a estas poblaciones de jóvenes, a
-las que entregó equipamiento y mobiliario.
-La crisis de 2001 y una nueva reforma integral
-Hacia fines de la década del 90, la situación económica en
-la Argentina comenzó a deteriorarse. El previsible colap-
-so de políticas económicas que fomentaban las inversiones
-financieras que no capitalizaban al país ni fortalecían al
-aparato productivo se produjo a fines de 2001. Durante
-diciembre de aquel año, fuertes y multitudinarias protes-
-tas callejeras obligaron primero a renunciar al ministro de
-Economía Domingo Cavallo (claro referente de la derecha
-argentina) y veinticuatro horas después al propio presidente
-Fernando de la Rúa.
-Luego de un período lleno de incertidumbre y de fuerte
-inestabilidad política, económica y social, en 2003 asume
-un nuevo gobierno constitucional. Conducido por Néstor
-Kirchner, toma una nueva orientación económica sostenida en medidas de protección al empleo y a la industria nacional
-y se aleja del modelo neoliberal que había hegemonizado la
-escena política en la década anterior.
-En el año 2005 se sanciona la Ley de Educación Téc-
-nico Profesional (Ley Nacional N° 26058). Con esta ley se
-reinstala la educación técnica en la Argentina, que había
-quedado fuera de la estructura del sistema de la Ley Federal
-de Educación. Con una política de promoción de la indus-
-tria nacional, era indispensable contar con técnicos medios
-para poder sostener el ritmo de producción. Al año siguien-
-te, el Parlamento deroga la LFE y sanciona la nueva Ley
-de Educación Nacional (LEN). Esta nueva ley vuelve a la
-estructura anterior a 1993, y conforma otra vez un nivel
-primario (de 6 o 7 años) y un nivel secundario (de 5 o 6
-años).35 Desparecen así la EGB y el polimodal. A diferencia
-de su antecesora, esta reforma no se funda en las necesida-
-des del aparato productivo del país o en el desarrollo del
-mercado sino en la construcción de una ciudadanía fuerte
-y con un rol protagónico en la vida política de la nación.
-El artículo 10 prohíbe expresamente que el Estado nacional
-firme acuerdos o tratados internacionales de libre comer-
-cio que consideren a la educación un bien de mercado. Se
-retoman, de alguna manera, los argumentos de democra-
-tización e inclusión que sostuvieron los cambios al nivel
-medio en los 80. La educación es considerada un bien públi-
-co del cual el Estado es garante. Esto implica garantizar
-financiamiento, accesibilidad, inclusión y un enfoque peda-
-gógico. En esta condición de garante, el gobierno nacional
-instrumentará una serie de planes y programas tendientes
-a promover la inclusión de todos los niños y jóvenes a la educación.36 Estos programas no tendrán la condición de
-compensatorios (entendiendo esto como la obligación de
-cubrir aquello que falta) sino que serán políticas pensadas
-en clave de inclusión. Estas políticas socioeducativas ten-
-drán por objetivo a la totalidad de la población estudiantil
-pensada como un universo diverso y no como un conjunto
-homogéneo que incluye sujetos con carencias.
-Una novedad a destacar es que se extiende, por primera
-vez en la Argentina, la obligatoriedad hasta el nivel medio
-completo (la escuela primaria más la escuela secundaria
-completa). Esta decisión, puesta en marcha bajo la gestión
-del ministro Daniel Filmus (en el cargo desde 2003 hasta
-2007), implica un cambio muy fuerte para una escuela con-
-cebida desde sus orígenes como una escuela para las elites
-gobernantes (incluyendo todos los cambios que se fueron
-produciendo en casi un siglo). Y además generará una pre-
-sión sobre la universidad, ya que es previsible que aumente
-el número de egresados de la escuela media y que estos sean
-alentados a ingresar a ella. Todo esto obligará a repensar los
-contenidos y las formas de enseñar en la escuela media, y
-dará lugar a una nueva reforma del nivel.
-El Consejo Federal de Educación en marzo de 2009, a
-través de dos resoluciones,37 presenta una nueva reforma.
-Con el nombre de Nueva Escuela Secundaria (NES), se deli-
-nean una serie de cambios para el nivel medio que serán lle-
-vados adelante bajo la gestión del ministro Alberto Sileoni
-(2009-2015). Lo novedoso (en relación a normas anteriores)
-de esta reforma es que por primera vez se incluye explí-
-citamente en la norma la revisión de las formas de ense-
-ñar. Así, se propone revisar la organización institucional
-de la enseñanza, los regímenes académicos, las regulaciones jurisdiccionales que incidan directamente sobre la enseñan-
-za y las propuestas de enseñanza (las configuraciones de
-la clase escolar).38
-Al incluir una serie de propuestas que habilitan nuevas
-formas de enseñar, esta reforma parece apuntar a una de las
-patas del trípode de hierro39 (Terigi, 2006) que resiste en la
-escuela secundaria: la organización del saber en parcelas de
-conocimiento disciplinar. Una de las consecuencias directas
-de repensar una nueva organización de los saberes en la
-escuela media es revisar las formas del régimen laboral de
-los profesores. La reforma NES promueve la generalización
-del denominado Proyecto 13.40 La designación de los profe-
-sores por cargo facilita la implementación de otras formas
-de organizar la enseñanza (como talleres y seminarios).
-Fuerzas y tensiones en las propuestas reformadoras
-Si observamos con detenimiento esta sucesión de propues-
-tas e iniciativas de reformas del nivel medio o secundario,
-podemos encontrar similitudes y diferencias entre ellas. Si
-miramos las propuestas de los 60 y de los 90, podemos
-identificar algunas orientaciones en común: la creación de
-un nivel intermedio que se ubica entre la primaria y la secundaria; la universalización del acceso en el nivel de la
-escuela primaria o básica; el propósito de orientar el nivel
-medio hacia el desarrollo económico y del mercado; la idea
-de una escuela que busque y “premie” a los mejores; accio-
-nes para ayudar a los estudiantes carenciados.
-En las iniciativas de reformas de los 80 y los 2000
-podremos ver similitudes en el mantenimiento del esquema
-escuela primaria y secundaria; la tendencia a universalizar
-el acceso, permanencia y egreso tanto en la escuela primaria
-como en la secundaria; el propósito de orientar la escuela
-secundaria hacia el fortalecimiento de la ciudadanía y de las
-instituciones democráticas; la idea de una escuela secunda-
-ria para todos con políticas inclusivas sociales y educativas;
-la creación de programas específicos para la formación y
-actualización docente.
-No es que se pueda encontrar una reforma en la cual
-solo esté presente una fuerza o la otra, sino que ambas pujan
-en cada iniciativa por imponerse sobre la otra. Como suce-
-de con las fuerzas en la física, las reformas que finalmente
-se implementan son la resultante de estas dos fuerzas con-
-currentes en un punto: la escuela media. Las reformas de
-los 80 y los 2000 tienen un fuerte predominio de la fuerza
-democratizadora, pero esto no significa que no sobrevivan
-en ellas aspectos modernizadores.41 Lo mismo sucede si
-tomamos las reformas de los 90 (o su antecesora de los 60).
-Tienen un predominio de la fuerza modernizadora, pero
-ello no quita la presencia de elementos de la fuerza demo-
-cratizante. En cierto modo la escuela secundaria termina-
-ría siendo la resultante de esta tensión manifiesta en cada
-proceso de reforma. ¿Por qué hablar de fuerza democratizante y fuerza
-modernizadora? Por democratizante nos referiremos a la
-fuerza reformadora que plantea acceso, permanencia y
-egreso de la escuela media para todos. Con modernizadora
-nos referiremos a esa fuerza reformadora que piensa a la
-escuela media mirando hacia un futuro. Un futuro general-
-mente materializado en el presente de los países del autode-
-nominado primer mundo. Pero que también piensa que ese
-futuro no es necesariamente para todos, sino para los que
-se lo merecen. Es decir que el acceso a la escuela secundaria
-debe ser circunscripto solo a los mejores (que son los mere-
-cedores de ese prometedor futuro), y que tienen mérito
-suficiente para estar en ella. Podríamos utilizar la expresión
-aristocratizante, sin embargo ese término dejaría por fue-
-ra una cuestión sustancial: la fuerza modernizadora piensa
-en términos de méritos asociados a origen social pero se
-presenta como lo moderno, como lo que está por venir.
-Esta fuerza no se reconoce en el Colegio Nacional de las
-élites gobernantes y terratenientes de principios del siglo
-XX, sino que en cierto sentido es su versión moderna. Por
-ese motivo parece más adecuado usar el término moderni-
-zadora, ya que si bien hay un componente aristocrático, este
-queda oculto bajo una meritocracia modernizante.
-Por otra parte, pensarlo en términos de fuerzas con-
-currentes (haciendo esta analogía con la física) permite una
-representación muy gráfica de la situación. Dos fuerzas que
-actúan sobre un mismo punto, cuyo efecto sobre este no
-responde enteramente a una fuerza o a la otra. Sino que
-se trata de una resultante que contiene, en cierto modo, un
-poco de ambas. La escuela secundaria, en cada momento de
-reforma, parece ser la resultante de la tensión a que ambas
-fuerzas la someten. Es decir que en los 90, las escuelas
-medias no estaban absolutamente alineadas con la fuerza
-modernizadora, en todo caso esta predominaba por sobre
-la otra, la democratizante. Como sostienen varios autores (Ezpeleta, 2004; Viñao,
-2003), para implementar innovaciones en la escuela no bas-
-ta una norma legal. Cada iniciativa reformista debe lidiar
-con las tradiciones, con los mandatos fundacionales, con la
-cultura escolar, en síntesis: con la memoria de las escuelas.
-Por eso no podemos pensar en términos absolutos cuando
-se habla de reformas en las escuelas medias. No se puede
-pensar que una norma emanada de un ministerio puede
-borrar de la noche a la mañana la historia de una institución
-escolar e introducir una nueva tradición. Esto no es factible.
-Los niveles de incidencia de las reformas
-Los efectos de las reformas del sistema educativo podemos
-pensarlos en tres niveles. Un primer nivel tiene que ver
-con el gobierno del sistema; un segundo nivel se refiere al
-gobierno de las instituciones y sus formatos, y un tercer
-nivel se refiere a las prácticas de enseñanza que se suceden
-en el cotidiano de la tarea escolar. Algunas reformas hacen
-más hincapié en uno u otro nivel. La de los 90 puso mucho
-énfasis en las reformas en el nivel de gobierno del sistema
-y en el nivel de gobierno de las instituciones. Las iniciativas
-de los 80 y de los 2000 pusieron más énfasis en el nivel de
-las prácticas de enseñanza.
-Visto de esta manera pareciera que unos cambios han
-sido pensados como algo que se efectúa desde la conducción
-del sistema hacia la base (en una visión piramidal del siste-
-ma), y otros ven las reformas como algo que debe arrancar
-desde la base y subir hacia la cima.42 Estas dos visiones son
-muy compatibles con la definición que ya hemos hecho de una fuerza democratizante y una modernizadora. Pareciera
-que en el caso de las primeras se ve a las reformas ini-
-ciándose desde la base, y en cambio las segundas las ven
-iniciándose desde arriba. Esta mirada está en consonancia
-con análisis hechos por algunos autores sobre la reforma
-del 90 (Paviglianiti, 1995). Más allá del énfasis puesto en
-uno u otro nivel, en todos los casos hay una posición toma-
-da con relación a las configuraciones de la clase escolar43
-(Diamant, 2016). Hay prácticas de enseñanza compatibles
-con las reformas modernizadoras y hay otras compatibles
-con las democratizantes.
-Prácticas de enseñanza y reformas
-Cada tipo de reforma propone unas prácticas de enseñanza
-que les son funcionales a sus propósitos, aun cuando la nor-
-ma no las mencione explícitamente. Las reformas con pre-
-dominio de la fuerza modernizadora apuntan a unas prác-
-ticas de enseñanza dirigidas a un sujeto único y modélico.44
-De alguna manera, se piensa a los sujetos de la educación
-media en la misma clave que las ideas desarrollistas piensan
-a los países. Hay países desarrollados y otros en desarro-
-llo. Es decir que hay un modelo de país que todos quieren
-alcanzar. Los países en desarrollo deben ser ayudados por
-los desarrollados para que puedan ser como ellos. Así es
-pensado el sujeto en estas reformas. Hay jóvenes con méri-
-tos propios que son merecedores de acceder a la escuela
-media (normalmente provenientes de sectores medios altos
-y altos, los “nosotros”, como los identifica Dussel [2009]). Para aquellos que tienen carencias o deficiencias (los “inep-
-tos” los llamaba la reforma del 68) el sistema educati-
-vo debe generar políticas compensatorias (Giovine, 2014).
-¿Qué compensan las políticas compensatorias? Compensan
-la falta, la carencia de ciertas aptitudes que tienen algunos
-estudiantes en relación al modelo a alcanzar. Esto significa
-que podría pensarse en unas prácticas de enseñanza que
-tienen un estudiante modelo o ideal (generalmente el joven
-de clase media alta o alta hijo de profesionales o de terra-
-tenientes) (Dussel, 2009) y que con cierta actitud piadosa
-se encarga de compensar las carencias de aquellos que no
-alcanzan el ideal. Esto tiene fuertes implicancias a la hora
-de las prácticas de enseñanza. Si hay un estudiante modelo,
-la forma de enseñar es aquella desde la que ese joven apren-
-de. Un modelo de alumno, un modelo de enseñanza. Que
-algunos no puedan aprender en ese modelo de enseñanza es
-consecuencia de sus carencias. Los profesores más piadosos
-se inclinarán por la aplicación de los programas y planes
-compensatorios y los menos opinarán que ese joven “no es
-para la escuela secundaria”.
-Aquí es válido recordar las quejas de los docentes
-que definen a los estudiantes en términos de sus caren-
-cias: las familias no se ocupan, vienen de hogares pobres
-y no muestran interés por lo que se les explica. En estos
-comentarios subyacen, como modelo, las prácticas de ense-
-ñanza que resultan solidarias con las ideas modernizadoras
-(Cazas, 2018). En las reformas de corte democratizante, las
-prácticas de enseñanza están en línea con aquellas que no
-se basan en la idea de un estudiante modelo al que todos
-deben tratar de alcanzar. Estas prácticas de enseñanza par-
-ten de reconocer una diversidad de modelos de estudiante
-y por tanto generan una variedad de formas de enseñar. Sin
-estudiante único, no hay modelo único de enseñanza. Un
-modelo plural de estudiantes fundamenta una pluralidad
-de formas de enseñar y de los requerimientos para apren-
-der. Estas prácticas de enseñanza son claramente inclusivas y buscan reconocer a cada estudiante en su diversidad y
-distribuir el conocimiento de manera equitativa y no con
-criterios meritocráticos.
-Como podemos ver, en el nivel de las prácticas de
-enseñanza también se reconoce la presencia de una fuerza
-modernizadora y una democratizante en los términos defi-
-nidos antes. En cierto modo las prácticas de enseñanza, las
-configuraciones del dispositivo clase escolar también pue-
-den ser interpretadas como la resultante de la tensión entre
-una fuerza democratizante y otra modernizadora. Así las
-prácticas de enseñanza se configurarán dentro del amplio
-espectro de resultantes que produce la tensión entre ambas
-fuerzas. Resulta interesante pensar si el predominio de una
-fuerza u otra a nivel de las propuestas de reforma tam-
-bién se refleja en las prácticas de enseñanza de ese período.
-¿Acompañarán las configuraciones de clase elegidas por los
-profesores la resultante de la tensión entre fuerzas de cada
-momento reformista? Un interrogante muy pertinente para
-el desarrollo de esta tesis.
+Significance
+Achieving a rapid global decarbonization to stabilize the climate critically depends on activating contagious and fast-spreading processes of social and technological change within the next few years. Drawing on expert elicitation, an expert workshop, and a review of literature, which provides a comprehensive analysis on this topic, we propose concrete interventions to induce positive social tipping dynamics and a rapid global transformation to carbon-neutral societies. These social tipping interventions comprise removing fossil-fuel subsidies and incentivizing decentralized energy generation, building carbon-neutral cities, divesting from assets linked to fossil fuels, revealing the moral implications of fossil fuels, strengthening climate education and engagement, and disclosing greenhouse gas emissions information.
+Abstract
+Safely achieving the goals of the Paris Climate Agreement requires a worldwide transformation to carbon-neutral societies within the next 30 y. Accelerated technological progress and policy implementations are required to deliver emissions reductions at rates sufficiently fast to avoid crossing dangerous tipping points in the Earth’s climate system. Here, we discuss and evaluate the potential of social tipping interventions (STIs) that can activate contagious processes of rapidly spreading technologies, behaviors, social norms, and structural reorganization within their functional domains that we refer to as social tipping elements (STEs). STEs are subdomains of the planetary socioeconomic system where the required disruptive change may take place and lead to a sufficiently fast reduction in anthropogenic greenhouse gas emissions. The results are based on online expert elicitation, a subsequent expert workshop, and a literature review. The STIs that could trigger the tipping of STE subsystems include 1) removing fossil-fuel subsidies and incentivizing decentralized energy generation (STE1, energy production and storage systems), 2) building carbon-neutral cities (STE2, human settlements), 3) divesting from assets linked to fossil fuels (STE3, financial markets), 4) revealing the moral implications of fossil fuels (STE4, norms and value systems), 5) strengthening climate education and engagement (STE5, education system), and 6) disclosing information on greenhouse gas emissions (STE6, information feedbacks). Our research reveals important areas of focus for larger-scale empirical and modeling efforts to better understand the potentials of harnessing social tipping dynamics for climate change mitigation.
+Sign up for PNAS alerts.
 
+Get alerts for new articles, or get an alert when an article is cited.
+Preventing dangerous climate change and its devastating consequences is a defining task for humanity (1, 2). It is also an indispensable prerequisite for achieving sustainable development (3, 4). Limiting global warming to 1.5 °C as stipulated in the Paris Climate Agreement (5) scientifically implies a complete net decarbonization of the world’s energy and transport systems, industrial production, and land use by the middle of this century. In their “roadmap for rapid decarbonization,” Rockström et al. (6) highlight that rapid increase of the share of zero-carbon energy within the global energy system would be needed to achieve this objective, likely alongside a considerable strengthening of terrestrial carbon sinks. In one scenario, the zero-carbon share of the energy system doubles every 5 to 7 y for the next several decades (6). Carbon emissions that are currently still on the rise at rates of 0 to 2% per year, despite decades-long efforts in international climate negotiations, would thereby need to pivot to a rapid decline of ultimately 7% per year and more. These emission reduction rates would surpass by far even those experienced only during periods of massive socioeconomic crisis in the 20th century, such as World War II and the collapse of communism (Fig. 1).
+Fig. 1.
+The rate of change in annual greenhouse gas emissions required for net decarbonization. Social tipping dynamics in the context of the representative concentration pathways (RCPs) of the Intergovernmental Panel on Climate Change (IPCC) and the Paris Agreement. Left and Right exhibit the rate of change in CO2 emission per year between 1930 and 2060, and the increase in global mean temperature by 2100 relative to the preindustrial period, respectively, under the four RCPs. The transition to a new net decarbonized state requires shifting from an incremental rise in emissions of 0 to 2% per year to nonlinear decline at the rate of 7% per year and more (6). The figure was created using the RCP emission projections (153) and Coupled Model Intercomparison Project 5 (CMIP5) temperature projections (154).
+Here, the historically decisive question is whether and how such rapid rates of deployment can be collectively achieved. Current deployment rates of low-carbon energy sources are compatible with the required shift but when scaled up are expected to encounter considerable resistance due to the rigidities inherent in political and economic decision making (7, 8), as well as new technological demands (9, 10). Although an increasing number of countries have already introduced or are committed to introducing carbon pricing, the initiatives covered by carbon pricing included only 15% of global greenhouse gas emissions in 2017 (11) and have so far driven only marginal emission reductions (12). It is increasingly recognized that business-as-usual technological progress and carbon pricing alone are not likely to lead to rapid and deep reductions in greenhouse gas emissions (13).
+At the same time, there is evidence from various scientific fields demonstrating that rapid rates of change can be observed under certain critical conditions in natural (14–16), socioeconomic (17–20) and social-ecological systems (SESs) (21, 22). Increasing attention is being given to the concept of tipping dynamics as a nonlinear mechanism behind such disruptive system changes. Based on a review on social-ecological tipping points research, Milkoreit et al. (23) propose a common definition of social tipping points (STPs) as points “within an SES at which a small quantitative change inevitably triggers a non-linear change in the social component of the SES, driven by self-reinforcing positive-feedback mechanisms, that inevitably and often irreversibly lead to a qualitatively different state of the social system.” There are historical examples of dynamic social spreading effects leading to a large self-amplification of small interventions: For example, the writings of one man, Martin Luther, injected through newly available printing technology into a public ready for such change, triggered the worldwide establishment of Protestant churches (24). An example in the field of climate policy is the introduction of tariffs, subsidies, and mandates to incentivize the growth of renewable energy production. This has led to a substantial system response in the form of mutually reinforcing market growth and exponential technology cost improvement (25, 26).
+In this paper, we examine a number of potential “social tipping elements” (STEs) for decarbonization (27, 28) that represent specific subdomains of the planetary social-economic system. Tipping of these subsystems could be triggered by “social tipping interventions” (STIs) that could contribute to rapid transition of the world system into a state of net zero anthropogenic greenhouse gas emissions. The results reported in this study are based on an online expert survey, an expert workshop, and an extensive literature review (SI Appendix).
+Our results complement the existing shared socioeconomic pathways (SSPs) that are used alongside the representative concentration pathways (RCPs) to analyze the feedbacks between climate change and socioeconomic factors, such as world population growth, economic development, and technological progress (29). Our results could be useful for exploring possible transformative pathways leading to scenarios that reach net zero emissions by 2050 (30).
+Defining STEs and STIs Relevant for Decarbonization Transformation
+Various types of tipping processes can be differentiated in the literature. Many authors refer to critical thresholds (16, 28), a notion closely related to the metaphor of a “butterfly effect” (31, 32). Other processes related to tipping dynamics include metamorphosis, where a rapid loss of structures of one sort occurs simultaneously with the development of new structures (33), as well as cascades driven by positive feedbacks in processes occurring simultaneously at smaller scales (34).
+The social tipping dynamics of interest for this study are typically manifested as spreading processes in complex social networks (35, 36) of behaviors, opinions, knowledge, technologies, and social norms (37, 38), including spreading processes of structural change and reorganization (34). These spreading processes resemble contagious dynamics observed in epidemiology that spread through social networks (39). Once triggered, such processes can be irreversible and difficult to stop. Similar contagious dynamics have been observed in human behavior (35, 36), for example in assaultive violence (39), participation in social movements (40), or health-related behaviors and traits (36), such as smoking or obesity (41, 42).
+We understand STEs as functional subsystems of the planetary-scale World–Earth system (43) consisting of interacting biophysical subsystems of the Earth, and the social, cultural, economic, and technological subsystems of the world of human societies (43, 44). Potential STEs share one defining characteristic: A small change or intervention in the subsystem can lead to large changes at the macroscopic level (23) and drive the World–Earth system into a new basin of attraction, making the transition difficult to reverse (20). Exact quantifications of the relationship between big and small are, however, rare, as are empirical examples (Table 1). For the combination of big interventions and big effects, there are currently no convincing examples; however, the potential use solar radiation management geoengineering in the future would fall into this category. Finally, some changes in the World–Earth system might be driven by nonhuman and unintentional forces (e.g., a sufficiently large meteorite hitting the Earth or a disease outbreak), while others might be driven by conscious interventions of human agency (45).
+Table 1.
+Illustrative examples of intervention-and-effect relationships in the context of climate change mitigation
+Intervention types	Small effect	Big effect
+Small intervention	An incremental change, e.g., a town mitigation plan (157)	A tipping effect, e.g., feed-in tariffs in the German “Energiewende” (158)
+Big intervention	Inefficient interventions, e.g., the implementation of the European Carbon Emission Trading Scheme leading to a marginal reduction of greenhouse gas emissions due to leakage effects (159)	An elephant effect, e.g., reducing the Earth’s carbon burden by means of solar radiation management geoengineering (160)
+Tipping processes might be analyzed as a function of change in a suitably selected forcing variable or control parameter (15, 27). The pertinent World–Earth system features such as the anthropogenic carbon emissions are commonly the product of complex interactions of multiple drivers. These factor can, however, in some cases be combined into a single dominant control parameter.
+In this study, we identify a subsystem of the World–Earth system as a STE relevant for decarbonization transformation if it fulfils the following criteria:
+C1. A set of parameters or drivers controlling its state can be described by a combined control parameter that after crossing a critical threshold (the STP) by a small amount influences a crucial system feature of relevance (here the rate of anthropogenic greenhouse gas emissions) leading to a qualitative change in the system after a reference time has passed allowing for the emergence of the effect (15).
+C2. It is possible to differentiate particular human interventions leading to the small change in the control parameter that has a big effect on the crucial system feature, which will be referred to as the STI (Fig. 2).
+Fig. 2.
+The concept of decarbonization transformation as social tipping dynamics. As illustrated in A by an abstract stability landscape (155), the world’s socioeconomic system today is trapped in a valley where it still depends heavily on burning fossil fuels, leading to high rates of greenhouse gas (GHG) emissions. STIs have the potential to erode the barrier through triggering social tipping dynamics in different sectors (Fig. 3) and thus paving the way for rapid transformative change. Uncertainties and complexities inherent in the many dimensions of human societies beyond their level of decarbonization (46) can be envisioned as forming a rougher stability landscape featuring multiple attracting states and a larger number of barriers that need to be eroded or overcome (B). This inherent “social noise” may complicate transformative change but could also accelerate it by means of dynamical phenomena such as stochastic resonance (156).
+Established social systems, including their infrastructures, while they may partly be open to change, tend also to possess self-stabilizing mechanisms that oppose change, be it through infrastructural inertia due to investment cycles or cultural or political inertia due to deeply held traditions or power structures all representing aspects of social complexities (Fig. 2 and refs. 46 and 47). For this reason, a cumulation of effects due to social contagion, repetitive nudging, or direct intervention can lead to social tipping dynamics (48). Starting points for such cumulations of effects are here called STIs. Naturally, their existence, nature, and point of departure are a function of the cumulated history of the respective social system and, in that sense, STIs and social tipping dynamics are path dependent.
+Following Rockström et al. (6), in order to achieve the Paris Climate Agreement’s goals and to avoid higher levels of global warming at the end of this century that would imply crossing dangerous tipping points in the Earth’s climate system (27), global anthropogenic carbon emissions would need to be halved every decade, achieving a peak in 2020 and then steadily decreasing to reach net zero emissions by 2050. Achieving net zero global emissions around 2050 is necessary for there to be a significant probability of limiting global warming to 1.5 °C by the end of the century (1). To ensure that the social tipping dynamics identified in this study are compatible with these constraints, we impose the following filtering criteria:
+F1. The time needed to trigger the tipping should not exceed ∼15 y, and the time needed to observe a qualitative change at the whole system level should not exceed ∼30 y (Fig. 1).
+F2. Since abrupt social changes have historically often been associated with social unrest, war, or even collapse (49), human intervention and its foreseeable effects should here be explicitly compatible with the Sustainable Development Goals (50), in the sense of positive social tipping dynamics (34).
+Finally, due to the networked and multilevel character of the social system (51), we also ask about the feedback mechanisms connecting and potentially mutually reinforcing the identified candidates for STEs and STIs.
+Results
+Candidates for STEs from Expert Elicitation.
+Both natural and social systems are characterized by a high level of complexity and are linked by coevolutionary dynamics (52). Isolating the elements of such systems is difficult. Although we provided our respondents with a written definition of a STE, most of the online survey participants referred to what we define as STIs. On the basis of the responses, 12 groups of candidates for STEs could be identified, each referring to a distinctive control parameter (Table 2). The critical threshold of the control parameter needed to be crossed in order to trigger the tipping process was in most of groups not quantified by the experts but described qualitatively. The STP was often referred to as the point when a certain belief, behavior, or technology, spreads from a minor tendency to a major practice. Documented instances of technology and business solutions show that a 17 to 20% market or population share can be sufficient to cross the tipping point and scale up to become the dominant pattern (53). Some authors, however, argue that it must be the “right” share of population, including well-connected influential people, trendsetters, and other types of social leaders with a high degree of agency (38, 54). In other cases, the experts referred to the STP that would be achieved if the price of fossil-fuel–free products and services falls below that of those products and services based on fossil fuels. Table 2 presents an overview of expert elicitation results.
+Table 2.
+The candidates for social tipping elements for rapid decarbonization identified by expert elicitation
+Candidates for social tipping elements	Key actors able to influence the control parameter	Main control parameter	Examples of interventions	Critical threshold in the control parameter
+Climate policy enforcement	International agencies, national and local governments, political elites, industry, NGOs, business, the public	The number of regulations restricting the use of fossil fuels	A global environmental court; producer responsibility and circular economy; limiting the use of fossil fuels sector by sector; banning advertisement of fossil-fuel products; abolishing the trade in fossil fuels	Eliminating the use of fossil fuels from most of sectors and spheres of human life
+n* = 42 (20%); Conf.†=3
+Information feedback	Scientific community, media, citizen organizations, industry	The share of products and services containing GHG emission information	Adequate information on emissions of products and services; labeling; growing awareness of global risks and health consequences	The GHG emissions information visible for most of products and services
+n = 37 (17%); Conf.=3
+Financial market	International agencies, national and local governments, financial sector, industry	Market value of fossil-fuel extraction and industry	Carbon taxes and permits; Divesting; reinvesting; national banks warning commercial banks to reduce risk with carbon-intensive investments	The market value decreasing rapidly in comparison with other comparable investments
+n = 26 (12%); Conf.=3.6
+Energy production and storage	Conventional and green industries, national and local governments, NGOs, public–private partnerships	The relative price of fossil-fuel–free energy production and storage	Cessation of subsidies for fossil-fuel technologies; decentralized and distributed energy generation; renewable energy deployment; community energy hubs; nuclear energy deployment	The price of fossil-fuel–free energy becoming lower than the price of fossil-fuel energy
+n = 24 (11%); Conf.=3.8
+Knowledge system	Intellectual leaders, scientific community, media	The number of people having worldviews accounting for socioecological complexities	Reconceptualization of economics and valuation measures; convincing narratives of what can be gained from decarbonization; indigenous approaches to nature	The worldviews spreading from the minority to the majority of key actors
+n* = 16 (7,7%); Conf.†=3.7
+Other technology	Industry, governments, media, agro-industry	Energy demand	Digitalization of the economy; tele-working; e-mobility; artificial meat; multipurpose farm-ponds	Energy demand reduced to a level that can be sustainably produced
+n = 15 (7%); Conf.=4
+Values and norms	Spiritual leaders, media, young generation, middle class	The perception of fossil fuels as immoral	A new set of moral and ethical codes; revealing the moral implications of fossil fuels, stigmatization of fossil fuels	Spreading from the minority to the majority of key actors
+n = 12 (6%); Conf.=3
+Human settlements	Industry, city authorities, governments	The demand for fossil-fuel–free technology	Reallocation and redesigning of human settlements; energy independent housing; new building materials; carbon-neutral cities	Fossil-fuel–free technology becoming the first choice in new infrastructure projects
+n = 10 (5%); Conf.=3.7
+Lifestyles	Food and car industry, writers, wealthy fashionable people, media	Number of people choosing fossil-fuel free products	Vegetarian diets; lower consumption; fossil-fuel free consumption	Spreading from the minority to the majority of the population
+n = 10 (5%); Conf.=3.7
+Citizenship involvement	Civic and nonprofit organizations, media, the public	Citizenship commitment to climate mitigation	Grassroots organizing resistance; a global network of social movements	From a minor tendency to a global citizen movement
+n = 7 (3.8%); Conf.=3.1
+Education system	Scientists, teachers, educational ministries	The presence of climate change and relevant concepts in the public education	New educational programs at all levels of public education including climate change, ecological networks, system thinking	The relevant concepts becoming a part of the main curriculum
+n = 5 (2.4%); Conf.=3.2
+Population control	Political leaders, religious organizations	The number of greenhouse gas emitters	Limiting human population growth	Population decreasing to a number that can be sustainably supported
+n = 3 (1.4%); Conf.=2.3
+*
+n: The frequency of survey answers is referring to the number of the survey answers refereeing to this topical area and a share (percentage) of total survey answers.
+†
+Conf.: How confident are you that the associated social tipping point is actually going to take place and contribute substantially to a rapid and complete global decarbonization by 2050? 1, Very uncertain; 2, uncertain; 3, rather uncertain, 4, rather confident; 5, confident; 6, very confident.
+Critical Interventions for Inducing Social Tipping Dynamics.
+Building upon the results of our expert elicitation, we differentiated six key candidates for STEs and associated STIs for which we were able to find empirical material showing that they fulfill the conditions specified in our definition (as listed in Table 3). These do not necessarily comprise a comprehensive list of “silver bullet” solutions; rather, this is an initial selection that can help in developing more refined socioeconomic rapid transformation pathways and narratives customized at appropriate scales. Below, we present a review of literature on each of the STEs and STIs nominated by the experts. We search for evidence supporting the potential of the interventions to trigger tipping-like changes in their domains leading to a qualitative change at the World–Earth system level; we ask whether critical thresholds in the control parameters can be determined; and finally we begin to examine the interactions and feedbacks among the identified tipping elements.
+Table 3.
+Synthesis of the research results on the key candidates for social tipping elements selected by the experts and their associated social tipping interventions
+Social tipping element	Social tipping intervention	Control parameter	Key actors	GHG emission reduction potential	Dominant social structure level	Estimated time needed to trigger tipping
+STE1: Energy production and storage	STI1.1: Subsidy programs	The relative price of fossil-fuel–free energy	Governments, energy ministries, big energy producers (68)	Up to 21% globally in 1 y (68)	National policy (68)	10 to 20 y (including the policy-formative phase) (161)
+STI1.2: Decentralized energy production	Citizens, communities (73), local governments (162), policy makers (163), energy planners (164)	Up to 100% in power supply (61)	Community/town governance (165)	Less than 10 y (81)
+STE2: Human settlements	STI2.2: Carbon-neutral cities	The demand for fossil-fuel–free technology	City administration, citizens, and citizen groups (166)	Reduction by 32% in 14 y (91)	Urban governance (91)	Approximately 10 y (91).
+STE3: Financial market	STI3.1: Divestment movement	Profitability of fossil fuel exploitation	Financial investors (96)	26% emissions tied to investments of a large Canadian university (167)	Market exchange, enterprise (98)	Very rapid, could occur within hours (142)
+STE4: Norms and values system	STI4.1: Recognition of the immoral character of fossil fuels	The perception of fossil fuels as immoral	Peer groups, environmental organizations, youth, opinion leaders (168–170)	Unprecedented	Informal institutions, enforcement through peer groups (171)	30 to 40 y (172)
+STE5: Education system	STI5.1: Climate education and engagement	Climate change and impacts awareness	Teachers, climate educators (117), youth (113)	Up to 30% reduction in 2 y in the emissions of the Italian households included in the study (124)	National policy (173)	10 to 20 y (173)
+STE6: Information feedback	STI6.1: Emission information disclosure	The number of products and services disclosing their carbon emissions	The business and producers; governments for setting disclosure guidelines and regulations (174)	Up to 10% reduction of emissions in UK households' grocery consumption in a year (175)	Market, exchange (176); enterprise (177)	A few years (178)
+STIs in the energy production system.
+The technological development in the energy production system is a dominant element of the decarbonization discussions in international institutions (55, 56) and business partnerships (57). The results of our expert elicitation confirm that technology development is likely to play a key role, however, not in the sense of yet-to-be invented technological solutions, but rather in the adaptation of existing carbon-free technology primarily in the power sector and by facilitating a smarter utilization of energy. The main control parameter that drives the adaptation of fossil-fuel–free energy technology is associated with the financial returns of its adoption (58). Our expert group believed that the critical condition needed to trigger the tipping process is the moment when fossil-fuel–free energy production yields higher financial returns than the energy production based on fossil fuels. The empirical data show that this critical threshold is about to be reached; the prices of renewables have dropped sharply in the last few years, and they have already become the cheapest source of energy in many world regions. The average cost of onshore wind dropped by 18%, and offshore wind fell by 28% (59). The costs of photovoltaic modules fell by about 20% with every doubling of cumulative capacity since the 1970s (60) and the key role in reducing the cost of photovoltaics was played by policies that stimulate market growth (26). Optimization modeling shows that renewable energy supplies can potentially supply 100% of human power demand (61), and in theory, rapid transformation to low energy demand is possible (30) and will be cost-effective in the long run (62). However, there are large costs associated with adapting existing infrastructure and supply and demand support services to meet the demands of nondispatchable, volatile renewable sources like wind and solar in electricity generation. The question is whether the cost of transforming the energy infrastructure is worthwhile compared to the cost of inaction. The prioritization of societal preferences in the competition for scarce budgetary resources is influenced by the dominant social values (63).
+Our expert group believed that redirecting national subsidy programs to renewables and low-carbon energy sources or removing the subsidies for fossil-fuel technologies are the tipping interventions that are needed for the take-off and diffusion of fossil-fuel–free energy systems. The key actors who have the agency to implement these interventions include national governments and energy ministries, and the response of large energy companies is important. One-third of global industrial greenhouse gas emissions can be linked just to 29 oil and gas companies (64). The International Energy Agency has tracked fossil-fuel subsidies over the last decade and in 2009 estimated that $312bn was spent worldwide in fossil-fuel subsidies, compared to $57bn on renewables in that year (65). By 2015, the gap had narrowed, but the subsidies received by fossil fuels were still more than twice those of renewables (66). Estimates show that a universal phaseout of fossil-fuel subsidies could lower annual carbon emissions by 4.4% (67). Coady et al. (68) argue that eliminating subsidies for fossil fuels would have reduced global carbon emissions in 2013 by 21%.
+Furthermore, our expert group believed that the global energy production and storage system can also be radically changed by decentralization of energy production. Since large power stations relying on coal, oil, or gas exploitation are not profitable below a certain threshold of households supplied, decentralized generation systems and transitioning to local power generation might be expected to lead to a virtually complete decarbonization of production systems (69, 70). However, this is also likely to lead to an increase in costs due to the loss of economies of scale (69), and the complexities of integrating variable, distributed power sources (71). This emphasizes the need for decentralized energy generation and demand management to be part of the wider energy systems transformation (72). It has been argued that citizens also have a major role to play as nodes in a smart system capable of facilitating flexible demand management (73). Some authors also warn that meeting current levels of demand (let alone future projected demand) with renewables alone is likely to be extremely difficult (74, 75). Nonetheless, interest in decentralized control of energy systems is growing. Across the Global North, there are a multitude of examples of energy cooperatives and community-driven energy projects (76). Such projects have often found creative ways to overcome limitations imposed by centralized distribution networks, e.g., by using smart technologies to divert excess power for local heating (77), or by bringing municipal supply networks into community ownership (78). They show such initiatives may also spark around the Global South by skipping the “megadevelopment” phase associated with large power stations and massive grid infrastructure expansion. Due to the positive knowledge and technology spillover effects from such decentralized systems, the technology costs are likely to be further reduced with their increased diffusion (79, 80). The time elapsing between the planning phase and actual installation and utilization of decentralized energy generation is reportedly less than 10 y (81). However, existing energy systems and infrastructure are likely to shape the future for decades to come (82).
+STIs in human settlements.
+Direct and indirect emissions from buildings account for almost 20% of all carbon emissions, and we observe an unprecedented scale of global urbanization; each week the global urban population increases by 1.3 million (55). The average life span of buildings is about 50 y (83). Public infrastructure and planning structures can last even longer (50 to 150 y) and play an active role in both climate mitigation and adaptation (84). Modifying building codes for construction and infrastructural projects can actively drive the demand for fossil-fuel–free technologies and are crucial especially for countries in the Global South, where building booms are driving up energy and other resource use (85). An example of a STI in this realm is the creation of large-scale demonstration projects such as carbon-neutral cities. These are important in order to educate the general public and stimulate consumer interest in environmental technologies, accelerating their dissemination and commercialization (85). In addition, local technology clusters create positive spillover effects of lowering the information and transaction costs (86), which can indirectly lead to a reduction in the costs of fossil-fuel–free technologies for energy production and storage. The critical conditions for social tipping in this control parameter would be achieved if the fossil-fuel–free technology became the first choice for new construction and infrastructure projects. There are many new construction materials that not only imply lower emissions but also could actively support carbon sequestration efforts in urban areas. To give an example, constructing a 142-m-high residential building using above 80% laminated timber could lead to sequestrating 21,040 tons CO2 and avoiding 50,000 tons CO2 emissions otherwise entailed in using standard construction materials such as steel and concrete, which is equivalent to the amount 33,000 cars emit per year (87). In addition, large-scale public infrastructure investments support the emergence of a shared belief in the emerging new social equilibrium that can help individuals coordinate changes and find new focal points (88). The example of the Transition Town Movement that started in 2006 in the United Kingdom and in 2014 spanned over 41 countries shows how local grassroots initiatives can encourage citizens to take direct action toward lowering energy demand and building local resilience despite lack of policy support at national levels (89). Another example includes the Energy Cities Association, whose primary goal is to accelerate the transition to sustainable energy in urban areas in Europe. The Association was created in 1990 and currently represents more than 1,000 towns and cities in 30 countries (90). The evidence from a case study on communities implementing plans for zero emissions shows that these communities were able to reduce their per-capita emissions by 32% in 14 y (91).
+STIs in the financial system.
+The financial crisis in 2008 demonstrated how rapidly changes in the market value of assets in one sector and country can propagate and destabilize the global system of human societies and accelerate changes at the level of individual investment and consumption behavior as well as collective-organizational and policy responses (92). Maintaining global warming below 2 °C implies that 33% of oil, 49% of gas, and 82% of coal resources should not be burned (93). This suggests there might be a risk of a carbon bubble, caused by the financial exposure from stranded assets, which could be driven by policy, technological innovation, or investors’ decisions (94). A growing number of analysts believe a financial bubble is emerging that could burst when investors’ belief in carbon risk reaches a certain threshold (95). Simulations show that just 9% of investors could tip the system, inducing other investors to follow (96). An example of an intervention that can lead to a rapid decline in the control parameter—the value of fossil-fuel assets—is the divestment movement; as it progresses, it results in the reduction of the value of fossil-fuel assets (97). The movement started with a student campaign in 2011 and is quickly expanding to other countries and types of asset owners. The value of investment funds committed to selling off fossil-fuel assets reached $5.2tn in 2016, doubling in just over a year and permeating enterprises in every sector of society, with examples including universities, faith groups, pension funds, and insurance companies (98). Ritchie and Dowlatabadi (94) present model scenarios showing that a major Canadian university could reduce the greenhouse gas emissions tied to its investments by up to 26% by restructuring its portfolios, moving investments away from greenhouse gas-intensive sectors. Many divestment campaigns have an additional “divest to reinvest” element that advocates using funds invested in fossil-fuel companies to reinvest in socially and environmentally beneficial projects, such as low-carbon and renewable schemes (99), creating the positive-feedback interactions with the STE1. An avalanche effect would be triggered if national banks and insurance companies warned against the global risk associated to stranded assets from fossil-fuel projects. These concerns are growing in Europe, and there are already signs of a tipping point, namely cuts in financial and insurance support for coal projects (100). Norwegian financial authorities might soon be divesting the country’s sovereign wealth fund. Around 6% (€30bn) of this fund’s wealth is invested in oil and gas companies (101).
+STIs in the system of norms and values.
+The extraction and use of fossil fuels out of line with the Paris Climate Agreement targets is arguably immoral, as it would cause widespread grave and unnecessary harm (97). The impact of greenhouse gas emissions disproportionately affects the most vulnerable social groups, such as women and children (102). It also affects the well-being of future human generations (103) and causes many direct negative health effects (104). Historical cases show that social and moral norms can affect human behavior on a large scale (38). The abolition of the transatlantic slave trade, for example, showed that changes in the ethical perception of slave labor at that time were consciously initiated by a small group of intellectuals (105). Revealing the moral implication of the continued burning of fossil fuels is an example of an intervention that is likely to induce a tipping process through changes in the human normative system, i.e., the system of moral and behavioral norms that influence what is rewarded and desired in the society. Norms can develop through social networks in neighborhoods or workplaces and support certain lifestyles or technology choices (106). A study on the installation of photovoltaic panels by home owners showed social networks and dwelling proximity explained the owners’ decision to install photovoltaic panels on their homes (107). The control parameter is represented by the ethical perception of fossil fuels, the environmental externalities they generate, and the broader harm they visit on societies. The critical condition in the control parameter will be achieved if the majority of social and public opinion leaders recognize the ethical implications of fossil fuels and generate pressure in their peer groups to ostracize the use of products involving fossil fuel burning. This could be more widespread in religious communities and be led by spiritual leaders, perhaps following the example of Pope Francis’s encyclical Laudato si’ (108). It could alternatively be manifested as a secular trend originating mainly from young, intellectually and social justice-oriented groups of people who might actively stand against supporters of fossil fuels—these would include extraction and utilization companies, governments supporting the latter, as well as the superrich family clans generating wealth from fossil fuel extraction and utilization in the last 150 y. The wealth of about 11% of the world’s billionaires is related to energy production (excluding solar and wind), mining, and other natural resource utilization (109). Recent experimental evidence shows that dominant social conventions or established behavior can be changed by committed minorities of roughly 25% of a group (36). Social norms are the sources of law (110); therefore, recognizing the immoral character of fossil fuels can further lead to regulations restricting the use and extraction of fossil fuels (111).
+The time elapsing from the recognition of the activity as a problem and as a matter of a moral choice by international legal scholars, religious groups, and other moral entrepreneurs, to international delegitimization might range from a few decades to a few centuries. The slavery abolition movement started in 1772 in England and led to the abolition of the slave trade in 1807 and in the 1833 to the total abolition of slavery in the British Empire. The historical data show that although the number of slaves traded in the British Empire dropped to zero by 1826, the number of internationally traded slaves started to decrease around the mid-19th century. However, after reaching its peak, the number of slaves traded internationally decreased exponentially within just a few years. In the period 1851 to 1860, 71% fewer slaves disembarked than in the period 1841 to 1850 (https://slavevoyages.org/). A more recent example of outlawing the use of substances responsible for ozone depletion showed that such changes might occur in less than 30 y (112). However, the financial and political power of the fossil fuel industry suggests the need for much more substantial political effort to ensure such a change, than would have been the case for the issue of ozone depletion (99). There is recent anecdotal evidence that protests, such as the #FridaysForFuture climate strikes of school students around the world, the Extinction Rebellion protests in the United Kingdom, and initiatives such as the Green New Deal in the United States, might be indicators of this change in norms and values taking place right now (113).
+STIs in the education system.
+Many examples of research confirm the role of education in social transformations (114) and tackling climate change concerns (115, 116). The control parameter that relates to this intervention is the coverage of climate change issues in school and university teaching programs. While many teachers include some, often thin, coverage of climate change (117), comprehensive approaches at all levels of public education are still rare. Lack of knowledge about the causes, impacts, and solutions to climate change was the most easily identifiable individual barrier to engagement in climate action in the United Kingdom (118). At the same time, studies show that the divergent ways of understanding climate change draw on discourses broader than scientific knowledge; these differences may be blamed for misinterpretation of scientific notions such as uncertainty (119) as well as for the tendency to attribute responsibility for causing and mitigating climate change to others (118). Formal and lifelong education is traditionally considered a slow and evolving process, but there are examples of rapid change that can be generated. Quality education supports and amplifies norms and values and can quickly inspire behavior change among individuals and their cohorts. In addition, massive literacy campaigns, such as the one that took place in Cuba in the 1950s, where in a less than a year illiteracy was reduced from 24 to 3.9% (120), demonstrate the potential for rapid societal transformation. The effects of changes in educational programs can also lead to a social tipping process as soon as the new generation enters the job market and public decision-making bodies. The recent #FridaysForFuture protests demonstrate the upcoming new generation might radically change the political scene. It is estimated that within just half a year the school children movement grew to 1.5 million students in 125 countries. The effects of educational campaigns can be strengthened by a supportive family and community context as well as by media campaigns, advertising bans, higher taxes, use prohibitions, and lawsuits against producers (121). Warner (122) shows that combined educational and mass-media campaigns in the 1970s in the United States led to 4 to 5% annual decrease in cigarette consumption. In the climate change context, Dietz et al. (123) show that interventions that combine mass-media messages, household- and behavior-specific information, and communication through individuals’ social networks and communities could lead to reductions of 20% in household direct emissions in less than 10 y, with little or no reduction in household well-being. An educational campaign carried out in five Italian cities for 2 y, involving teachers, pupils, and citizens, resulted in an emission reduction in a range of 7 to 30% in the 247 families included in the research (124). That said, education to bolster understanding of the causes and effects of climate change, however important, will not be sufficient to transform society alone. Sustainability cannot be imposed, it has to be learned, so that is endogenously realized and enacted deliberately by the actors who constitute the SES (46). Engagement and the fostering of sustainable lifestyles and career pathways by transforming schools into living laboratories (125) is necessary to counter the often overlooked shadow side of education, since the secondary and higher levels of education are currently associated with higher resource use (126).
+STIs through information feedbacks.
+The last tipping intervention is related to the flow of information and creating positive information feedbacks. The control parameter is represented by the transparency of the impact of individual consumer and lifestyle choices and carbon emissions. Transparency and disclosure of information about carbon emissions are needed, for instance, not just to provide a solid basis for global, regional, and national policies (127) but also to increase public and consumer awareness and improve labeling programs (128), triggering action and lifestyle changes to support decarbonization (129). The recent disclosure of the close ties between RWE, the biggest energy company in Germany, and regional politicians protecting their interest in the lignite coal extraction areas in Hessen led to a nationwide social movement and massive public demonstrations against plans to clear the Hambach Forest (130). Corporate disclosure of carbon assets can also help to overcome the short-term horizons of fund managers (131) and create a positive feedback in the divestment movement.
+Another positive feedback can be identified between the information system and public education. Enhanced public knowledge and understanding by the broader public of the main variables and processes in the Earth’s climate system and their linkages with human activities could increase public sensitivity to emissions-related information (132). Just as most product packages display nutritional facts, some authors propose they could display a second label on “Earth facts” and disclose the information on their carbon footprint and other emissions (133). In comparison, the global market for organic products, driven primarily by health concerns but clearly stimulated by providing clear labeling, increased at rates above 10% per year (134).
+Discussion and Conclusions
+Each of the STEs discussed above exists in the real world in varying degrees, locations, and scales and shows the potential to boost a decarbonization breakthrough. Since social-ecological dynamics are subject to complex processes that cannot be fully anticipated, it is not possible to predict when and where exactly tipping points will be crossed. However, the system can be imperfectly navigated intentionally to achieve certain desirable conditions and capacities (34). The social tipping dynamics are likely to spread through adaptive networks of interactions rather than via straightforward cause–effect systems. The identified interactions between the various STEs mean that they can potentially reinforce one another, making a transition to decarbonization more likely if several are triggered simultaneously (Fig. 3). In addition, crossing multiple tipping points in diverse systems of action increases the likelihood of breaking existing systemic inertia and lock-ins and thereby achieving the climate policy goals (34, 45). The interactions between the nominated candidates for STEs could be organized as different possible transformative pathways leading to crossing tipping points across scales and regions. These “tipping transformative pathways” can potentially show the bottom-up emergence of the global sustainability pathway (SSP1) (135).
+Fig. 3.
+Social tipping elements (STEs) and associated social tipping interventions (STIs) with the potential to drive rapid decarbonization in the World–Earth system. The processes they represent unfold across levels of social structure on widely different timescales, ranging from the fast dynamics of market exchanges and resource allocation on subannual timescales to the slow decadal- to centennial-scale changes on the level of customs, values, and social norms (51).
+One possible transformative pathway that has recently started to materialize has been initiated within the education system by school children who started the climate strikes #FridaysForFuture. The movement is causing “irritations” in personal worldviews (136) and thus might be changing peoples’ norms and values and the ways of thinking and acting, possibly leading to changes in policies and regulations, infrastructure development, as well as individual consumption and lifestyle decisions. For example, as a result of the massive school student protest in Germany, even the traditionally climate-conservative parties recently started to address climate change issues in their programs (137). The increasing awareness of the seriousness of climate change might drive an increasing demand for greenhouse-gas emission disclosure of various products and services. It might also drive an increased recognition of the intergenerationally unethical and immoral character of fossil fuels that will furthermore strengthen the legitimacy of carbon mitigation policies, including the removal of fossil-fuel subsidies. Although changes of norms, customs, and beliefs occur very slowly (138), one should keep mind that now is not year zero of the global sustainability transformation. It has now been 30 y since the Intergovernmental Panel on Climate Change (IPCC) was endorsed by the United Nations and issued its first report recognizing the anthropogenic character of climate change, and many important milestones have been reached since then, including publishing the subsequent IPCC reports, Pope Francis’s encyclical Laudato si’, and numerous events led by artists and activists increasing the concern about climate issues. The example of “flight shaming” that was initiated by a Swedish Olympic athlete and has been popularized in social media (139), shows that society may now be just at the edge of tipping in the realm of social norms and beliefs. The high number of seats that environmentally oriented parities recently won in the European Union (EU) elections (140) shows that EU policy might potentially undergo a substantial shift within the next few years, the EU becoming a global leader in carbon mitigation efforts.
+A global breakthrough could also be initiated at the level of resource allocation by redirecting financial flows in line with the divestment movement and improving information feedbacks by disclosing the greenhouse gas emissions of products and services. At this level, firms take consumption and production decisions constrained by budget as well as by information and technology availability (20, 51). Changes at this level occur continuously. Very rapid changes, at a rate of 50% or more, can occur within a few months. This is shown by public opinion polls on, for example, political preferences following information flows, particularly in online social media (141). Rapid changes in stock markets can occur within hours (142). Nevertheless, such trends rarely lead to bigger changes in human societies without simultaneous institutional changes. The institutional changes, requiring more time, such as transforming the public subsidies and taxation systems, are needed to stabilize the new emerging system. Otherwise the system might become increasingly unstable, bouncing back and forth between the old and new social order, delaying the transformation. A well-documented example of such a phenomenon is the rebound effect (143, 144). Even the frequently quoted “successful” example of feed-in tariffs and German energy transition “Energiewende” to renewables, which used the rapid change in public opinion in the aftermath of the nuclear catastrophe in Fukushima in Japan in 2011, have recently faded away due to the lack of sufficiently sustained societal and policy support (145).
+Many of the nominated candidates for STEs extend beyond achieving greenhouse gas reduction and can be potentially interlinked with achieving other global policy goals, such as the Sustainable Development Goals. Many of the interventions discussed above include a range of well-being and public health cobenefits (68). Solving the climate crisis could be a chance to redesign the global socioeconomic institutions toward achieving a more just and equitable future (146). Several authors point out that environmental catastrophes, including increased severity and frequency of climatic extremes, might act as “windows of opportunity” that give rise to uncertainty and confusion, which might in turn motivate actors to engage in reflective processes and take sharp breaks from the existing procedures and policies (147) (Fig. 3). However, although the opportunity for a revolutionary change might emerge due to external or environmental factors (148), it is important to actively work with the social complexities (Fig. 2) and the relevant key social actors (Tables 2 and 3), to increase public acceptance and support for the transformative changes to come. To ensure that climate-related social learning will take place, it is necessary to understand how changes of perceptions and awareness, motives, and interests of various actors take place and how institutional innovations occur (149).
+We call on both social and natural sciences to engage more intensively in collaborative interdisciplinary research to understand rapid social transformations, STEs, and their interactions with tipping elements in the Earth system. Planetary social-ecological models and machine-learning techniques can help to explore the control parameters and critical thresholds in the trajectory of this World–Earth coevolutionary dynamics (43). We also encourage studies on the archetypes of social transformations (150) in different world regions as well as using insights and methods from the natural sciences to study the complexity of social systems. Both empirical studies and modeling exercises could also help to assess the distributional impacts of STIs and factors influencing their effectiveness. Our study presents a comprehensive empirical analysis of social tipping dynamics for global decarbonization. However, since our results were derived from an elicitation process involving small and nonrepresentative samples of experts, more research is needed to verify our findings and to provide more robust empirical evidence and data. Experts from the research sector and the Global North were overrepresented in our sample. Therefore special attention should be given to the expertise of low-carbon and sustainability practitioners as well as to providing more empirical material from the Global South. Finally, the urgency and complex character of climate change require transdisciplinarity and engagement with social movements, knowledge brokers, and change leaders (151). More research is needed on understanding the required social processes and the drivers and incentives for short-term engagement of diverse coalitions of action around concrete solutions and strategies at various governance levels (152).
+Materials and Methods
+The primary data collection tool was an online expert survey that was sent to over 1,000 international experts through a private message or addressed through mailing lists of organizations in the field of climate change and sustainability. A full list of all survey questions as well details on the research organization are provided in SI Appendix. The survey ran for 2.5 mo, and it was completed by 133 experts. In total, they suggested 207 candidates for STEs and interventions instrumental for decarbonization by 2050. A selected group of 17 experts were invited for a workshop that focused on choosing the top candidates for STEs. Finally, the coauthors carried out a literature review on the top candidates selected at the workshop, following the literature review guidelines.
 """
 def dividir_texto(texto, longitud):
     partes = []
