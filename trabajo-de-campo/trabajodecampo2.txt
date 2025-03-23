@@ -1,0 +1,121 @@
+proceso de investigacion->investigadores->produccion de conocimientos->validez->contexto historico, social, economico, politico y cultural
+	|				    |                \
+	V				    v		      L>estado del arte->conocimientos disponibles
+tema/problema de investigacion		 producto final
+	|
+	V
+que quiero investigar?
+	|
+	V
+focalizacion (objeto de estudio)
+
+relevancia social y propositos fundamentacion
+
+definir tema y hacer preguntas
+
+jerarquizar preguntas
+
+cuales son las mas interesantes
+
+cuales se pueden agrupar
+
+armar la pregunta final de la investigacion
+
+problema de investigacion es una pregunta
+
+con signos de interrogacion
+
+una sola
+
+lluvia de preguntas
+
+definir conceptualmente
+
+pregunta academica no es lo mismo que una pregunta de investigacion
+
+¿Qué enfoques funcionan mejor? 
+¿Es más efectivo usar plataformas visuales como Scratch para empezar, o es mejor arrancar directamente con lenguajes como Python? 
+¿Cómo se puede motivar a los pibes para que no vean la programación como algo aburrido o difícil? 
+cómo se integran las nuevas tecnologías, como la inteligencia artificial, el desarrollo de apps o el uso de herramientas colaborativas, en el aula?
+¿Están las escuelas preparadas para incorporar estos avances, o hay una brecha entre lo que se enseña y lo que el mundo actual demanda?
+¿Qué temas les resultan más interesantes? 
+¿Qué herramientas o metodologías los motivan más?
+
+
+Tema de interés: La enseñanza de informática en la escuela secundaria de Buenos Aires: metodologías y tecnologías para enseñar programación a adolescentes
+
+Como analista de sistemas y profesor de informática, me interesa investigar cómo se enseña programación en las escuelas secundarias de Buenos Aires. La informática es una herramienta clave en el mundo actual, y saber programar no solo abre puertas laborales, sino que también fomenta el pensamiento lógico, la creatividad y la resolución de problemas. Sin embargo, en muchas escuelas, la enseñanza de la programación parece estar desactualizada o no adaptarse a las necesidades de los adolescentes, que, si bien son nativos digitales, no siempre saben cómo crear con tecnología.
+
+Mi objetivo es explorar cuáles son las mejores metodologías y tecnologías para enseñar programación a adolescentes. ¿Qué enfoques funcionan mejor? ¿Es más efectivo usar plataformas visuales como Scratch para empezar, o es mejor arrancar directamente con lenguajes como Python? ¿Cómo se puede motivar a los pibes para que no vean la programación como algo aburrido o difícil? Además, me interesa indagar cómo se integran las nuevas tecnologías, como la inteligencia artificial, el desarrollo de apps o el uso de herramientas colaborativas, en el aula. ¿Están las escuelas preparadas para incorporar estos avances, o hay una brecha entre lo que se enseña y lo que el mundo actual demanda?
+
+Para llevar adelante esta investigación, pienso entrevistar a varios actores clave. Por un lado, familiares que tengan hijos en la secundaria, para conocer su perspectiva sobre cómo los adolescentes se relacionan con la tecnología y qué expectativas tienen sobre su educación. Por otro lado, profesores de informática, que pueden aportar su experiencia sobre los desafíos que enfrentan al enseñar programación en un contexto escolar. En particular, quiero consultar a la profesora de nuevas tecnologías que da clase los martes a las 20:40, ya que su experiencia en el aula seguramente ofrecerá buenas perspectivas. También planeo hablar con los propios estudiantes, para entender qué les gustaría aprender y cómo les gustaría que se les enseñe cuando yo haga las prácticas del Taller 3. ¿Qué temas les resultan más interesantes? ¿Qué herramientas o metodologías los motivan más?
+
+La elección de este tema se basa en mi propia experiencia como analista y en la convicción de que la educación en informática tiene que evolucionar para preparar a los pibes para el futuro. En Argentina, y especialmente en Buenos Aires, hay una brecha entre lo que se enseña en las escuelas y lo que el mercado laboral y la sociedad actual demandan. Muchas veces, los contenidos están desactualizados o no se enseñan de manera práctica, lo que genera desinterés en los estudiantes. Si logramos encontrar metodologías y tecnologías que hagan la programación más accesible y atractiva, podemos formar a una generación de jóvenes no solo consumidores de tecnología, sino también creadores.
+
+Además, este tema tiene un impacto social importante. En un mundo cada vez más digitalizado, la falta de habilidades en programación puede dejar a los jóvenes en desventaja. Por eso, es crucial que las escuelas secundarias de Buenos Aires adopten enfoques innovadores y herramientas modernas para enseñar informática. Esto no solo mejorará las oportunidades laborales de los estudiantes, sino que también les permitirá desarrollar habilidades clave para el siglo XXI, como el pensamiento crítico, la colaboración y la adaptabilidad.
+
+	recomendacion de textos por parte de los profesores
+
+tarea para la proxima
+buscar sobre el tema
+leer el texto de sirvent "situacion problematica" contexto de descubrimiento condiciones
+entender el planteo del autor
+buscar que me sirve del texto
+definir una unica pregunta de investigacion
+la mejor pregunta posible, lo que voy a poder investigar
+no hay buenas y malas, solo validas
+
+herramientas o metodologia
+motivacion, ensenanza o aprendizaje
+no usar Y/O en la pregunta
+
+Objeto de estudio elegido:
+"La efectividad de las metodologías y herramientas tecnológicas para enseñar programación a adolescentes en escuelas secundarias de Buenos Aires".
+Definición del tema
+
+El foco está en analizar qué estrategias pedagógicas y recursos tecnológicos logran que la enseñanza de programación sea más accesible, motivadora y alineada con las demandas actuales, considerando las particularidades de los adolescentes como nativos digitales y las limitaciones del sistema educativo.
+Jerarquización y agrupación de preguntas
+1. Preguntas centrales (vinculadas directamente al objeto de estudio)
+
+    ¿Qué herramientas o metodologías motivan más a los estudiantes?
+    Razón: Es clave para combatir la percepción de la programación como algo aburrido o difícil.
+
+    ¿Es más efectivo usar plataformas visuales como Scratch o arrancar directamente con Python?
+    Razón: Define el enfoque inicial de enseñanza y su impacto en la curva de aprendizaje.
+
+    ¿Cómo se integran nuevas tecnologías (IA, desarrollo de apps) en el aula?
+    Razón: Conecta con la relevancia práctica de lo enseñado.
+
+2. Preguntas complementarias (contextuales o de apoyo)
+
+    ¿Qué temas les resultan más interesantes a los estudiantes?
+    Razón: Ayuda a personalizar los contenidos, pero depende de las metodologías elegidas.
+
+    ¿Cómo motivar a los pibes para que no vean la programación como algo aburrido?
+    Razón: Es una consecuencia de elegir metodologías y herramientas efectivas.
+
+3. Pregunta macro (marco del problema)
+
+    ¿Hay una brecha entre lo que se enseña y lo que el mundo actual demanda? ¿Están las escuelas preparadas para incorporar avances tecnológicos?
+    Razón: Es el trasfondo que justifica la investigación, pero responde a un diagnóstico previo.
+
+Pregunta final más importante
+
+¿Qué herramientas o metodologías motivan más a los estudiantes y logran una enseñanza efectiva de programación en las escuelas secundarias de Buenos Aires?
+¿Por qué esta pregunta?
+
+    Es específica y accionable: Permite identificar soluciones concretas (ej.: Scratch vs. Python, proyectos prácticos vs. teoría).
+
+    Integra motivación y efectividad: Aborda el núcleo del problema (desinterés de los estudiantes) y la calidad educativa.
+
+    Conecta con la realidad local: Considera las limitaciones de infraestructura y formación docente en Buenos Aires.
+
+Cómo se relaciona con las demás:
+
+    La elección de Scratch o Python (pregunta 2) y la integración de IA/apps (pregunta 4) son subtemas dentro de esta pregunta.
+
+    La brecha educativa (pregunta 5) es el marco que justifica por qué es urgente responderla.
+
+Conclusión
+
+Centrarse en herramientas y metodologías motivadoras permite abordar el problema de manera práctica, con resultados aplicables al aula. Las demás preguntas (brecha, temas de interés) son complementos para contextualizar la respuesta, pero la prioridad es resolver cómo enseñar mejor en un contexto concreto: las escuelas secundarias de Buenos Aires.
