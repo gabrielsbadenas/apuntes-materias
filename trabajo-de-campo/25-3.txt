@@ -1,0 +1,69 @@
+caratula
+primer avance - desarrollo
+1. titulo del trabajo (tema) -> anticipar de que se trata el trabajo
+2. justificacion/introduccion->relevancia social y propositos
+porque quiero investigar esto. 500 palabras o media pagina. no mas que eso.
+3. formulacion del problema->preguntas del problema
+cual va a ser mi problema especifico de investigacion
+se tiene que poder formular como una pregunta
+1 o 2 preguntas
+es la que abre la investigacion
+
+una investigacion falla si:
+pregunta mal formulada
+mal precisados los objetivos
+esta mal planteada la hipotesis
+
+
+4. formulacion de los objetivos generales y especificos
+los objetivos son metas cognitivas
+que tipo de conocimiento queremos producir en la investigacion
+ej: identificar cual es el enfoque mas usado
+comparar
+si tengo la pregunta voy a poder obtener el problema
+5. formulacion de la hipotesis (si corresponde)
+la hipotesis es una suposicion tentativa que intuimos
+una potencial respuesta al problema
+lo que creemos como respuesta antes de hacer el trabajo de campo
+6. esquema conceptual del marco teorico (presentacion de los conceptos mas importantes que dan andamiaje a nuestra investigacion)
+2 o 3 paginas en total
+
+bibliografia utilizada en el cuerpo del trabajo que fue citada.
+autor
+apellido completo, inicial del nombre, year, titulo completo, capitulo numero, editorial, pais o ciudad donde fue editado
+si es digital no va editorial
+revista nombre, numero de la edicion, year, disponible
+fecha en la que se accedio a la pagina
+dentro del trabajo se pone la pagina si es textual. nombre del autor y el year
+
+cuanto mas contexto tenga la ia mejor
+ponerle los titulos de cada punto tipo
+1. titulo: trabajo de etc clickbait
+
+como formular pregunta
+potencia heuristica
+no se responde por si o por no
+tienen que poder generar explicacion
+siempre tienen que tener limitacion espacio temporal
+tienen que ser una replica del tema
+
+el tema, el problema, los objetivo, la hipotesis son lo mismo pero con diferente redaccion
+el objetivo general va a ser "descubrir, indagar, determinar" (siempre con verbos en infinitivo)
+en los estudios exploratorios no conviene hacer hipotesis
+no hay hipotesis neutral
+
+conceptos claves
+herramientas->
+aprendizaje efectivo es el concepto
+que entendemos por efectivo
+unesco escuelas eficacez
+las herramientas que logran un aprendizaje
+que herramientas?
+¿Qué herramientas logran un aprendizaje efectivo de programación en las escuelas secundarias de Buenos Aires?
+
+determinar que herramientas logran un aprendizaje + efectivo de programacacion en la secundaria.
+objetivos mas especificos
+hipotesis: seria la herramienta que lograria un aprendizaje mas efectivo seria
+
+leer los textos de roxana
+
