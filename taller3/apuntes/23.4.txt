@@ -1,0 +1,7 @@
+distribucion de contenidos por cada clase, fecha y numero de clase
+por cada planificacion de cada clase hacemos otra pagina y las hacemos a medida que se hacen las clases
+mandar la planificacion 48 horas antes y se pueden hacer planificaciones por adelantado
+cosas que no se dieron, horas que no se pudieron dar
+podemos usar el formato que queramos
+poner encabezado con numero y fecha de clases
+armar un borrador de la siguiente cuando se arma la de la primera

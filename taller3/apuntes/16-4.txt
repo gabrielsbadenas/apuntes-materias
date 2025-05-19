@@ -1,0 +1,23 @@
+Opciones de títulos:
+
+    "Tecnología con responsabilidad: construyendo entornos digitales seguros"
+    (Destaca el uso consciente y la acción proactiva).
+
+    "Juventud digital: herramientas para un uso seguro y creativo de las redes"
+    (Enfocado en la formación y el potencial positivo de la tecnología).
+
+    "Conectados, pero protegidos: estrategias para una vida digital saludable"
+    (Equilibra la hiperconexión con el cuidado personal).
+
+    "De espectadores a creadores: cómo usar las redes con conciencia crítica"
+    (Empodera a los estudiantes como agentes de cambio).
+
+    "Hacia una comunidad digital respetuosa: prevención y creatividad en las TIC"
+    (Integra el arte y la prevención con un tono colaborativo).
+
+
+"Los alumnos crearán producciones artísticas como protagonistas del proceso creativo. Organizados en subgrupos, intercambiarán perspectivas y debatirán sobre la temática, retomando los análisis realizados durante las etapas previas de investigación y reflexión."
+
+fundamentacion:
+planteo del centro de estudiantes
+planteo en tutoria
